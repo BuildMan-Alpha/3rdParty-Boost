@@ -1,0 +1,13 @@
+/CMakeLists.txt////*////
+/CONTRIBUTING.md////*////
+/Jamfile////*////
+/LICENSE.txt////*////
+/README.md////*////
+/RELEASES.md////*////
+/conanfile.txt////*////
+/index.html////*////
+/sublibs////*////
+D/doc////////
+D/example////////
+D/meta////////
+D/test////////

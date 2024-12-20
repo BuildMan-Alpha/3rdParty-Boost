@@ -1,0 +1,8 @@
+/anderson_darling.hpp////*////
+/bivariate_statistics.hpp////*////
+/linear_regression.hpp////*////
+/ljung_box.hpp////*////
+/runs_test.hpp////*////
+/signal_statistics.hpp////*////
+/t_test.hpp////*////
+/univariate_statistics.hpp////*////

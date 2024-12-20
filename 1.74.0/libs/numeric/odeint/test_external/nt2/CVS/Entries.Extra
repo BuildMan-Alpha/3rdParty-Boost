@@ -1,0 +1,6 @@
+/Jamfile.v2////*////
+/algebra_dispatcher.cpp////*////
+/copy.cpp////*////
+/is_resizeable.cpp////*////
+/norm_inf.cpp////*////
+/resize.cpp////*////

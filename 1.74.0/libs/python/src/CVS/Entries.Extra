@@ -1,0 +1,17 @@
+/dict.cpp////*////
+/errors.cpp////*////
+/exec.cpp////*////
+/fabscript////*////
+/import.cpp////*////
+/list.cpp////*////
+/long.cpp////*////
+/module.cpp////*////
+/object_operators.cpp////*////
+/object_protocol.cpp////*////
+/slice.cpp////*////
+/str.cpp////*////
+/tuple.cpp////*////
+/wrapper.cpp////*////
+D/converter////////
+D/numpy////////
+D/object////////

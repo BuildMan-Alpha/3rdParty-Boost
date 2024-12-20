@@ -1,0 +1,9 @@
+/distance_predicates.hpp////*////
+/equal_to.hpp////*////
+/indexable.hpp////*////
+/inserter.hpp////*////
+/parameters.hpp////*////
+/predicates.hpp////*////
+/rtree.hpp////*////
+D/adaptors////////
+D/detail////////

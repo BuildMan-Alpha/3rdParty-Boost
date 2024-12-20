@@ -1,0 +1,10 @@
+/exp_sinh.hpp////*////
+/gauss.hpp////*////
+/gauss_kronrod.hpp////*////
+/naive_monte_carlo.hpp////*////
+/ooura_fourier_integrals.hpp////*////
+/sinh_sinh.hpp////*////
+/tanh_sinh.hpp////*////
+/trapezoidal.hpp////*////
+/wavelet_transforms.hpp////*////
+D/detail////////

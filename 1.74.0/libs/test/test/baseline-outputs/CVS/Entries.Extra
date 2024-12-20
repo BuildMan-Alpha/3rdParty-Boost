@@ -1,0 +1,11 @@
+/errors-handling-test.pattern////*////
+/errors-handling-test.pattern2////*////
+/global-fixtures-test.pattern////*////
+/log-count-skipped-tests.pattern////*////
+/log-formatter-context-test.pattern////*////
+/log-formatter-test.pattern////*////
+/log-formatter-test.pattern.junit////*////
+/messages-in-datasets-test.pattern////*////
+/result-report-test.pattern////*////
+/result_report_test.pattern.default_behaviour////*////
+/test_tools-test.pattern////*////

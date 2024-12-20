@@ -1,0 +1,12 @@
+/digit_to_int.hpp////*////
+/digit_to_int_c.hpp////*////
+/in_range.hpp////*////
+/in_range_c.hpp////*////
+/int_to_digit.hpp////*////
+/int_to_digit_c.hpp////*////
+/is_digit.hpp////*////
+/is_lcase_letter.hpp////*////
+/is_letter.hpp////*////
+/is_ucase_letter.hpp////*////
+/is_whitespace.hpp////*////
+/is_whitespace_c.hpp////*////

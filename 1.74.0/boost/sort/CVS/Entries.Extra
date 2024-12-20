@@ -1,0 +1,11 @@
+/sort.hpp////*////
+D/block_indirect_sort////////
+D/common////////
+D/flat_stable_sort////////
+D/heap_sort////////
+D/insert_sort////////
+D/parallel_stable_sort////////
+D/pdqsort////////
+D/sample_sort////////
+D/spinsort////////
+D/spreadsort////////

@@ -1,0 +1,13 @@
+/all_gather_test.py////*////
+/all_reduce_test.py////*////
+/all_to_all_test.py////*////
+/broadcast_test.py////*////
+/gather_test.py////*////
+/generators.py////*////
+/nonblocking_test.py////*////
+/reduce_test.py////*////
+/ring_test.py////*////
+/scan_test.py////*////
+/scatter_test.py////*////
+/skeleton_content_test.cpp////*////
+/skeleton_content_test.py////*////

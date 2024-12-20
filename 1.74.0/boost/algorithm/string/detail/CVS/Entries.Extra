@@ -1,0 +1,15 @@
+/case_conv.hpp////*////
+/classification.hpp////*////
+/find_format.hpp////*////
+/find_format_all.hpp////*////
+/find_format_store.hpp////*////
+/find_iterator.hpp////*////
+/finder.hpp////*////
+/finder_regex.hpp////*////
+/formatter.hpp////*////
+/formatter_regex.hpp////*////
+/predicate.hpp////*////
+/replace_storage.hpp////*////
+/sequence.hpp////*////
+/trim.hpp////*////
+/util.hpp////*////

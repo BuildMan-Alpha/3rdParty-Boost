@@ -1,0 +1,8 @@
+/deleter.hpp////*////
+/enable_shared_from_this.hpp////*////
+/intrusive_ptr.hpp////*////
+/scoped_ptr.hpp////*////
+/shared_ptr.hpp////*////
+/unique_ptr.hpp////*////
+/weak_ptr.hpp////*////
+D/detail////////

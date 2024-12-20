@@ -1,0 +1,20 @@
+/Jamfile.v2/1.1/Tue Sep  8 19:34:46 2020//
+/README.md/1.1/Tue Sep  8 19:34:46 2020//
+/adv_scenarios.qbk/1.1/Tue Sep  8 19:34:46 2020//
+/doxygen_reference_generated_doc.xml/1.1/Tue Sep  8 19:34:46 2020//
+/test.qbk/1.1/Tue Sep  8 19:34:46 2020//
+/usage_recommendations.qbk/1.1/Tue Sep  8 19:34:46 2020//
+/usage_variants.qbk/1.1/Tue Sep  8 19:34:46 2020//
+D/adv_scenarios////
+D/closing_chapters////
+D/doxygen////
+D/examples////
+D/html////
+D/introduction////
+D/prod_use////
+D/runtime_configuration////
+D/snippet////
+D/test_organization////
+D/test_output////
+D/testing_tools////
+D/tutorials////

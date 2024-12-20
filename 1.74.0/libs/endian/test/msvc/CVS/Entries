@@ -1,0 +1,20 @@
+/boost-no-inspect/1.1/Tue Sep  8 20:08:25 2020/-kb/
+/common.props/1.1/Tue Sep  8 20:08:25 2020//
+/endian-clang-c2.sln/1.1/Tue Sep  8 20:08:25 2020//
+/endian.sln/1.1/Tue Sep  8 20:08:25 2020//
+D/associated-files////
+D/benchmark////
+D/buffer_test////
+D/conversion_test_clang////
+D/conversion_use_case////
+D/converter_test////
+D/deprecated_test////
+D/endian_example////
+D/endian_in_union_test////
+D/endian_operations_test////
+D/endian_test////
+D/loop_time_test////
+D/scoped_enum_emulation_test////
+D/speed_test////
+D/udt_conversion_example////
+D/uses_cases////

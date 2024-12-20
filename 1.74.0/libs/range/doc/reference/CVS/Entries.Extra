@@ -1,0 +1,13 @@
+/adaptors.qbk////*////
+/algorithms.qbk////*////
+/extending.qbk////*////
+/overview.qbk////*////
+/ranges.qbk////*////
+/semantics.qbk////*////
+/synopsis.qbk////*////
+/utilities.qbk////*////
+D/adaptors////////
+D/algorithm////////
+D/algorithm_ext////////
+D/numeric////////
+D/ranges////////

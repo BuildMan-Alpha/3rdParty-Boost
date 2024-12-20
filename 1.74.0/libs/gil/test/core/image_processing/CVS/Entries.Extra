@@ -1,0 +1,13 @@
+/CMakeLists.txt////*////
+/Jamfile////*////
+/box_filter.cpp////*////
+/harris.cpp////*////
+/hessian.cpp////*////
+/lanczos_scaling.cpp////*////
+/median_filter.cpp////*////
+/simple_kernels.cpp////*////
+/sobel_scharr.cpp////*////
+/threshold_binary.cpp////*////
+/threshold_color_spaces_not_compatible_fail.cpp////*////
+/threshold_otsu.cpp////*////
+/threshold_truncate.cpp////*////

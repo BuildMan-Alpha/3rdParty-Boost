@@ -1,0 +1,13 @@
+/comparable.cpp////*////
+/foldable.cpp////*////
+/from_c_str.cpp////*////
+/hashable.cpp////*////
+/iterable.cpp////*////
+/literal.cpp////*////
+/macro.cpp////*////
+/make.cpp////*////
+/monoid.cpp////*////
+/orderable.cpp////*////
+/searchable.cpp////*////
+/string_c.cpp////*////
+/to.cpp////*////

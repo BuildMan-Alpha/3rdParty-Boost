@@ -1,0 +1,5 @@
+/Makefile////*////
+/lorenz_parameters.cu////*////
+/phase_oscillator_chain.cu////*////
+/phase_oscillator_ensemble.cu////*////
+/relaxation.cu////*////

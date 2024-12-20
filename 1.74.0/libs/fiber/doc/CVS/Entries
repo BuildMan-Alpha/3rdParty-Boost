@@ -1,0 +1,37 @@
+/Jamfile.v2/1.1/Tue Sep  8 20:08:26 2020//
+/NUMA.dia/1.1/Tue Sep  8 20:08:26 2020/-kb/
+/NUMA.png/1.1/Tue Sep  8 20:08:26 2020/-kb/
+/acknowledgements.qbk/1.1/Tue Sep  8 20:08:26 2020//
+/asio.qbk/1.1/Tue Sep  8 20:08:26 2020//
+/barrier.qbk/1.1/Tue Sep  8 20:08:26 2020//
+/buffered_channel.qbk/1.1/Tue Sep  8 20:08:26 2020//
+/callbacks.qbk/1.1/Tue Sep  8 20:08:26 2020//
+/condition_variables.qbk/1.1/Tue Sep  8 20:08:26 2020//
+/cuda.qbk/1.1/Tue Sep  8 20:08:26 2020//
+/customization.qbk/1.1/Tue Sep  8 20:08:26 2020//
+/fiber.qbk/1.1/Tue Sep  8 20:08:26 2020//
+/fibers.qbk/1.1/Tue Sep  8 20:08:26 2020//
+/fibers.xml/1.1/Tue Sep  8 20:08:26 2020//
+/fls.qbk/1.1/Tue Sep  8 20:08:26 2020//
+/future.qbk/1.1/Tue Sep  8 20:08:26 2020//
+/futures.qbk/1.1/Tue Sep  8 20:08:26 2020//
+/hip.qbk/1.1/Tue Sep  8 20:08:26 2020//
+/integration.qbk/1.1/Tue Sep  8 20:08:26 2020//
+/migration.qbk/1.1/Tue Sep  8 20:08:26 2020//
+/mutexes.qbk/1.1/Tue Sep  8 20:08:26 2020//
+/nonblocking.qbk/1.1/Tue Sep  8 20:08:26 2020//
+/numa.qbk/1.1/Tue Sep  8 20:08:26 2020//
+/overview.qbk/1.1/Tue Sep  8 20:08:26 2020//
+/packaged_task.qbk/1.1/Tue Sep  8 20:08:26 2020//
+/performance.qbk/1.1/Tue Sep  8 20:08:26 2020//
+/promise.qbk/1.1/Tue Sep  8 20:08:26 2020//
+/rationale.qbk/1.1/Tue Sep  8 20:08:26 2020//
+/scheduling.qbk/1.1/Tue Sep  8 20:08:26 2020//
+/speculative.qbk/1.1/Tue Sep  8 20:08:26 2020//
+/stack.qbk/1.1/Tue Sep  8 20:08:26 2020//
+/tuning.qbk/1.1/Tue Sep  8 20:08:26 2020//
+/unbuffered_channel.qbk/1.1/Tue Sep  8 20:08:26 2020//
+/when_any.qbk/1.1/Tue Sep  8 20:08:26 2020//
+/worker.qbk/1.1/Tue Sep  8 20:08:26 2020//
+D/html////
+D/uml////

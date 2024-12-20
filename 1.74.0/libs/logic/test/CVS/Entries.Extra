@@ -1,0 +1,6 @@
+/Jamfile.v2////*////
+/tribool_io_test.cpp////*////
+/tribool_rename_test.cpp////*////
+/tribool_test.cpp////*////
+D/compile////////
+D/compile-fail////////

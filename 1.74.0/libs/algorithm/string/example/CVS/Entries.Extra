@@ -1,0 +1,9 @@
+/Jamfile////*////
+/conv_example.cpp////*////
+/find_example.cpp////*////
+/predicate_example.cpp////*////
+/regex_example.cpp////*////
+/replace_example.cpp////*////
+/rle_example.cpp////*////
+/split_example.cpp////*////
+/trim_example.cpp////*////

@@ -1,0 +1,12 @@
+/deque_adaptor.hpp////*////
+/deque_base.hpp////*////
+/deque_views.hpp////*////
+/queue_adaptor.hpp////*////
+/queue_base.hpp////*////
+/queue_op_status.hpp////*////
+/queue_views.hpp////*////
+/sync_bounded_queue.hpp////*////
+/sync_deque.hpp////*////
+/sync_priority_queue.hpp////*////
+/sync_queue.hpp////*////
+/sync_timed_queue.hpp////*////

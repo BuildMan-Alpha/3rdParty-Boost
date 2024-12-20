@@ -1,0 +1,10 @@
+/adapt_callable.hpp////*////
+/adapt_function.hpp////*////
+/function.hpp////*////
+/lazy_list.hpp////*////
+/lazy_operator.hpp////*////
+/lazy_prelude.hpp////*////
+/lazy_reuse.hpp////*////
+/lazy_signature.hpp////*////
+/lazy_smart.hpp////*////
+D/detail////////

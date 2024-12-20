@@ -1,0 +1,17 @@
+/Jamfile.v2////*////
+/at_function_examples.cpp////*////
+/mighty_bimap.cpp////*////
+/population_bimap.cpp////*////
+/projection.cpp////*////
+/repetitions_counter.cpp////*////
+/simple_bimap.cpp////*////
+/standard_map_comparison.cpp////*////
+/step_by_step.cpp////*////
+/tagged_simple_bimap.cpp////*////
+/tutorial_info_hook.cpp////*////
+/tutorial_modify_and_replace.cpp////*////
+/tutorial_range.cpp////*////
+/unconstrained_collection.cpp////*////
+/user_defined_names.cpp////*////
+D/bimap_and_boost////////
+D/mi_to_b_path////////

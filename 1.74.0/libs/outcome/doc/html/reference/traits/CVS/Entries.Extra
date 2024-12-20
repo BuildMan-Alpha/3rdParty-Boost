@@ -1,0 +1,9 @@
+/is_basic_outcome.html////*////
+/is_basic_result.html////*////
+/is_error_code_available.html////*////
+/is_error_type.html////*////
+/is_error_type_enum.html////*////
+/is_exception_ptr_available.html////*////
+/is_failure_type.html////*////
+/is_success_type.html////*////
+/type_can_be_used_in_basic_result.html////*////

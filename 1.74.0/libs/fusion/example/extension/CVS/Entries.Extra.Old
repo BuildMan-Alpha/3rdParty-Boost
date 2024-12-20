@@ -1,0 +1,7 @@
+/Jamfile////*////
+/example_struct.hpp////*////
+/example_struct_iterator.hpp////*////
+/example_struct_type.hpp////*////
+/tag_of.hpp////*////
+/test_example.cpp////*////
+/triple.cpp////*////

@@ -1,0 +1,35 @@
+/action.hpp/1.1/Tue Sep  8 16:12:14 2020//
+/auto.hpp/1.1/Tue Sep  8 16:12:14 2020//
+/auxiliary.hpp/1.1/Tue Sep  8 16:12:14 2020//
+/binary.hpp/1.1/Tue Sep  8 16:12:14 2020//
+/char.hpp/1.1/Tue Sep  8 16:12:14 2020//
+/delimit_flag.hpp/1.1/Tue Sep  8 16:12:14 2020//
+/delimit_out.hpp/1.1/Tue Sep  8 16:12:14 2020//
+/directive.hpp/1.1/Tue Sep  8 16:12:14 2020//
+/domain.hpp/1.1/Tue Sep  8 16:12:14 2020//
+/format.hpp/1.1/Tue Sep  8 16:12:14 2020//
+/format_auto.hpp/1.1/Tue Sep  8 16:12:14 2020//
+/generate.hpp/1.1/Tue Sep  8 16:12:14 2020//
+/generate_attr.hpp/1.1/Tue Sep  8 16:12:14 2020//
+/generator.hpp/1.1/Tue Sep  8 16:12:14 2020//
+/meta_compiler.hpp/1.1/Tue Sep  8 16:12:14 2020//
+/nonterminal.hpp/1.1/Tue Sep  8 16:12:14 2020//
+/numeric.hpp/1.1/Tue Sep  8 16:12:14 2020//
+/operator.hpp/1.1/Tue Sep  8 16:12:14 2020//
+/phoenix_attributes.hpp/1.1/Tue Sep  8 16:12:14 2020//
+/reference.hpp/1.1/Tue Sep  8 16:12:14 2020//
+/stream.hpp/1.1/Tue Sep  8 16:12:14 2020//
+/string.hpp/1.1/Tue Sep  8 16:12:14 2020//
+/what.hpp/1.1/Tue Sep  8 16:12:14 2020//
+D/action////
+D/auto////
+D/auxiliary////
+D/binary////
+D/char////
+D/detail////
+D/directive////
+D/nonterminal////
+D/numeric////
+D/operator////
+D/stream////
+D/string////

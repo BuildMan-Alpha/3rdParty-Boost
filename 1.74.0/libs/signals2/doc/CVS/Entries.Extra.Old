@@ -1,0 +1,12 @@
+/Jamfile.v2////*////
+/examples.xml////*////
+/faq.xml////*////
+/introduction.xml////*////
+/porting.xml////*////
+/rationale.xml////*////
+/signals.xml////*////
+/snippet-extractor.jam////*////
+/snippet_extractor.cpp////*////
+/tests.xml////*////
+/thread_safety.xml////*////
+/tutorial.xml////*////

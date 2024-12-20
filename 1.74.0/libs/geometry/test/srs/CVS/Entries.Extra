@@ -1,0 +1,17 @@
+/Jamfile////*////
+/check_geometry.hpp////*////
+/proj4.hpp////*////
+/projection.cpp////*////
+/projection_epsg.cpp////*////
+/projection_interface_d.cpp////*////
+/projection_interface_p4.cpp////*////
+/projection_interface_s.cpp////*////
+/projection_selftest.cpp////*////
+/projection_selftest_cases.hpp////*////
+/projections.cpp////*////
+/projections_combined.cpp////*////
+/projections_static.cpp////*////
+/spar.cpp////*////
+/srs_transformer.cpp////*////
+/transformation_epsg.cpp////*////
+/transformation_interface.cpp////*////

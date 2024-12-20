@@ -1,0 +1,9 @@
+/atomic.hpp////*////
+/atomic_flag.hpp////*////
+/atomic_ref.hpp////*////
+/capabilities.hpp////*////
+/fences.hpp////*////
+/ipc_atomic.hpp////*////
+/ipc_atomic_flag.hpp////*////
+/ipc_atomic_ref.hpp////*////
+D/detail////////

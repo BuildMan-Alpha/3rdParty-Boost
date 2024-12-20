@@ -1,0 +1,7 @@
+/vexcl.hpp////*////
+/vexcl_abs.hpp////*////
+/vexcl_algebra_dispatcher.hpp////*////
+/vexcl_copy.hpp////*////
+/vexcl_norm_inf.hpp////*////
+/vexcl_resize.hpp////*////
+/vexcl_same_instance.hpp////*////

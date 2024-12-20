@@ -1,0 +1,6 @@
+/CMakeLists.txt////*////
+/Jamfile////*////
+D/dynamic_image////////
+D/io////////
+D/numeric////////
+D/toolbox////////

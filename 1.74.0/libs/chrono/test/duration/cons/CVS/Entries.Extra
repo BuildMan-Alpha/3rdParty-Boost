@@ -1,0 +1,5 @@
+/convert_float_to_int_fail.cpp////*////
+/convert_inexact_fail.cpp////*////
+/implicit_constructot_fail.cpp////*////
+/non_implicit_convertible_rep_fail.cpp////*////
+/treat_as_floating_point_Rep2_true_fail.cpp////*////

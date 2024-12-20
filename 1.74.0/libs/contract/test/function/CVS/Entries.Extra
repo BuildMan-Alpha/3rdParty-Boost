@@ -1,0 +1,12 @@
+/decl.hpp////*////
+/decl_post_all.cpp////*////
+/decl_post_none.cpp////*////
+/decl_pre_all.cpp////*////
+/decl_pre_none.cpp////*////
+/ifdef.cpp////*////
+/ifdef_macro.cpp////*////
+/smoke.cpp////*////
+/throwing_body.cpp////*////
+/throwing_old.cpp////*////
+/throwing_post.cpp////*////
+/throwing_pre.cpp////*////

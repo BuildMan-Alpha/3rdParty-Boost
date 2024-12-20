@@ -1,0 +1,9 @@
+/closure.hpp////*////
+/geometry_id.hpp////*////
+/interior_rings.hpp////*////
+/is_areal.hpp////*////
+/point_order.hpp////*////
+/point_type.hpp////*////
+/ring_type.hpp////*////
+/tags.hpp////*////
+/topological_dimension.hpp////*////

@@ -1,0 +1,16 @@
+/Jamfile////*////
+/calculation_type.cpp////*////
+/compress_variant.cpp////*////
+/for_each_coordinate.cpp////*////
+/is_implemented.cpp////*////
+/math_abs.cpp////*////
+/math_equals.cpp////*////
+/math_sqrt.cpp////*////
+/number_types.hpp////*////
+/promote_integral.cpp////*////
+/range.cpp////*////
+/rational.cpp////*////
+/select_most_precise.cpp////*////
+/transform_variant.cpp////*////
+/tuples.cpp////*////
+/write_dsv.cpp////*////

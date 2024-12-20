@@ -1,0 +1,13 @@
+/all_of.hpp////*////
+/any_of.hpp////*////
+/copy_if.hpp////*////
+/copy_n.hpp////*////
+/find_if_not.hpp////*////
+/iota.hpp////*////
+/is_partitioned.hpp////*////
+/is_permutation.hpp////*////
+/is_sorted.hpp////*////
+/none_of.hpp////*////
+/one_of.hpp////*////
+/partition_copy.hpp////*////
+/partition_point.hpp////*////

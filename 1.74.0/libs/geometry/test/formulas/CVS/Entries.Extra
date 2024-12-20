@@ -1,0 +1,17 @@
+/Jamfile////*////
+/direct.cpp////*////
+/direct_accuracy.cpp////*////
+/direct_cases.hpp////*////
+/direct_cases_antipodal.hpp////*////
+/direct_meridian.cpp////*////
+/direct_meridian_cases.hpp////*////
+/intersection.cpp////*////
+/intersection_cases.hpp////*////
+/inverse.cpp////*////
+/inverse_cases.hpp////*////
+/inverse_cases_antipodal.hpp////*////
+/inverse_cases_small_angles.hpp////*////
+/inverse_karney.cpp////*////
+/test_formula.hpp////*////
+/vertex_longitude.cpp////*////
+/vertex_longitude_cases.hpp////*////

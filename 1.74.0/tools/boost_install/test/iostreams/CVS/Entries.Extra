@@ -1,0 +1,7 @@
+/CMakeLists.txt////*////
+/test.txt.bz2////*////
+/test.txt.gz////*////
+/test_bzip2.cpp////*////
+/test_gzip.cpp////*////
+D/bzip2-1.0.8////////
+D/zlib-1.2.11////////

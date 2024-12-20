@@ -1,0 +1,11 @@
+/cv_function_synthesis.cpp////*////
+/function_pointer.cpp////*////
+/function_reference.cpp////*////
+/function_type.cpp////*////
+/mem_func_ptr_cv1.cpp////*////
+/mem_func_ptr_cv2.cpp////*////
+/mem_func_ptr_cv_ptr_to_this.cpp////*////
+/member_function_pointer.cpp////*////
+/member_object_pointer.cpp////*////
+/transformation.cpp////*////
+/variadic_function_synthesis.cpp////*////

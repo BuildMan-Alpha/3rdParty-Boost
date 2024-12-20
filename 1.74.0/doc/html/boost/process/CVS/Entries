@@ -1,0 +1,39 @@
+/args.html/1.1/Tue Sep  8 16:06:29 2020//
+/argv.html/1.1/Tue Sep  8 16:06:29 2020//
+/async_pipe.html/1.1/Tue Sep  8 16:06:29 2020//
+/async_system.html/1.1/Tue Sep  8 16:06:29 2020//
+/basic_environment.html/1.1/Tue Sep  8 16:06:29 2020//
+/basic_ipstream.html/1.1/Tue Sep  8 16:06:29 2020//
+/basic_native_environment.html/1.1/Tue Sep  8 16:06:29 2020//
+/basic_opstream.html/1.1/Tue Sep  8 16:06:29 2020//
+/basic_pipe.html/1.1/Tue Sep  8 16:06:29 2020//
+/basic_pipebuf.html/1.1/Tue Sep  8 16:06:29 2020//
+/basic_pstream.html/1.1/Tue Sep  8 16:06:29 2020//
+/child.html/1.1/Tue Sep  8 16:06:29 2020//
+/close.html/1.1/Tue Sep  8 16:06:29 2020//
+/cmd.html/1.1/Tue Sep  8 16:06:29 2020//
+/env.html/1.1/Tue Sep  8 16:06:29 2020//
+/error.html/1.1/Tue Sep  8 16:06:29 2020//
+/error_code.html/1.1/Tue Sep  8 16:06:29 2020//
+/error_ref.html/1.1/Tue Sep  8 16:06:29 2020//
+/exe.html/1.1/Tue Sep  8 16:06:29 2020//
+/group.html/1.1/Tue Sep  8 16:06:29 2020//
+/ignore_error.html/1.1/Tue Sep  8 16:06:29 2020//
+/limit_handles.html/1.1/Tue Sep  8 16:06:29 2020//
+/null.html/1.1/Tue Sep  8 16:06:29 2020//
+/on_exit.html/1.1/Tue Sep  8 16:06:29 2020//
+/process_error.html/1.1/Tue Sep  8 16:06:29 2020//
+/search_path.html/1.1/Tue Sep  8 16:06:29 2020//
+/shell.html/1.1/Tue Sep  8 16:06:29 2020//
+/spawn.html/1.1/Tue Sep  8 16:06:29 2020//
+/start_dir.html/1.1/Tue Sep  8 16:06:29 2020//
+/std_err.html/1.1/Tue Sep  8 16:06:29 2020//
+/std_in.html/1.1/Tue Sep  8 16:06:29 2020//
+/std_out.html/1.1/Tue Sep  8 16:06:29 2020//
+/system.html/1.1/Tue Sep  8 16:06:29 2020//
+/throw_on_error.html/1.1/Tue Sep  8 16:06:29 2020//
+D/basic_environment////
+D/basic_native_environment////
+D/extend////
+D/posix////
+D/windows////

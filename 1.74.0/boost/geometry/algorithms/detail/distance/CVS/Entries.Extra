@@ -1,0 +1,16 @@
+/backward_compatibility.hpp////*////
+/box_to_box.hpp////*////
+/default_strategies.hpp////*////
+/geometry_to_segment_or_box.hpp////*////
+/implementation.hpp////*////
+/interface.hpp////*////
+/is_comparable.hpp////*////
+/iterator_selector.hpp////*////
+/linear_or_areal_to_areal.hpp////*////
+/linear_to_box.hpp////*////
+/linear_to_linear.hpp////*////
+/multipoint_to_geometry.hpp////*////
+/point_to_geometry.hpp////*////
+/range_to_geometry_rtree.hpp////*////
+/segment_to_box.hpp////*////
+/segment_to_segment.hpp////*////

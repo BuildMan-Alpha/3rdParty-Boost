@@ -1,0 +1,18 @@
+/char_traits.hpp/1.1/Tue Sep  8 16:12:20 2020//
+/consts.hpp/1.1/Tue Sep  8 16:12:20 2020//
+/debug.hpp/1.1/Tue Sep  8 16:12:20 2020//
+/file_input.hpp/1.1/Tue Sep  8 16:12:20 2020//
+/generate_cpp.hpp/1.1/Tue Sep  8 16:12:20 2020//
+/generate_re2c.hpp/1.1/Tue Sep  8 16:12:20 2020//
+/generator.hpp/1.1/Tue Sep  8 16:12:20 2020//
+/input.hpp/1.1/Tue Sep  8 16:12:20 2020//
+/internals.hpp/1.1/Tue Sep  8 16:12:20 2020//
+/rules.hpp/1.1/Tue Sep  8 16:12:20 2020//
+/runtime_error.hpp/1.1/Tue Sep  8 16:12:20 2020//
+/size_t.hpp/1.1/Tue Sep  8 16:12:20 2020//
+/state_machine.hpp/1.1/Tue Sep  8 16:12:20 2020//
+/string_token.hpp/1.1/Tue Sep  8 16:12:20 2020//
+D/containers////
+D/conversion////
+D/parser////
+D/partition////

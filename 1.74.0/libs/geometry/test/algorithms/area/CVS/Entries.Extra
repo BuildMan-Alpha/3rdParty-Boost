@@ -1,0 +1,6 @@
+/Jamfile////*////
+/area.cpp////*////
+/area_geo.cpp////*////
+/area_multi.cpp////*////
+/area_sph_geo.cpp////*////
+/test_area.hpp////*////

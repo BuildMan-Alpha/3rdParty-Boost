@@ -1,0 +1,10 @@
+/Jamfile.v2////*////
+/abm_time_dependent.cpp////*////
+/adams_bashforth.cpp////*////
+/adams_bashforth_moulton.cpp////*////
+/adaptive_adams_bashforth_moulton.cpp////*////
+/order_quadrature_formula.cpp////*////
+/rosenbrock.cpp////*////
+/runge_kutta.cpp////*////
+/symplectic.cpp////*////
+/velocity_verlet.cpp////*////

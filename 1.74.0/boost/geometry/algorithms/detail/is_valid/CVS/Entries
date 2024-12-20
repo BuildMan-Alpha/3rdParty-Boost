@@ -1,0 +1,19 @@
+/box.hpp/1.1/Tue Sep  8 16:09:24 2020//
+/complement_graph.hpp/1.1/Tue Sep  8 16:09:24 2020//
+/debug_complement_graph.hpp/1.1/Tue Sep  8 16:09:24 2020//
+/debug_print_turns.hpp/1.1/Tue Sep  8 16:09:24 2020//
+/debug_validity_phase.hpp/1.1/Tue Sep  8 16:09:24 2020//
+/has_duplicates.hpp/1.1/Tue Sep  8 16:09:24 2020//
+/has_invalid_coordinate.hpp/1.1/Tue Sep  8 16:09:24 2020//
+/has_spikes.hpp/1.1/Tue Sep  8 16:09:24 2020//
+/has_valid_self_turns.hpp/1.1/Tue Sep  8 16:09:24 2020//
+/implementation.hpp/1.1/Tue Sep  8 16:09:24 2020//
+/interface.hpp/1.1/Tue Sep  8 16:09:24 2020//
+/is_acceptable_turn.hpp/1.1/Tue Sep  8 16:09:24 2020//
+/linear.hpp/1.1/Tue Sep  8 16:09:24 2020//
+/multipolygon.hpp/1.1/Tue Sep  8 16:09:24 2020//
+/pointlike.hpp/1.1/Tue Sep  8 16:09:24 2020//
+/polygon.hpp/1.1/Tue Sep  8 16:09:24 2020//
+/ring.hpp/1.1/Tue Sep  8 16:09:24 2020//
+/segment.hpp/1.1/Tue Sep  8 16:09:24 2020//
+D

@@ -1,0 +1,8 @@
+/common_error_handling.hpp////*////
+/derived_accessors.hpp////*////
+/generic_mode.hpp////*////
+/generic_quantile.hpp////*////
+/hypergeometric_cdf.hpp////*////
+/hypergeometric_pdf.hpp////*////
+/hypergeometric_quantile.hpp////*////
+/inv_discrete_quantile.hpp////*////

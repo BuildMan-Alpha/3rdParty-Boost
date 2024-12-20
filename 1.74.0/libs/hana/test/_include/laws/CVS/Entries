@@ -1,0 +1,21 @@
+/applicative.hpp/1.1/Tue Sep  8 20:12:53 2020//
+/base.hpp/1.1/Tue Sep  8 20:12:53 2020//
+/comonad.hpp/1.1/Tue Sep  8 20:12:53 2020//
+/comparable.hpp/1.1/Tue Sep  8 20:12:53 2020//
+/constant.hpp/1.1/Tue Sep  8 20:12:53 2020//
+/euclidean_ring.hpp/1.1/Tue Sep  8 20:12:53 2020//
+/foldable.hpp/1.1/Tue Sep  8 20:12:53 2020//
+/functor.hpp/1.1/Tue Sep  8 20:12:53 2020//
+/group.hpp/1.1/Tue Sep  8 20:12:53 2020//
+/hashable.hpp/1.1/Tue Sep  8 20:12:53 2020//
+/iterable.hpp/1.1/Tue Sep  8 20:12:53 2020//
+/logical.hpp/1.1/Tue Sep  8 20:12:53 2020//
+/monad.hpp/1.1/Tue Sep  8 20:12:53 2020//
+/monad_plus.hpp/1.1/Tue Sep  8 20:12:53 2020//
+/monoid.hpp/1.1/Tue Sep  8 20:12:53 2020//
+/orderable.hpp/1.1/Tue Sep  8 20:12:53 2020//
+/product.hpp/1.1/Tue Sep  8 20:12:53 2020//
+/ring.hpp/1.1/Tue Sep  8 20:12:53 2020//
+/searchable.hpp/1.1/Tue Sep  8 20:12:53 2020//
+/sequence.hpp/1.1/Tue Sep  8 20:12:53 2020//
+D/templates////

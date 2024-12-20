@@ -1,0 +1,17 @@
+/Jamfile.v2////*////
+/gtl_boost_unit_test.cpp////*////
+/polygon_90_data_test.cpp////*////
+/polygon_interval_test.cpp////*////
+/polygon_point_test.cpp////*////
+/polygon_rectangle_formation_test.cpp////*////
+/polygon_rectangle_test.cpp////*////
+/polygon_segment_test.cpp////*////
+/polygon_set_data_test.cpp////*////
+/voronoi_builder_test.cpp////*////
+/voronoi_ctypes_test.cpp////*////
+/voronoi_diagram_test.cpp////*////
+/voronoi_geometry_type_test.cpp////*////
+/voronoi_predicates_test.cpp////*////
+/voronoi_robust_fpt_test.cpp////*////
+/voronoi_structures_test.cpp////*////
+/voronoi_test_helper.hpp////*////

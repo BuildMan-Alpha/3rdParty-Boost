@@ -1,0 +1,6 @@
+/Jamfile////*////
+/box_view.cpp////*////
+/closeable_view.cpp////*////
+/reversible_closeable.cpp////*////
+/reversible_view.cpp////*////
+/segment_view.cpp////*////

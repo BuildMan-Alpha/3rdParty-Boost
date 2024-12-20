@@ -1,0 +1,6 @@
+/copy_assign_fail.cpp////*////
+/copy_ctor_fail.cpp////*////
+/default_pass.cpp////*////
+/make_strict_lock_pass.cpp////*////
+/owns_lock_pass.cpp////*////
+/types_pass.cpp////*////

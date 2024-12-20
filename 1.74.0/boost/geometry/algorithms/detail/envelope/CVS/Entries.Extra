@@ -1,0 +1,13 @@
+/areal.hpp////*////
+/box.hpp////*////
+/implementation.hpp////*////
+/initialize.hpp////*////
+/interface.hpp////*////
+/intersects_antimeridian.hpp////*////
+/linear.hpp////*////
+/multipoint.hpp////*////
+/point.hpp////*////
+/range.hpp////*////
+/range_of_boxes.hpp////*////
+/segment.hpp////*////
+/transform_units.hpp////*////

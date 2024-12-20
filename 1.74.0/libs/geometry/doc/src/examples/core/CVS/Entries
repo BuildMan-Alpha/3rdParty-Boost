@@ -1,0 +1,18 @@
+/Jamfile/1.1/Tue Sep  8 20:08:35 2020//
+/closure.cpp/1.1/Tue Sep  8 20:08:35 2020//
+/coordinate_dimension.cpp/1.1/Tue Sep  8 20:08:35 2020//
+/coordinate_system.cpp/1.1/Tue Sep  8 20:08:35 2020//
+/coordinate_type.cpp/1.1/Tue Sep  8 20:08:35 2020//
+/degree_radian.cpp/1.1/Tue Sep  8 20:08:35 2020//
+/get_box.cpp/1.1/Tue Sep  8 20:08:35 2020//
+/get_point.cpp/1.1/Tue Sep  8 20:08:35 2020//
+/interior_type.cpp/1.1/Tue Sep  8 20:08:35 2020//
+/point_order.cpp/1.1/Tue Sep  8 20:08:35 2020//
+/point_type.cpp/1.1/Tue Sep  8 20:08:35 2020//
+/ring_type.cpp/1.1/Tue Sep  8 20:08:35 2020//
+/rings.cpp/1.1/Tue Sep  8 20:08:35 2020//
+/set_box.cpp/1.1/Tue Sep  8 20:08:35 2020//
+/set_point.cpp/1.1/Tue Sep  8 20:08:35 2020//
+/tag.cpp/1.1/Tue Sep  8 20:08:35 2020//
+/tag_cast.cpp/1.1/Tue Sep  8 20:08:35 2020//
+D

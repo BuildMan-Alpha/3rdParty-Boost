@@ -1,0 +1,13 @@
+/auto_handle.hpp////*////
+/debug_output_backend.cpp////*////
+/event_log_backend.cpp////*////
+/event_log_registry.hpp////*////
+/ipc_reliable_message_queue.cpp////*////
+/ipc_sync_wrappers.cpp////*////
+/ipc_sync_wrappers.hpp////*////
+/light_rw_mutex.cpp////*////
+/mapped_shared_memory.cpp////*////
+/mapped_shared_memory.hpp////*////
+/object_name.cpp////*////
+/simple_event_log.mc////*////
+/utf_code_conversion.hpp////*////

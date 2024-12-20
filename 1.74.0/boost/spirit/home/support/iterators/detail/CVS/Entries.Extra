@@ -1,0 +1,15 @@
+/buf_id_check_policy.hpp////*////
+/buffering_input_iterator_policy.hpp////*////
+/combine_policies.hpp////*////
+/first_owner_policy.hpp////*////
+/fixed_size_queue.hpp////*////
+/fixed_size_queue_policy.hpp////*////
+/functor_input_policy.hpp////*////
+/input_iterator_policy.hpp////*////
+/istream_policy.hpp////*////
+/lex_input_policy.hpp////*////
+/multi_pass.hpp////*////
+/no_check_policy.hpp////*////
+/ref_counted_policy.hpp////*////
+/split_functor_input_policy.hpp////*////
+/split_std_deque_policy.hpp////*////

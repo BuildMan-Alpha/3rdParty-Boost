@@ -1,0 +1,17 @@
+/as_const.hpp////*////
+/category_of.hpp////*////
+/config.hpp////*////
+/deduce.hpp////*////
+/deduce_sequence.hpp////*////
+/is_iterator.hpp////*////
+/is_segmented.hpp////*////
+/is_sequence.hpp////*////
+/is_view.hpp////*////
+/iterator_base.hpp////*////
+/pair.hpp////*////
+/segmented_fold_until.hpp////*////
+/sequence_base.hpp////*////
+/tag_of.hpp////*////
+/tag_of_fwd.hpp////*////
+/unused.hpp////*////
+/void.hpp////*////

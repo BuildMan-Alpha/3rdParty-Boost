@@ -1,0 +1,4 @@
+/compile-fail.cpp////*////
+/fail.cpp////*////
+/jamroot.jam////*////
+/success.cpp////*////

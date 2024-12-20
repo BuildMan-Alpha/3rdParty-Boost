@@ -1,0 +1,8 @@
+/affine.hpp////*////
+/algorithm.hpp////*////
+/channel_numeric_operations.hpp////*////
+/convolve.hpp////*////
+/kernel.hpp////*////
+/pixel_numeric_operations.hpp////*////
+/resample.hpp////*////
+/sampler.hpp////*////

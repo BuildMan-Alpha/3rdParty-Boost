@@ -1,0 +1,13 @@
+/areal_areal.hpp////*////
+/box_box.hpp////*////
+/implementation.hpp////*////
+/interface.hpp////*////
+/linear_areal.hpp////*////
+/linear_linear.hpp////*////
+/linear_segment_or_box.hpp////*////
+/multipoint_geometry.hpp////*////
+/multirange_geometry.hpp////*////
+/point_box.hpp////*////
+/point_geometry.hpp////*////
+/point_point.hpp////*////
+/segment_box.hpp////*////

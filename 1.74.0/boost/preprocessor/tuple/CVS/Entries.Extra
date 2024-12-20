@@ -1,0 +1,17 @@
+/eat.hpp////*////
+/elem.hpp////*////
+/enum.hpp////*////
+/insert.hpp////*////
+/pop_back.hpp////*////
+/pop_front.hpp////*////
+/push_back.hpp////*////
+/push_front.hpp////*////
+/rem.hpp////*////
+/remove.hpp////*////
+/replace.hpp////*////
+/reverse.hpp////*////
+/size.hpp////*////
+/to_array.hpp////*////
+/to_list.hpp////*////
+/to_seq.hpp////*////
+D/detail////////

@@ -1,0 +1,14 @@
+/alignof.cpp////*////
+/basic_type.cpp////*////
+/comparable.cpp////*////
+/decltype.cpp////*////
+/hashable.cpp////*////
+/integral.cpp////*////
+/is_valid.cpp////*////
+/make.cpp////*////
+/metafunction.cpp////*////
+/metafunction_class.cpp////*////
+/sizeof.cpp////*////
+/template.cpp////*////
+/trait.cpp////*////
+/typeid.cpp////*////

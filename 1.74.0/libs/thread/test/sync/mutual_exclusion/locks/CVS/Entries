@@ -1,0 +1,8 @@
+D/lock_guard////
+D/nested_strict_lock////
+D/reverse_lock////
+D/shared_lock////
+D/shared_lock_guard////
+D/strict_lock////
+D/unique_lock////
+D/upgrade_lock////

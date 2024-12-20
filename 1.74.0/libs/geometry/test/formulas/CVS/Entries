@@ -1,0 +1,18 @@
+/Jamfile/1.1/Tue Sep  8 20:08:39 2020//
+/direct.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/direct_accuracy.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/direct_cases.hpp/1.1/Tue Sep  8 20:08:39 2020//
+/direct_cases_antipodal.hpp/1.1/Tue Sep  8 20:08:39 2020//
+/direct_meridian.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/direct_meridian_cases.hpp/1.1/Tue Sep  8 20:08:39 2020//
+/intersection.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/intersection_cases.hpp/1.1/Tue Sep  8 20:08:39 2020//
+/inverse.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/inverse_cases.hpp/1.1/Tue Sep  8 20:08:39 2020//
+/inverse_cases_antipodal.hpp/1.1/Tue Sep  8 20:08:39 2020//
+/inverse_cases_small_angles.hpp/1.1/Tue Sep  8 20:08:39 2020//
+/inverse_karney.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/test_formula.hpp/1.1/Tue Sep  8 20:08:39 2020//
+/vertex_longitude.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/vertex_longitude_cases.hpp/1.1/Tue Sep  8 20:08:39 2020//
+D

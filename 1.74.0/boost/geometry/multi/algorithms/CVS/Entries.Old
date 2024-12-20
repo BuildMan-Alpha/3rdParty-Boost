@@ -1,0 +1,25 @@
+/append.hpp/1.1/Tue Sep  8 16:09:29 2020//
+/area.hpp/1.1/Tue Sep  8 16:09:29 2020//
+/centroid.hpp/1.1/Tue Sep  8 16:09:29 2020//
+/clear.hpp/1.1/Tue Sep  8 16:09:29 2020//
+/convert.hpp/1.1/Tue Sep  8 16:09:29 2020//
+/correct.hpp/1.1/Tue Sep  8 16:09:29 2020//
+/covered_by.hpp/1.1/Tue Sep  8 16:09:29 2020//
+/disjoint.hpp/1.1/Tue Sep  8 16:09:29 2020//
+/distance.hpp/1.1/Tue Sep  8 16:09:29 2020//
+/envelope.hpp/1.1/Tue Sep  8 16:09:29 2020//
+/equals.hpp/1.1/Tue Sep  8 16:09:29 2020//
+/for_each.hpp/1.1/Tue Sep  8 16:09:29 2020//
+/intersection.hpp/1.1/Tue Sep  8 16:09:29 2020//
+/length.hpp/1.1/Tue Sep  8 16:09:29 2020//
+/num_geometries.hpp/1.1/Tue Sep  8 16:09:29 2020//
+/num_interior_rings.hpp/1.1/Tue Sep  8 16:09:29 2020//
+/num_points.hpp/1.1/Tue Sep  8 16:09:29 2020//
+/perimeter.hpp/1.1/Tue Sep  8 16:09:29 2020//
+/remove_spikes.hpp/1.1/Tue Sep  8 16:09:29 2020//
+/reverse.hpp/1.1/Tue Sep  8 16:09:29 2020//
+/simplify.hpp/1.1/Tue Sep  8 16:09:29 2020//
+/transform.hpp/1.1/Tue Sep  8 16:09:29 2020//
+/unique.hpp/1.1/Tue Sep  8 16:09:29 2020//
+/within.hpp/1.1/Tue Sep  8 16:09:29 2020//
+D

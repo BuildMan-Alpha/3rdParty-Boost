@@ -1,0 +1,16 @@
+/attributes.hpp////*////
+/common.hpp////*////
+/core.hpp////*////
+/exceptions.hpp////*////
+/expressions.hpp////*////
+/sinks.hpp////*////
+/trivial.hpp////*////
+D/attributes////////
+D/core////////
+D/detail////////
+D/expressions////////
+D/keywords////////
+D/sinks////////
+D/sources////////
+D/support////////
+D/utility////////

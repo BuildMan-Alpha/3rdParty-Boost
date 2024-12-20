@@ -1,0 +1,8 @@
+/concept_adapter.hpp////*////
+/device_adapter.hpp////*////
+/direct_adapter.hpp////*////
+/filter_adapter.hpp////*////
+/mode_adapter.hpp////*////
+/non_blocking_adapter.hpp////*////
+/output_iterator_adapter.hpp////*////
+/range_adapter.hpp////*////

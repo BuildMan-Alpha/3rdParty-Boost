@@ -1,0 +1,27 @@
+/abi_prefix.hpp/1.1/Tue Sep  8 16:04:49 2020//
+/abi_suffix.hpp/1.1/Tue Sep  8 16:04:49 2020//
+/archive_serializer_map.hpp/1.1/Tue Sep  8 16:04:49 2020//
+/auto_link_archive.hpp/1.1/Tue Sep  8 16:04:49 2020//
+/auto_link_warchive.hpp/1.1/Tue Sep  8 16:04:49 2020//
+/basic_iarchive.hpp/1.1/Tue Sep  8 16:04:49 2020//
+/basic_iserializer.hpp/1.1/Tue Sep  8 16:04:49 2020//
+/basic_oarchive.hpp/1.1/Tue Sep  8 16:04:49 2020//
+/basic_oserializer.hpp/1.1/Tue Sep  8 16:04:49 2020//
+/basic_pointer_iserializer.hpp/1.1/Tue Sep  8 16:04:49 2020//
+/basic_pointer_oserializer.hpp/1.1/Tue Sep  8 16:04:49 2020//
+/basic_serializer.hpp/1.1/Tue Sep  8 16:04:49 2020//
+/basic_serializer_map.hpp/1.1/Tue Sep  8 16:04:49 2020//
+/check.hpp/1.1/Tue Sep  8 16:04:49 2020//
+/common_iarchive.hpp/1.1/Tue Sep  8 16:04:49 2020//
+/common_oarchive.hpp/1.1/Tue Sep  8 16:04:49 2020//
+/decl.hpp/1.1/Tue Sep  8 16:04:49 2020//
+/helper_collection.hpp/1.1/Tue Sep  8 16:04:49 2020//
+/interface_iarchive.hpp/1.1/Tue Sep  8 16:04:49 2020//
+/interface_oarchive.hpp/1.1/Tue Sep  8 16:04:49 2020//
+/iserializer.hpp/1.1/Tue Sep  8 16:04:49 2020//
+/oserializer.hpp/1.1/Tue Sep  8 16:04:49 2020//
+/polymorphic_iarchive_route.hpp/1.1/Tue Sep  8 16:04:49 2020//
+/polymorphic_oarchive_route.hpp/1.1/Tue Sep  8 16:04:49 2020//
+/register_archive.hpp/1.1/Tue Sep  8 16:04:49 2020//
+/utf8_codecvt_facet.hpp/1.1/Tue Sep  8 16:04:49 2020//
+D

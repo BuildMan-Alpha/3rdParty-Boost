@@ -1,0 +1,8 @@
+/_index.md////*////
+/basic_outcome_failure_exception_from_error.md////*////
+/error_code.md////*////
+/exception_ptr.md////*////
+/outcome_throw_as_system_error_with_payload_boost_enum.md////*////
+/outcome_throw_as_system_error_with_payload_boost_error_code.md////*////
+/outcome_throw_as_system_error_with_payload_std_enum.md////*////
+/outcome_throw_as_system_error_with_payload_std_error_code.md////*////

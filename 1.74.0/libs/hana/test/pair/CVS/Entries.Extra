@@ -1,0 +1,14 @@
+/assign.copy.cpp////*////
+/assign.move.cpp////*////
+/cnstr.copy.cpp////*////
+/cnstr.default.cpp////*////
+/cnstr.memberwise.cpp////*////
+/cnstr.move.cpp////*////
+/comparable.cpp////*////
+/empty_storage.cpp////*////
+/foldable.cpp////*////
+/issue_90.cpp////*////
+/make.cpp////*////
+/orderable.cpp////*////
+/product.cpp////*////
+/tag_of.cpp////*////

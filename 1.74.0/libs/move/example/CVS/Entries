@@ -1,0 +1,13 @@
+/Jamfile.v2/1.1/Tue Sep  8 21:19:35 2020//
+/copymovable.hpp/1.1/Tue Sep  8 21:19:35 2020//
+/doc_clone_ptr.cpp/1.1/Tue Sep  8 21:19:35 2020//
+/doc_construct_forward.cpp/1.1/Tue Sep  8 21:19:35 2020//
+/doc_file_descriptor.cpp/1.1/Tue Sep  8 21:19:35 2020//
+/doc_how_works.cpp/1.1/Tue Sep  8 21:19:35 2020//
+/doc_move_algorithms.cpp/1.1/Tue Sep  8 21:19:35 2020//
+/doc_move_inserter.cpp/1.1/Tue Sep  8 21:19:35 2020//
+/doc_move_iterator.cpp/1.1/Tue Sep  8 21:19:35 2020//
+/doc_move_return.cpp/1.1/Tue Sep  8 21:19:35 2020//
+/doc_template_assign.cpp/1.1/Tue Sep  8 21:19:35 2020//
+/movable.hpp/1.1/Tue Sep  8 21:19:35 2020//
+D

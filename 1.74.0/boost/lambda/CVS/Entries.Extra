@@ -1,0 +1,14 @@
+/algorithm.hpp////*////
+/bind.hpp////*////
+/casts.hpp////*////
+/closures.hpp////*////
+/construct.hpp////*////
+/control_structures.hpp////*////
+/core.hpp////*////
+/exceptions.hpp////*////
+/if.hpp////*////
+/lambda.hpp////*////
+/loops.hpp////*////
+/numeric.hpp////*////
+/switch.hpp////*////
+D/detail////////

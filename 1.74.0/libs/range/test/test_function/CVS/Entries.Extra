@@ -1,0 +1,7 @@
+/check_equal_fn.hpp////*////
+/counted_function.hpp////*////
+/equal_to_x.hpp////*////
+/false_predicate.hpp////*////
+/greater_than_x.hpp////*////
+/multiply_by_x.hpp////*////
+/true_predicate.hpp////*////

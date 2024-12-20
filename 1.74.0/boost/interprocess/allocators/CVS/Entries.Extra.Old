@@ -1,0 +1,7 @@
+/adaptive_pool.hpp////*////
+/allocator.hpp////*////
+/cached_adaptive_pool.hpp////*////
+/cached_node_allocator.hpp////*////
+/node_allocator.hpp////*////
+/private_adaptive_pool.hpp////*////
+/private_node_allocator.hpp////*////

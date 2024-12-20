@@ -1,0 +1,10 @@
+/idl.cpp////*////
+/idl.hpp////*////
+/idl_config.hpp////*////
+/idl_version.hpp////*////
+/instantiate_cpp_grammar.cpp////*////
+/instantiate_defined_grammar.cpp////*////
+/instantiate_has_include_grammar.cpp////*////
+/instantiate_predef_macros.cpp////*////
+/instantiate_re2c_lexer.cpp////*////
+/instantiate_re2c_lexer_str.cpp////*////

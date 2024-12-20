@@ -1,0 +1,16 @@
+/Jamfile////*////
+/align_down_integral_test.cpp////*////
+/align_down_test.cpp////*////
+/align_test.cpp////*////
+/align_up_integral_test.cpp////*////
+/align_up_test.cpp////*////
+/aligned_alloc_test.cpp////*////
+/aligned_allocator_adaptor_incomplete_test.cpp////*////
+/aligned_allocator_adaptor_test.cpp////*////
+/aligned_allocator_incomplete_test.cpp////*////
+/aligned_allocator_test.cpp////*////
+/aligned_delete_test.cpp////*////
+/alignment_of_test.cpp////*////
+/assume_aligned_test.cpp////*////
+/is_aligned_integral_test.cpp////*////
+/is_aligned_test.cpp////*////

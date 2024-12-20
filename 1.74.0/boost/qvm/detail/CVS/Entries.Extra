@@ -1,0 +1,9 @@
+/cofactor_impl.hpp////*////
+/determinant_impl.hpp////*////
+/mat_assign.hpp////*////
+/quat_assign.hpp////*////
+/remove_const.hpp////*////
+/swizzle_traits.hpp////*////
+/transp_impl.hpp////*////
+/vec_assign.hpp////*////
+/vec_register_impl.hpp////*////

@@ -1,0 +1,17 @@
+/bad_access.hpp////*////
+/basic_outcome.hpp////*////
+/basic_result.hpp////*////
+/boost_outcome.hpp////*////
+/boost_result.hpp////*////
+/config.hpp////*////
+/convert.hpp////*////
+/coroutine_support.hpp////*////
+/iostream_support.hpp////*////
+/outcome.hpp////*////
+/result.hpp////*////
+/std_outcome.hpp////*////
+/std_result.hpp////*////
+/success_failure.hpp////*////
+/trait.hpp////*////
+/try.hpp////*////
+/utils.hpp////*////

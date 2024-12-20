@@ -1,0 +1,16 @@
+/as.hpp////*////
+/buffer.hpp////*////
+/center_alignment.hpp////*////
+/columns.hpp////*////
+/delimit.hpp////*////
+/duplicate.hpp////*////
+/encoding.hpp////*////
+/left_alignment.hpp////*////
+/maxwidth.hpp////*////
+/no_delimit.hpp////*////
+/omit.hpp////*////
+/repeat.hpp////*////
+/right_alignment.hpp////*////
+/strict_relaxed.hpp////*////
+/upper_lower_case.hpp////*////
+/verbatim.hpp////*////

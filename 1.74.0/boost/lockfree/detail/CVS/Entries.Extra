@@ -1,0 +1,8 @@
+/atomic.hpp////*////
+/copy_payload.hpp////*////
+/freelist.hpp////*////
+/parameter.hpp////*////
+/prefix.hpp////*////
+/tagged_ptr.hpp////*////
+/tagged_ptr_dcas.hpp////*////
+/tagged_ptr_ptrcompression.hpp////*////

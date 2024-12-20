@@ -1,0 +1,25 @@
+/Jamfile/1.1/Tue Sep  8 20:08:39 2020//
+/distance.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/distance_all.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/distance_brute_force.hpp/1.1/Tue Sep  8 20:08:39 2020//
+/distance_ca_ar_ar.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/distance_ca_l_ar.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/distance_ca_l_l.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/distance_ca_pl_ar.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/distance_ca_pl_l.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/distance_ca_pl_pl.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/distance_geo_linear_box.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/distance_geo_pl_l.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/distance_se_geo_ar_ar.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/distance_se_geo_l_ar.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/distance_se_geo_l_l.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/distance_se_geo_pl_ar.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/distance_se_geo_pl_pl.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/distance_se_pl_l.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/distance_se_pl_pl.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/test_distance.hpp/1.1/Tue Sep  8 20:08:39 2020//
+/test_distance_common.hpp/1.1/Tue Sep  8 20:08:39 2020//
+/test_distance_geo_common.hpp/1.1/Tue Sep  8 20:08:39 2020//
+/test_distance_se_common.hpp/1.1/Tue Sep  8 20:08:39 2020//
+/test_empty_geometry.hpp/1.1/Tue Sep  8 20:08:39 2020//
+D

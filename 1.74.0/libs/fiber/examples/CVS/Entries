@@ -1,0 +1,19 @@
+/Jamfile.v2/1.1/Tue Sep  8 20:08:26 2020//
+/adapt_callbacks.cpp/1.1/Tue Sep  8 20:08:26 2020//
+/adapt_method_calls.cpp/1.1/Tue Sep  8 20:08:26 2020//
+/adapt_nonblocking.cpp/1.1/Tue Sep  8 20:08:26 2020//
+/barrier.cpp/1.1/Tue Sep  8 20:08:26 2020//
+/future.cpp/1.1/Tue Sep  8 20:08:26 2020//
+/join.cpp/1.1/Tue Sep  8 20:08:26 2020//
+/ping_pong.cpp/1.1/Tue Sep  8 20:08:26 2020//
+/priority.cpp/1.1/Tue Sep  8 20:08:26 2020//
+/range_for.cpp/1.1/Tue Sep  8 20:08:26 2020//
+/segmented_stack.cpp/1.1/Tue Sep  8 20:08:26 2020//
+/simple.cpp/1.1/Tue Sep  8 20:08:26 2020//
+/wait_stuff.cpp/1.1/Tue Sep  8 20:08:26 2020//
+/work_sharing.cpp/1.1/Tue Sep  8 20:08:26 2020//
+/work_stealing.cpp/1.1/Tue Sep  8 20:08:26 2020//
+D/asio////
+D/cuda////
+D/hip////
+D/numa////

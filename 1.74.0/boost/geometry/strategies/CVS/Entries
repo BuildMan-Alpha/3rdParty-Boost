@@ -1,0 +1,42 @@
+/area.hpp/1.1/Tue Sep  8 16:09:32 2020//
+/area_result.hpp/1.1/Tue Sep  8 16:09:32 2020//
+/azimuth.hpp/1.1/Tue Sep  8 16:09:32 2020//
+/buffer.hpp/1.1/Tue Sep  8 16:09:32 2020//
+/centroid.hpp/1.1/Tue Sep  8 16:09:32 2020//
+/comparable_distance_result.hpp/1.1/Tue Sep  8 16:09:32 2020//
+/compare.hpp/1.1/Tue Sep  8 16:09:32 2020//
+/convex_hull.hpp/1.1/Tue Sep  8 16:09:32 2020//
+/covered_by.hpp/1.1/Tue Sep  8 16:09:32 2020//
+/default_area_result.hpp/1.1/Tue Sep  8 16:09:32 2020//
+/default_comparable_distance_result.hpp/1.1/Tue Sep  8 16:09:32 2020//
+/default_distance_result.hpp/1.1/Tue Sep  8 16:09:32 2020//
+/default_length_result.hpp/1.1/Tue Sep  8 16:09:32 2020//
+/default_strategy.hpp/1.1/Tue Sep  8 16:09:32 2020//
+/densify.hpp/1.1/Tue Sep  8 16:09:32 2020//
+/disjoint.hpp/1.1/Tue Sep  8 16:09:32 2020//
+/distance.hpp/1.1/Tue Sep  8 16:09:32 2020//
+/distance_result.hpp/1.1/Tue Sep  8 16:09:32 2020//
+/envelope.hpp/1.1/Tue Sep  8 16:09:33 2020//
+/expand.hpp/1.1/Tue Sep  8 16:09:33 2020//
+/index.hpp/1.1/Tue Sep  8 16:09:33 2020//
+/intersection.hpp/1.1/Tue Sep  8 16:09:33 2020//
+/intersection_result.hpp/1.1/Tue Sep  8 16:09:33 2020//
+/intersection_strategies.hpp/1.1/Tue Sep  8 16:09:33 2020//
+/io.hpp/1.1/Tue Sep  8 16:09:33 2020//
+/line_interpolate.hpp/1.1/Tue Sep  8 16:09:33 2020//
+/normalize.hpp/1.1/Tue Sep  8 16:09:33 2020//
+/point_order.hpp/1.1/Tue Sep  8 16:09:33 2020//
+/relate.hpp/1.1/Tue Sep  8 16:09:33 2020//
+/side.hpp/1.1/Tue Sep  8 16:09:33 2020//
+/side_info.hpp/1.1/Tue Sep  8 16:09:33 2020//
+/strategies.hpp/1.1/Tue Sep  8 16:09:33 2020//
+/strategy_transform.hpp/1.1/Tue Sep  8 16:09:33 2020//
+/tags.hpp/1.1/Tue Sep  8 16:09:33 2020//
+/transform.hpp/1.1/Tue Sep  8 16:09:33 2020//
+/within.hpp/1.1/Tue Sep  8 16:09:33 2020//
+D/agnostic////
+D/cartesian////
+D/concepts////
+D/geographic////
+D/spherical////
+D/transform////

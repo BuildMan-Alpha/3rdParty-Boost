@@ -1,0 +1,11 @@
+/config.hpp////*////
+/convenience.hpp////*////
+/directory.hpp////*////
+/exception.hpp////*////
+/file_status.hpp////*////
+/fstream.hpp////*////
+/operations.hpp////*////
+/path.hpp////*////
+/path_traits.hpp////*////
+/string_file.hpp////*////
+D/detail////////

@@ -1,0 +1,14 @@
+/condition.hpp////*////
+/mutex.hpp////*////
+/named_condition.hpp////*////
+/named_condition_any.hpp////*////
+/named_mutex.hpp////*////
+/named_recursive_mutex.hpp////*////
+/named_semaphore.hpp////*////
+/named_sync.hpp////*////
+/recursive_mutex.hpp////*////
+/semaphore.hpp////*////
+/sync_utils.hpp////*////
+/winapi_mutex_wrapper.hpp////*////
+/winapi_semaphore_wrapper.hpp////*////
+/winapi_wrapper_common.hpp////*////

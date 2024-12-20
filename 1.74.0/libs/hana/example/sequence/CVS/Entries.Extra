@@ -1,0 +1,11 @@
+/applicative.cpp////*////
+/comparable.cpp////*////
+/foldable.cpp////*////
+/functor.cpp////*////
+/iterable.cpp////*////
+/make.cpp////*////
+/monad.ints.cpp////*////
+/monad.types.cpp////*////
+/monad_plus.cpp////*////
+/orderable.cpp////*////
+/searchable.cpp////*////

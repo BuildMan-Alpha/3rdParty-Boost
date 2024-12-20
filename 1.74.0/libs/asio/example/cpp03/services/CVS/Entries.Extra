@@ -1,0 +1,6 @@
+/Jamfile.v2////*////
+/basic_logger.hpp////*////
+/daytime_client.cpp////*////
+/logger.hpp////*////
+/logger_service.cpp////*////
+/logger_service.hpp////*////

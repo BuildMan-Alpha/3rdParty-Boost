@@ -1,0 +1,16 @@
+/abi_prefix.hpp////*////
+/abi_suffix.hpp////*////
+/auto_link.hpp////*////
+/header_deprecated.hpp////*////
+/helper_macros.hpp////*////
+/pragma_message.hpp////*////
+/requires_threads.hpp////*////
+/user.hpp////*////
+/warning_disable.hpp////*////
+/workaround.hpp////*////
+D/abi////////
+D/compiler////////
+D/detail////////
+D/no_tr1////////
+D/platform////////
+D/stdlib////////

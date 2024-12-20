@@ -1,0 +1,9 @@
+/basic_object_handle.cpp////*////
+/basic_overlapped_handle.cpp////*////
+/basic_random_access_handle.cpp////*////
+/basic_stream_handle.cpp////*////
+/object_handle.cpp////*////
+/overlapped_handle.cpp////*////
+/overlapped_ptr.cpp////*////
+/random_access_handle.cpp////*////
+/stream_handle.cpp////*////

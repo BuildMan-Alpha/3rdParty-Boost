@@ -1,0 +1,18 @@
+/as_const.hpp/1.1/Tue Sep  8 16:09:20 2020//
+/category_of.hpp/1.1/Tue Sep  8 16:09:20 2020//
+/config.hpp/1.1/Tue Sep  8 16:09:20 2020//
+/deduce.hpp/1.1/Tue Sep  8 16:09:20 2020//
+/deduce_sequence.hpp/1.1/Tue Sep  8 16:09:20 2020//
+/is_iterator.hpp/1.1/Tue Sep  8 16:09:20 2020//
+/is_segmented.hpp/1.1/Tue Sep  8 16:09:20 2020//
+/is_sequence.hpp/1.1/Tue Sep  8 16:09:20 2020//
+/is_view.hpp/1.1/Tue Sep  8 16:09:20 2020//
+/iterator_base.hpp/1.1/Tue Sep  8 16:09:20 2020//
+/pair.hpp/1.1/Tue Sep  8 16:09:20 2020//
+/segmented_fold_until.hpp/1.1/Tue Sep  8 16:09:20 2020//
+/sequence_base.hpp/1.1/Tue Sep  8 16:09:20 2020//
+/tag_of.hpp/1.1/Tue Sep  8 16:09:20 2020//
+/tag_of_fwd.hpp/1.1/Tue Sep  8 16:09:20 2020//
+/unused.hpp/1.1/Tue Sep  8 16:09:20 2020//
+/void.hpp/1.1/Tue Sep  8 16:09:20 2020//
+D/detail////

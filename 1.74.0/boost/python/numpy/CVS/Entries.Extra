@@ -1,0 +1,9 @@
+/config.hpp////*////
+/dtype.hpp////*////
+/internal.hpp////*////
+/invoke_matching.hpp////*////
+/matrix.hpp////*////
+/ndarray.hpp////*////
+/numpy_object_mgr_traits.hpp////*////
+/scalars.hpp////*////
+/ufunc.hpp////*////

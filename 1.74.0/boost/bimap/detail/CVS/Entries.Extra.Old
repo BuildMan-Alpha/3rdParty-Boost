@@ -1,0 +1,15 @@
+/bimap_core.hpp////*////
+/concept_tags.hpp////*////
+/generate_index_binder.hpp////*////
+/generate_relation_binder.hpp////*////
+/generate_view_binder.hpp////*////
+/is_set_type_of.hpp////*////
+/manage_additional_parameters.hpp////*////
+/manage_bimap_key.hpp////*////
+/map_view_base.hpp////*////
+/map_view_iterator.hpp////*////
+/modifier_adaptor.hpp////*////
+/non_unique_views_helper.hpp////*////
+/set_view_base.hpp////*////
+/set_view_iterator.hpp////*////
+/user_interface_config.hpp////*////

@@ -1,0 +1,5 @@
+/CMakeLists.txt////*////
+/test.txt.bz2////*////
+/test.txt.gz////*////
+/test_bzip2.cpp////*////
+/test_gzip.cpp////*////

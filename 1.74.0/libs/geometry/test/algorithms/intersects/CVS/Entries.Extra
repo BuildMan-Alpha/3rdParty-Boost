@@ -1,0 +1,8 @@
+/Jamfile////*////
+/intersects.cpp////*////
+/intersects_box_geometry.cpp////*////
+/intersects_multi.cpp////*////
+/intersects_self.cpp////*////
+/intersects_sph.cpp////*////
+/intersects_sph_geo.cpp////*////
+/test_intersects.hpp////*////

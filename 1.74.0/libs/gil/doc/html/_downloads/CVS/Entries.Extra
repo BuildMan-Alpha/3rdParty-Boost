@@ -1,0 +1,11 @@
+/affine.cpp////*////
+/convolution.cpp////*////
+/dynamic_image.cpp////*////
+/histogram.cpp////*////
+/interleaved_ptr.cpp////*////
+/interleaved_ptr.hpp////*////
+/interleaved_ref.hpp////*////
+/mandelbrot.cpp////*////
+/packed_pixel.cpp////*////
+/resize.cpp////*////
+/x_gradient.cpp////*////

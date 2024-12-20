@@ -1,0 +1,10 @@
+/Jamfile.v2////*////
+/algorithms.cpp////*////
+/basic_any.cpp////*////
+/basic_base.cpp////*////
+/basic_function.cpp////*////
+/exceptions.cpp////*////
+/insertion_emplacement.cpp////*////
+/perf.cpp////*////
+/rolegame.hpp////*////
+/segmented_structure.cpp////*////

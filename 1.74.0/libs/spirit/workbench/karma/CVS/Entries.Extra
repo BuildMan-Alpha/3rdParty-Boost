@@ -1,0 +1,6 @@
+/Jamfile////*////
+/double_performance.cpp////*////
+/format_performance.cpp////*////
+/int_generator.cpp////*////
+/real_generator.cpp////*////
+/sequence_performance.cpp////*////

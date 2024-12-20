@@ -1,0 +1,16 @@
+/alloc_ctor_pass.cpp////*////
+/copy_assign_fail.cpp////*////
+/copy_ctor_fail.cpp////*////
+/default_ctor_pass.cpp////*////
+/dtor_pass.cpp////*////
+/func_ctor_pass.cpp////*////
+/get_future_pass.cpp////*////
+/make_ready_at_thread_exit_pass.cpp////*////
+/member_swap_pass.cpp////*////
+/move_assign_pass.cpp////*////
+/move_ctor_pass.cpp////*////
+/non_member_swap_pass.cpp////*////
+/operator_pass.cpp////*////
+/reset_pass.cpp////*////
+/types_pass.cpp////*////
+/use_allocator_pass.cpp////*////

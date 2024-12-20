@@ -1,0 +1,8 @@
+/common.props////*////
+/system.sln////*////
+D/config_test////////
+D/error_code_test////////
+D/header_only_error_code_test////////
+D/header_only_test////////
+D/std_interop_test////////
+D/system-dll////////

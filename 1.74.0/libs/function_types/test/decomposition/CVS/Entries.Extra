@@ -1,0 +1,9 @@
+/class_type_transform.cpp////*////
+/components.cpp////*////
+/components_seq.cpp////*////
+/function_arity.cpp////*////
+/function_arity_fail.cpp////*////
+/parameter_types.cpp////*////
+/parameter_types_fail.cpp////*////
+/result_type.cpp////*////
+/result_type_fail.cpp////*////

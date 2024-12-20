@@ -1,0 +1,7 @@
+/idl.inc////*////
+/idl.re////*////
+/idl_lex_interface.hpp////*////
+/idl_lex_iterator.hpp////*////
+/idl_re.cpp////*////
+/idl_re.hpp////*////
+/idl_re2c_lexer.hpp////*////

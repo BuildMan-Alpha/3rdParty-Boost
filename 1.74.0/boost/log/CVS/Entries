@@ -1,0 +1,16 @@
+/attributes.hpp/1.1/Tue Sep  8 16:12:14 2020//
+/common.hpp/1.1/Tue Sep  8 16:12:14 2020//
+/core.hpp/1.1/Tue Sep  8 16:12:14 2020//
+/exceptions.hpp/1.1/Tue Sep  8 16:12:14 2020//
+/expressions.hpp/1.1/Tue Sep  8 16:12:14 2020//
+/sinks.hpp/1.1/Tue Sep  8 16:12:14 2020//
+/trivial.hpp/1.1/Tue Sep  8 16:12:14 2020//
+D/attributes////
+D/core////
+D/detail////
+D/expressions////
+D/keywords////
+D/sinks////
+D/sources////
+D/support////
+D/utility////

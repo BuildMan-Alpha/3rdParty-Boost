@@ -1,0 +1,9 @@
+/Jamfile.v2////*////
+/barrier.hpp////*////
+/skynet_detach.cpp////*////
+/skynet_join.cpp////*////
+/skynet_shared_detach.cpp////*////
+/skynet_shared_join.cpp////*////
+/skynet_stealing_async.cpp////*////
+/skynet_stealing_detach.cpp////*////
+/skynet_stealing_join.cpp////*////

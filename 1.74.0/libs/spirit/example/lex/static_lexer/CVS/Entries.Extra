@@ -1,0 +1,10 @@
+/Jamfile////*////
+/word_count.input////*////
+/word_count_generate.cpp////*////
+/word_count_lexer_generate.cpp////*////
+/word_count_lexer_static.cpp////*////
+/word_count_lexer_static.hpp////*////
+/word_count_lexer_tokens.hpp////*////
+/word_count_static.cpp////*////
+/word_count_static.hpp////*////
+/word_count_tokens.hpp////*////

@@ -1,0 +1,12 @@
+/Assignable.xml////*////
+/BidirectionalIterator.xml////*////
+/CopyConstructible.xml////*////
+/DefaultConstructible.xml////*////
+/EqualityComparable.xml////*////
+/ForwardIterator.xml////*////
+/InputIterator.xml////*////
+/LessThanComparable.xml////*////
+/OutputIterator.xml////*////
+/RandomAccessIterator.xml////*////
+/SignedInteger.xml////*////
+/concepts.xml////*////

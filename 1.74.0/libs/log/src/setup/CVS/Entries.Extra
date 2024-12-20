@@ -1,0 +1,12 @@
+/default_filter_factory.cpp////*////
+/default_filter_factory.hpp////*////
+/default_formatter_factory.cpp////*////
+/default_formatter_factory.hpp////*////
+/filter_parser.cpp////*////
+/formatter_parser.cpp////*////
+/init_from_settings.cpp////*////
+/init_from_stream.cpp////*////
+/matches_relation_factory.cpp////*////
+/parser_utils.cpp////*////
+/parser_utils.hpp////*////
+/settings_parser.cpp////*////

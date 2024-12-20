@@ -1,0 +1,14 @@
+/adapt_function.cpp////*////
+/function_tests.cpp////*////
+/lazy_argument_tests.cpp////*////
+/lazy_compose_tests.cpp////*////
+/lazy_fold_tests.cpp////*////
+/lazy_list2_tests.cpp////*////
+/lazy_list3_tests.cpp////*////
+/lazy_list_tests.cpp////*////
+/lazy_make_pair_tests.cpp////*////
+/lazy_operator_tests.cpp////*////
+/lazy_ptr_tests.cpp////*////
+/lazy_scan_tests.cpp////*////
+/lazy_templated_struct_tests.cpp////*////
+/lazy_thunk_tests.cpp////*////

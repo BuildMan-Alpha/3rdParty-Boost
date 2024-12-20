@@ -1,0 +1,208 @@
+/acknowledgement.html/1.1/Tue Sep  8 20:42:20 2020//
+/acknowledgements.html/1.1/Tue Sep  8 20:42:20 2020//
+/acos.html/1.1/Tue Sep  8 20:42:20 2020//
+/acosh.html/1.1/Tue Sep  8 20:42:20 2020//
+/airy.html/1.1/Tue Sep  8 20:42:20 2020//
+/anderson_darling.html/1.1/Tue Sep  8 20:42:20 2020//
+/archetypes.html/1.1/Tue Sep  8 20:42:20 2020//
+/asin.html/1.1/Tue Sep  8 20:42:20 2020//
+/asinh.html/1.1/Tue Sep  8 20:42:20 2020//
+/atan.html/1.1/Tue Sep  8 20:42:20 2020//
+/atanh.html/1.1/Tue Sep  8 20:42:20 2020//
+/autodiff.html/1.1/Tue Sep  8 20:42:20 2020//
+/bad_guess.html/1.1/Tue Sep  8 20:42:20 2020//
+/bad_roots.html/1.1/Tue Sep  8 20:42:20 2020//
+/barycentric.html/1.1/Tue Sep  8 20:42:20 2020//
+/bessel.html/1.1/Tue Sep  8 20:42:20 2020//
+/bivariate_statistics.html/1.1/Tue Sep  8 20:42:20 2020//
+/brent_minima.html/1.1/Tue Sep  8 20:42:21 2020//
+/building.html/1.1/Tue Sep  8 20:42:21 2020//
+/c99.html/1.1/Tue Sep  8 20:42:21 2020//
+/cardinal_cubic_b.html/1.1/Tue Sep  8 20:42:21 2020//
+/cardinal_quadratic_b.html/1.1/Tue Sep  8 20:42:21 2020//
+/cardinal_quintic_b.html/1.1/Tue Sep  8 20:42:21 2020//
+/cardinal_trigonometric.html/1.1/Tue Sep  8 20:42:21 2020//
+/catmull_rom.html/1.1/Tue Sep  8 20:42:21 2020//
+/comp_compilers.html/1.1/Tue Sep  8 20:42:21 2020//
+/comparisons.html/1.1/Tue Sep  8 20:42:21 2020//
+/compilers_overview.html/1.1/Tue Sep  8 20:42:21 2020//
+/complex_history.html/1.1/Tue Sep  8 20:42:21 2020//
+/complex_implementation.html/1.1/Tue Sep  8 20:42:21 2020//
+/cond.html/1.1/Tue Sep  8 20:42:21 2020//
+/config_macros.html/1.1/Tue Sep  8 20:42:21 2020//
+/constants.html/1.1/Tue Sep  8 20:42:21 2020//
+/constants_faq.html/1.1/Tue Sep  8 20:42:21 2020//
+/constants_intro.html/1.1/Tue Sep  8 20:42:22 2020//
+/contact.html/1.1/Tue Sep  8 20:42:22 2020//
+/conventions.html/1.1/Tue Sep  8 20:42:22 2020//
+/create.html/1.1/Tue Sep  8 20:42:22 2020//
+/credits.html/1.1/Tue Sep  8 20:42:23 2020//
+/cubic_hermite.html/1.1/Tue Sep  8 20:42:23 2020//
+/daubechies.html/1.1/Tue Sep  8 20:42:24 2020//
+/daubechies_filters.html/1.1/Tue Sep  8 20:42:24 2020//
+/diff.html/1.1/Tue Sep  8 20:42:24 2020//
+/diff0.html/1.1/Tue Sep  8 20:42:24 2020//
+/directories.html/1.1/Tue Sep  8 20:42:24 2020//
+/dist_concept.html/1.1/Tue Sep  8 20:42:24 2020//
+/dist_ref.html/1.1/Tue Sep  8 20:42:24 2020//
+/double_exponential.html/1.1/Tue Sep  8 20:42:24 2020//
+/ellint.html/1.1/Tue Sep  8 20:42:24 2020//
+/error_handling.html/1.1/Tue Sep  8 20:42:25 2020//
+/exact_typdefs.html/1.1/Tue Sep  8 20:42:25 2020//
+/examples.html/1.1/Tue Sep  8 20:42:25 2020//
+/exp.html/1.1/Tue Sep  8 20:42:25 2020//
+/expint.html/1.1/Tue Sep  8 20:42:25 2020//
+/factorials.html/1.1/Tue Sep  8 20:42:25 2020//
+/fastest_typdefs.html/1.1/Tue Sep  8 20:42:25 2020//
+/float128.html/1.1/Tue Sep  8 20:42:25 2020//
+/float128_hints.html/1.1/Tue Sep  8 20:42:25 2020//
+/float_comparison.html/1.1/Tue Sep  8 20:42:25 2020//
+/fourier_integrals.html/1.1/Tue Sep  8 20:42:25 2020//
+/fp_facets.html/1.1/Tue Sep  8 20:42:25 2020//
+/fpclass.html/1.1/Tue Sep  8 20:42:25 2020//
+/future.html/1.1/Tue Sep  8 20:42:25 2020//
+/gauss.html/1.1/Tue Sep  8 20:42:25 2020//
+/gauss_kronrod.html/1.1/Tue Sep  8 20:42:25 2020//
+/getting_best.html/1.1/Tue Sep  8 20:42:25 2020//
+/greatest_typdefs.html/1.1/Tue Sep  8 20:42:25 2020//
+/hankel.html/1.1/Tue Sep  8 20:42:25 2020//
+/high_precision.html/1.1/Tue Sep  8 20:42:25 2020//
+/hints.html/1.1/Tue Sep  8 20:42:25 2020//
+/history1.html/1.1/Tue Sep  8 20:42:25 2020//
+/history2.html/1.1/Tue Sep  8 20:42:25 2020//
+/hypergeometric.html/1.1/Tue Sep  8 20:42:25 2020//
+/internals.html/1.1/Tue Sep  8 20:42:25 2020//
+/internals_overview.html/1.1/Tue Sep  8 20:42:25 2020//
+/interp.html/1.1/Tue Sep  8 20:42:25 2020//
+/intro_pol_overview.html/1.1/Tue Sep  8 20:42:25 2020//
+/inv_hyper.html/1.1/Tue Sep  8 20:42:25 2020//
+/issues.html/1.1/Tue Sep  8 20:42:25 2020//
+/jacobi.html/1.1/Tue Sep  8 20:42:25 2020//
+/lambert_w.html/1.1/Tue Sep  8 20:42:25 2020//
+/lanczos.html/1.1/Tue Sep  8 20:42:26 2020//
+/linear_regression.html/1.1/Tue Sep  8 20:42:26 2020//
+/ljung_box.html/1.1/Tue Sep  8 20:42:26 2020//
+/logs_and_tables.html/1.1/Tue Sep  8 20:42:26 2020//
+/macros.html/1.1/Tue Sep  8 20:42:26 2020//
+/main_faq.html/1.1/Tue Sep  8 20:42:26 2020//
+/main_intro.html/1.1/Tue Sep  8 20:42:26 2020//
+/main_tr1.html/1.1/Tue Sep  8 20:42:26 2020//
+/makima.html/1.1/Tue Sep  8 20:42:26 2020//
+/mem_typedef.html/1.1/Tue Sep  8 20:42:26 2020//
+/minimum_typdefs.html/1.1/Tue Sep  8 20:42:26 2020//
+/multiprecision.html/1.1/Tue Sep  8 20:42:26 2020//
+/naive_monte_carlo.html/1.1/Tue Sep  8 20:42:26 2020//
+/namespaces.html/1.1/Tue Sep  8 20:42:26 2020//
+/navigation.html/1.1/Tue Sep  8 20:42:26 2020//
+/new_const.html/1.1/Tue Sep  8 20:42:26 2020//
+/next_float.html/1.1/Tue Sep  8 20:42:26 2020//
+/norms.html/1.1/Tue Sep  8 20:42:26 2020//
+/number_series.html/1.1/Tue Sep  8 20:42:26 2020//
+/oct_create.html/1.1/Tue Sep  8 20:42:26 2020//
+/oct_header.html/1.1/Tue Sep  8 20:42:26 2020//
+/oct_history.html/1.1/Tue Sep  8 20:42:26 2020//
+/oct_mem_fun.html/1.1/Tue Sep  8 20:42:26 2020//
+/oct_non_mem.html/1.1/Tue Sep  8 20:42:26 2020//
+/oct_overview.html/1.1/Tue Sep  8 20:42:26 2020//
+/oct_specialization.html/1.1/Tue Sep  8 20:42:26 2020//
+/oct_synopsis.html/1.1/Tue Sep  8 20:42:26 2020//
+/oct_tests.html/1.1/Tue Sep  8 20:42:27 2020//
+/oct_todo.html/1.1/Tue Sep  8 20:42:27 2020//
+/oct_trans.html/1.1/Tue Sep  8 20:42:27 2020//
+/oct_typedefs.html/1.1/Tue Sep  8 20:42:27 2020//
+/oct_value_ops.html/1.1/Tue Sep  8 20:42:27 2020//
+/octonion.html/1.1/Tue Sep  8 20:42:27 2020//
+/overview_tr1.html/1.1/Tue Sep  8 20:42:27 2020//
+/owens_t.html/1.1/Tue Sep  8 20:42:27 2020//
+/pchip.html/1.1/Tue Sep  8 20:42:27 2020//
+/perf_over1.html/1.1/Tue Sep  8 20:42:27 2020//
+/perf_over2.html/1.1/Tue Sep  8 20:42:27 2020//
+/perf_test_app.html/1.1/Tue Sep  8 20:42:27 2020//
+/pol_overview.html/1.1/Tue Sep  8 20:42:27 2020//
+/pol_ref.html/1.1/Tue Sep  8 20:42:27 2020//
+/pol_tutorial.html/1.1/Tue Sep  8 20:42:27 2020//
+/polynomials.html/1.1/Tue Sep  8 20:42:27 2020//
+/powers.html/1.1/Tue Sep  8 20:42:27 2020//
+/quat.html/1.1/Tue Sep  8 20:42:27 2020//
+/quat_header.html/1.1/Tue Sep  8 20:42:27 2020//
+/quat_history.html/1.1/Tue Sep  8 20:42:27 2020//
+/quat_mem_fun.html/1.1/Tue Sep  8 20:42:27 2020//
+/quat_non_mem.html/1.1/Tue Sep  8 20:42:27 2020//
+/quat_overview.html/1.1/Tue Sep  8 20:42:27 2020//
+/quat_synopsis.html/1.1/Tue Sep  8 20:42:27 2020//
+/quat_tests.html/1.1/Tue Sep  8 20:42:27 2020//
+/quat_todo.html/1.1/Tue Sep  8 20:42:27 2020//
+/quintic_hermite.html/1.1/Tue Sep  8 20:42:27 2020//
+/rational.html/1.1/Tue Sep  8 20:42:27 2020//
+/rationale.html/1.1/Tue Sep  8 20:42:27 2020//
+/real_concepts.html/1.1/Tue Sep  8 20:42:27 2020//
+/refs.html/1.1/Tue Sep  8 20:42:27 2020//
+/relative_error.html/1.1/Tue Sep  8 20:42:27 2020//
+/remez.html/1.1/Tue Sep  8 20:42:27 2020//
+/result_type.html/1.1/Tue Sep  8 20:42:27 2020//
+/root_comparison.html/1.1/Tue Sep  8 20:42:27 2020//
+/root_finding_examples.html/1.1/Tue Sep  8 20:42:27 2020//
+/roots_deriv.html/1.1/Tue Sep  8 20:42:27 2020//
+/roots_noderiv.html/1.1/Tue Sep  8 20:42:28 2020//
+/rounding.html/1.1/Tue Sep  8 20:42:28 2020//
+/runs_test.html/1.1/Tue Sep  8 20:42:28 2020//
+/sf_beta.html/1.1/Tue Sep  8 20:42:28 2020//
+/sf_erf.html/1.1/Tue Sep  8 20:42:28 2020//
+/sf_gamma.html/1.1/Tue Sep  8 20:42:28 2020//
+/sf_implementation.html/1.1/Tue Sep  8 20:42:28 2020//
+/sf_poly.html/1.1/Tue Sep  8 20:42:32 2020//
+/sign_functions.html/1.1/Tue Sep  8 20:42:32 2020//
+/signal_statistics.html/1.1/Tue Sep  8 20:42:32 2020//
+/sinc.html/1.1/Tue Sep  8 20:42:32 2020//
+/spec.html/1.1/Tue Sep  8 20:42:32 2020//
+/special_tut.html/1.1/Tue Sep  8 20:42:32 2020//
+/specified_typedefs.html/1.1/Tue Sep  8 20:42:32 2020//
+/stat_tut.html/1.1/Tue Sep  8 20:42:32 2020//
+/t_test.html/1.1/Tue Sep  8 20:42:32 2020//
+/threads.html/1.1/Tue Sep  8 20:42:33 2020//
+/tr1_ref.html/1.1/Tue Sep  8 20:42:33 2020//
+/tradoffs.html/1.1/Tue Sep  8 20:42:33 2020//
+/trans.html/1.1/Tue Sep  8 20:42:33 2020//
+/trapezoidal.html/1.1/Tue Sep  8 20:42:33 2020//
+/tuning.html/1.1/Tue Sep  8 20:42:33 2020//
+/tutorial.html/1.1/Tue Sep  8 20:42:34 2020//
+/univariate_statistics.html/1.1/Tue Sep  8 20:42:35 2020//
+/value_op.html/1.1/Tue Sep  8 20:42:35 2020//
+/vector_barycentric.html/1.1/Tue Sep  8 20:42:35 2020//
+/wavelet_transforms.html/1.1/Tue Sep  8 20:42:35 2020//
+/whittaker_shannon.html/1.1/Tue Sep  8 20:42:35 2020//
+/zetas.html/1.1/Tue Sep  8 20:42:35 2020//
+D/airy////
+D/bessel////
+D/dist_ref////
+D/double_exponential////
+D/ellint////
+D/expint////
+D/factorials////
+D/float128////
+D/fp_facets////
+D/hankel////
+D/high_precision////
+D/hypergeometric////
+D/internals////
+D/inv_hyper////
+D/jacobi////
+D/logs_and_tables////
+D/next_float////
+D/number_series////
+D/pol_ref////
+D/pol_tutorial////
+D/powers////
+D/root_comparison////
+D/root_finding_examples////
+D/roots_noderiv////
+D/rounding////
+D/sf_beta////
+D/sf_erf////
+D/sf_gamma////
+D/sf_poly////
+D/sinc////
+D/special_tut////
+D/stat_tut////
+D/tutorial////
+D/zetas////

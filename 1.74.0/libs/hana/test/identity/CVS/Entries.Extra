@@ -1,0 +1,7 @@
+/applicative.full_mcd.cpp////*////
+/applicative.monad_mcd.cpp////*////
+/functor.adjust_mcd.cpp////*////
+/functor.transform_mcd.cpp////*////
+/main.hpp////*////
+/monad.chain_mcd.cpp////*////
+/monad.flatten_mcd.cpp////*////

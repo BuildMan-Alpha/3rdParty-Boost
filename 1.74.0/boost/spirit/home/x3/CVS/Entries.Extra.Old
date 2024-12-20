@@ -1,0 +1,10 @@
+/auxiliary.hpp////*////
+/binary.hpp////*////
+/char.hpp////*////
+/core.hpp////*////
+/directive.hpp////*////
+/nonterminal.hpp////*////
+/numeric.hpp////*////
+/operator.hpp////*////
+/string.hpp////*////
+/version.hpp////*////

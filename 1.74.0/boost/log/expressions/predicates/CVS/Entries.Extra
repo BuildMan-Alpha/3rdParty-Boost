@@ -1,0 +1,8 @@
+/begins_with.hpp////*////
+/channel_severity_filter.hpp////*////
+/contains.hpp////*////
+/ends_with.hpp////*////
+/has_attr.hpp////*////
+/is_debugger_present.hpp////*////
+/is_in_range.hpp////*////
+/matches.hpp////*////

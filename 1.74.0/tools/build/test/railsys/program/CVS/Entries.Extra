@@ -1,0 +1,5 @@
+/jamfile.jam////*////
+/jamroot.jam////*////
+D/include////////
+D/liba////////
+D/main////////

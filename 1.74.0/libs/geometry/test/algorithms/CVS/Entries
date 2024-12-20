@@ -1,0 +1,82 @@
+/Jamfile/1.1/Tue Sep  8 20:08:39 2020//
+/append.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/assign.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/centroid.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/centroid_multi.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/check_validity.hpp/1.1/Tue Sep  8 20:08:39 2020//
+/clear_multi.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/comparable_distance.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/convert.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/convert_multi.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/convex_hull.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/convex_hull_multi.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/correct.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/correct_closure.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/correct_multi.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/densify.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/for_each.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/for_each_multi.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/is_convex.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/is_empty.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/is_simple.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/is_simple_geo.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/is_valid.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/is_valid_failure.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/is_valid_geo.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/line_interpolate.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/make.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/maximum_gap.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/num_geometries.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/num_geometries_multi.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/num_interior_rings.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/num_interior_rings_multi.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/num_points.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/num_points_multi.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/num_segments.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/perimeter.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/perimeter_multi.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/point_on_surface.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/predef_relop.hpp/1.1/Tue Sep  8 20:08:39 2020//
+/pretty_print_geometry.hpp/1.1/Tue Sep  8 20:08:39 2020//
+/remove_spikes.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/reverse.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/reverse_multi.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/simplify.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/simplify_countries.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/simplify_multi.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/test_centroid.hpp/1.1/Tue Sep  8 20:08:39 2020//
+/test_convert.hpp/1.1/Tue Sep  8 20:08:39 2020//
+/test_convex_hull.hpp/1.1/Tue Sep  8 20:08:39 2020//
+/test_correct.hpp/1.1/Tue Sep  8 20:08:39 2020//
+/test_for_each.hpp/1.1/Tue Sep  8 20:08:39 2020//
+/test_is_simple.hpp/1.1/Tue Sep  8 20:08:39 2020//
+/test_is_valid.hpp/1.1/Tue Sep  8 20:08:39 2020//
+/test_length.hpp/1.1/Tue Sep  8 20:08:39 2020//
+/test_overlay.hpp/1.1/Tue Sep  8 20:08:39 2020//
+/test_perimeter.hpp/1.1/Tue Sep  8 20:08:39 2020//
+/test_reverse.hpp/1.1/Tue Sep  8 20:08:39 2020//
+/test_simplify.hpp/1.1/Tue Sep  8 20:08:39 2020//
+/test_unique.hpp/1.1/Tue Sep  8 20:08:39 2020//
+/transform.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/transform_multi.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/unique.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/unique_multi.cpp/1.1/Tue Sep  8 20:08:39 2020//
+D/area////
+D/buffer////
+D/covered_by////
+D/crosses////
+D/detail////
+D/disjoint////
+D/distance////
+D/envelope_expand////
+D/equals////
+D/intersects////
+D/length////
+D/overlaps////
+D/overlay////
+D/perimeter////
+D/relate////
+D/set_operations////
+D/similarity////
+D/touches////
+D/within////

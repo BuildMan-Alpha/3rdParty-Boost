@@ -1,0 +1,79 @@
+/append.html/1.1/Tue Sep  8 20:08:33 2020//
+/area.html/1.1/Tue Sep  8 20:08:33 2020//
+/assign.html/1.1/Tue Sep  8 20:08:33 2020//
+/buffer.html/1.1/Tue Sep  8 20:08:33 2020//
+/centroid.html/1.1/Tue Sep  8 20:08:33 2020//
+/clear.html/1.1/Tue Sep  8 20:08:33 2020//
+/convert.html/1.1/Tue Sep  8 20:08:33 2020//
+/convex_hull.html/1.1/Tue Sep  8 20:08:33 2020//
+/correct.html/1.1/Tue Sep  8 20:08:33 2020//
+/covered_by.html/1.1/Tue Sep  8 20:08:33 2020//
+/crosses.html/1.1/Tue Sep  8 20:08:33 2020//
+/densify.html/1.1/Tue Sep  8 20:08:33 2020//
+/difference.html/1.1/Tue Sep  8 20:08:33 2020//
+/discrete_frechet_distance.html/1.1/Tue Sep  8 20:08:33 2020//
+/discrete_hausdorff_distance.html/1.1/Tue Sep  8 20:08:33 2020//
+/disjoint.html/1.1/Tue Sep  8 20:08:33 2020//
+/distance.html/1.1/Tue Sep  8 20:08:33 2020//
+/envelope.html/1.1/Tue Sep  8 20:08:33 2020//
+/equals.html/1.1/Tue Sep  8 20:08:33 2020//
+/expand.html/1.1/Tue Sep  8 20:08:33 2020//
+/for_each.html/1.1/Tue Sep  8 20:08:33 2020//
+/intersection.html/1.1/Tue Sep  8 20:08:33 2020//
+/intersects.html/1.1/Tue Sep  8 20:08:33 2020//
+/is_empty.html/1.1/Tue Sep  8 20:08:33 2020//
+/is_simple.html/1.1/Tue Sep  8 20:08:33 2020//
+/is_valid.html/1.1/Tue Sep  8 20:08:33 2020//
+/length.html/1.1/Tue Sep  8 20:08:33 2020//
+/line_interpolate.html/1.1/Tue Sep  8 20:08:33 2020//
+/make.html/1.1/Tue Sep  8 20:08:33 2020//
+/num_geometries.html/1.1/Tue Sep  8 20:08:33 2020//
+/num_interior_rings.html/1.1/Tue Sep  8 20:08:33 2020//
+/num_points.html/1.1/Tue Sep  8 20:08:33 2020//
+/num_segments.html/1.1/Tue Sep  8 20:08:33 2020//
+/overlaps.html/1.1/Tue Sep  8 20:08:33 2020//
+/perimeter.html/1.1/Tue Sep  8 20:08:33 2020//
+/relate.html/1.1/Tue Sep  8 20:08:33 2020//
+/relation.html/1.1/Tue Sep  8 20:08:33 2020//
+/reverse.html/1.1/Tue Sep  8 20:08:33 2020//
+/simplify.html/1.1/Tue Sep  8 20:08:33 2020//
+/sym_difference.html/1.1/Tue Sep  8 20:08:33 2020//
+/touches.html/1.1/Tue Sep  8 20:08:33 2020//
+/transform.html/1.1/Tue Sep  8 20:08:33 2020//
+/union_.html/1.1/Tue Sep  8 20:08:33 2020//
+/unique.html/1.1/Tue Sep  8 20:08:33 2020//
+/within.html/1.1/Tue Sep  8 20:08:33 2020//
+D/area////
+D/assign////
+D/buffer////
+D/centroid////
+D/correct////
+D/covered_by////
+D/crosses////
+D/densify////
+D/difference////
+D/discrete_frechet_distance////
+D/discrete_hausdorff_distance////
+D/disjoint////
+D/distance////
+D/envelope////
+D/equals////
+D/expand////
+D/for_each////
+D/intersection////
+D/intersects////
+D/is_simple////
+D/is_valid////
+D/length////
+D/line_interpolate////
+D/make////
+D/overlaps////
+D/perimeter////
+D/relate////
+D/relation////
+D/simplify////
+D/sym_difference////
+D/touches////
+D/transform////
+D/union_////
+D/within////

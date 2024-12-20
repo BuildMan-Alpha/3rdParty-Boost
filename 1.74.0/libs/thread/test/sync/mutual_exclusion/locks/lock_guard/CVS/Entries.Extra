@@ -1,0 +1,11 @@
+/adopt_lock_pass.cpp////*////
+/copy_assign_fail.cpp////*////
+/copy_ctor_fail.cpp////*////
+/default_pass.cpp////*////
+/lock_guard_adopt_lock_compile_fail.cpp////*////
+/lock_guard_adopt_lock_compile_pass.cpp////*////
+/lock_guard_compile_fail.cpp////*////
+/lock_guard_compile_pass.cpp////*////
+/make_lock_guard_adopt_lock_pass.cpp////*////
+/make_lock_guard_pass.cpp////*////
+/types_pass.cpp////*////

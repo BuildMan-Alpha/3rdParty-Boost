@@ -1,0 +1,15 @@
+/Jamfile.v2/1.1/Tue Sep  8 20:24:26 2020//
+/has_128bit_floatmax_t.cpp/1.1/Tue Sep  8 20:24:26 2020//
+/has_e_float.cpp/1.1/Tue Sep  8 20:24:26 2020//
+/has_fftw3.cpp/1.1/Tue Sep  8 20:24:26 2020//
+/has_float128.cpp/1.1/Tue Sep  8 20:24:26 2020//
+/has_gcc_visibility.cpp/1.1/Tue Sep  8 20:24:26 2020//
+/has_gmp.cpp/1.1/Tue Sep  8 20:24:26 2020//
+/has_gmpxx.cpp/1.1/Tue Sep  8 20:24:26 2020//
+/has_intel_quad.cpp/1.1/Tue Sep  8 20:24:26 2020//
+/has_long_double_support.cpp/1.1/Tue Sep  8 20:24:26 2020//
+/has_mpfr.cpp/1.1/Tue Sep  8 20:24:26 2020//
+/has_mpfr_class.cpp/1.1/Tue Sep  8 20:24:26 2020//
+/has_mpreal.cpp/1.1/Tue Sep  8 20:24:26 2020//
+/has_ntl_rr.cpp/1.1/Tue Sep  8 20:24:26 2020//
+D

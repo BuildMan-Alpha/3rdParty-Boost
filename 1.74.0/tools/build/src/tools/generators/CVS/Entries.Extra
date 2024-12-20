@@ -1,0 +1,8 @@
+/__init_generators__.jam////*////
+/archive-generator.jam////*////
+/c-compiling-generator.jam////*////
+/dummy-generator.jam////*////
+/lib-generator.jam////*////
+/linking-generator.jam////*////
+/prebuilt-lib-generator.jam////*////
+/searched-lib-generator.jam////*////

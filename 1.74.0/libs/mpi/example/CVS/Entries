@@ -1,0 +1,17 @@
+/cartesian_communicator.cpp/1.1/Tue Sep  8 21:19:44 2020//
+/generate_collect.cpp/1.1/Tue Sep  8 21:19:45 2020//
+/generate_collect_optional.cpp/1.1/Tue Sep  8 21:19:45 2020//
+/global_min.cpp/1.1/Tue Sep  8 21:19:45 2020//
+/hello_world.cpp/1.1/Tue Sep  8 21:19:45 2020//
+/hello_world_broadcast.cpp/1.1/Tue Sep  8 21:19:45 2020//
+/hello_world_groups.cpp/1.1/Tue Sep  8 21:19:45 2020//
+/hello_world_nonblocking.cpp/1.1/Tue Sep  8 21:19:45 2020//
+/in_place_global_min.cpp/1.1/Tue Sep  8 21:19:45 2020//
+/parallel_example.cpp/1.1/Tue Sep  8 21:19:45 2020//
+/random_content.cpp/1.1/Tue Sep  8 21:19:45 2020//
+/random_gather.cpp/1.1/Tue Sep  8 21:19:45 2020//
+/random_min.cpp/1.1/Tue Sep  8 21:19:45 2020//
+/random_scatter.cpp/1.1/Tue Sep  8 21:19:45 2020//
+/reduce_performance_test.cpp/1.1/Tue Sep  8 21:19:45 2020//
+/string_cat.cpp/1.1/Tue Sep  8 21:19:45 2020//
+D/python////

@@ -1,0 +1,14 @@
+/instantiate_cpp_exprgrammar.cpp////*////
+/instantiate_cpp_grammar.cpp////*////
+/instantiate_cpp_literalgrs.cpp////*////
+/instantiate_defined_grammar.cpp////*////
+/instantiate_has_include_grammar.cpp////*////
+/instantiate_lexertl_lexer.cpp////*////
+/lexertl_interface.hpp////*////
+/lexertl_iterator.hpp////*////
+/list_includes.cpp////*////
+/list_includes.hpp////*////
+/list_includes_config.hpp////*////
+/list_includes_version.hpp////*////
+D/build////////
+D/lexertl////////

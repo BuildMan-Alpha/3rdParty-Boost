@@ -1,0 +1,6 @@
+/as_invocable.hpp////*////
+/as_operation.hpp////*////
+/as_receiver.hpp////*////
+/bulk_sender.hpp////*////
+/submit_receiver.hpp////*////
+/void_receiver.hpp////*////

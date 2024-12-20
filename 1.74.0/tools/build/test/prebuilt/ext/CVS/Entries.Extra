@@ -1,0 +1,7 @@
+/a.cpp////*////
+/jamfile.jam////*////
+/jamfile2.jam////*////
+/jamfile3.jam////*////
+/jamroot.jam////*////
+D/debug////////
+D/release////////

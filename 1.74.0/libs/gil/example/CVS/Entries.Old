@@ -1,0 +1,23 @@
+/CMakeLists.txt/1.1/Tue Sep  8 20:08:44 2020//
+/Jamfile/1.1/Tue Sep  8 20:08:44 2020//
+/README.md/1.1/Tue Sep  8 20:08:44 2020//
+/adaptive_threshold.cpp/1.1/Tue Sep  8 20:08:44 2020//
+/affine.cpp/1.1/Tue Sep  8 20:08:44 2020//
+/convolution.cpp/1.1/Tue Sep  8 20:08:44 2020//
+/convolve2d.cpp/1.1/Tue Sep  8 20:08:44 2020//
+/dynamic_image.cpp/1.1/Tue Sep  8 20:08:44 2020//
+/harris.cpp/1.1/Tue Sep  8 20:08:44 2020//
+/hessian.cpp/1.1/Tue Sep  8 20:08:44 2020//
+/histogram.cpp/1.1/Tue Sep  8 20:08:44 2020//
+/interleaved_ptr.cpp/1.1/Tue Sep  8 20:08:44 2020//
+/interleaved_ptr.hpp/1.1/Tue Sep  8 20:08:44 2020//
+/interleaved_ref.hpp/1.1/Tue Sep  8 20:08:45 2020//
+/mandelbrot.cpp/1.1/Tue Sep  8 20:08:45 2020//
+/packed_pixel.cpp/1.1/Tue Sep  8 20:08:45 2020//
+/resize.cpp/1.1/Tue Sep  8 20:08:45 2020//
+/sobel_scharr.cpp/1.1/Tue Sep  8 20:08:45 2020//
+/test.jpg/1.1/Tue Sep  8 20:08:45 2020/-kb/
+/test_adaptive.png/1.1/Tue Sep  8 20:08:45 2020/-kb/
+/threshold.cpp/1.1/Tue Sep  8 20:08:45 2020//
+/x_gradient.cpp/1.1/Tue Sep  8 20:08:45 2020//
+D

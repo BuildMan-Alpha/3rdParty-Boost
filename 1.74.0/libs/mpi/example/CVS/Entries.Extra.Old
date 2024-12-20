@@ -1,0 +1,16 @@
+/cartesian_communicator.cpp////*////
+/generate_collect.cpp////*////
+/generate_collect_optional.cpp////*////
+/global_min.cpp////*////
+/hello_world.cpp////*////
+/hello_world_broadcast.cpp////*////
+/hello_world_groups.cpp////*////
+/hello_world_nonblocking.cpp////*////
+/in_place_global_min.cpp////*////
+/parallel_example.cpp////*////
+/random_content.cpp////*////
+/random_gather.cpp////*////
+/random_min.cpp////*////
+/random_scatter.cpp////*////
+/reduce_performance_test.cpp////*////
+/string_cat.cpp////*////

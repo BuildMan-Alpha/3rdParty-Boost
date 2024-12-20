@@ -1,0 +1,13 @@
+/Jamfile.v2////*////
+/pass_thru.cpp////*////
+/pass_thru.gold////*////
+/pass_thru.gold-html////*////
+/pass_thru.py////*////
+/pass_thru.quickbook////*////
+/unbalanced_snippet1-1_5.gold////*////
+/unbalanced_snippet1-1_5.gold-html////*////
+/unbalanced_snippet1-1_5.quickbook////*////
+/unbalanced_snippet1-1_6-fail.quickbook////*////
+/unbalanced_snippet1.cpp////*////
+/unbalanced_snippet2-1_6-fail.quickbook////*////
+/unbalanced_snippet2.cpp////*////

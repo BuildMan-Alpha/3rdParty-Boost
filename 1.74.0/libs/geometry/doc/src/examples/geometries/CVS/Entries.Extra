@@ -1,0 +1,14 @@
+/Jamfile////*////
+/box.cpp////*////
+/linestring.cpp////*////
+/multi_linestring.cpp////*////
+/multi_point.cpp////*////
+/multi_polygon.cpp////*////
+/point.cpp////*////
+/point_xy.cpp////*////
+/point_xyz.cpp////*////
+/polygon.cpp////*////
+/ring.cpp////*////
+/segment.cpp////*////
+D/adapted////////
+D/register////////

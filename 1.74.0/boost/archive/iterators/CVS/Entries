@@ -1,0 +1,18 @@
+/base64_exception.hpp/1.1/Tue Sep  8 16:04:49 2020//
+/base64_from_binary.hpp/1.1/Tue Sep  8 16:04:49 2020//
+/binary_from_base64.hpp/1.1/Tue Sep  8 16:04:49 2020//
+/dataflow.hpp/1.1/Tue Sep  8 16:04:49 2020//
+/dataflow_exception.hpp/1.1/Tue Sep  8 16:04:49 2020//
+/escape.hpp/1.1/Tue Sep  8 16:04:49 2020//
+/insert_linebreaks.hpp/1.1/Tue Sep  8 16:04:49 2020//
+/istream_iterator.hpp/1.1/Tue Sep  8 16:04:49 2020//
+/mb_from_wchar.hpp/1.1/Tue Sep  8 16:04:49 2020//
+/ostream_iterator.hpp/1.1/Tue Sep  8 16:04:49 2020//
+/remove_whitespace.hpp/1.1/Tue Sep  8 16:04:49 2020//
+/transform_width.hpp/1.1/Tue Sep  8 16:04:49 2020//
+/unescape.hpp/1.1/Tue Sep  8 16:04:49 2020//
+/wchar_from_mb.hpp/1.1/Tue Sep  8 16:04:49 2020//
+/xml_escape.hpp/1.1/Tue Sep  8 16:04:49 2020//
+/xml_unescape.hpp/1.1/Tue Sep  8 16:04:49 2020//
+/xml_unescape_exception.hpp/1.1/Tue Sep  8 16:04:49 2020//
+D

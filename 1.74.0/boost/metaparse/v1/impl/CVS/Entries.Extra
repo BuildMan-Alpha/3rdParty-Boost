@@ -1,0 +1,16 @@
+/apply_parser.hpp////*////
+/assert_string_length.hpp////*////
+/at_c.hpp////*////
+/back_inserter.hpp////*////
+/front_inserter.hpp////*////
+/has_type.hpp////*////
+/is_char_c.hpp////*////
+/iterate_impl.hpp////*////
+/iterate_impl_unchecked.hpp////*////
+/next_digit.hpp////*////
+/no_char.hpp////*////
+/returns.hpp////*////
+/string_iterator.hpp////*////
+/string_iterator_tag.hpp////*////
+/void_.hpp////*////
+D/fwd////////

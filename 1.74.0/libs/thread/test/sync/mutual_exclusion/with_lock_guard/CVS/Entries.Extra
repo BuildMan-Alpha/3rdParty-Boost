@@ -1,0 +1,4 @@
+/with_lock_guard_bind.cpp////*////
+/with_lock_guard_lambda.cpp////*////
+/with_lock_guard_move.cpp////*////
+/with_lock_guard_simple.cpp////*////

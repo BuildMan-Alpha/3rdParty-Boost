@@ -1,0 +1,7 @@
+/named_condition.hpp////*////
+/named_condition_any.hpp////*////
+/named_creation_functor.hpp////*////
+/named_mutex.hpp////*////
+/named_recursive_mutex.hpp////*////
+/named_semaphore.hpp////*////
+/named_upgradable_mutex.hpp////*////

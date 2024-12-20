@@ -1,0 +1,13 @@
+Boost Notes:
+
+As of 1.74.0, (possibly sooner) Boost has a separate source file install and installers for each 
+VS library.
+
+The build Alpha Anywhere build scripts assume the libraries and DLLs are all in stage\lib.
+
+1. Download the new source files and install them.
+2. Download the 32-bit versions of all of the VS files needed (currently 141 and 142) and install them. under the root of the installed source 
+	(strip off any path to just the root of the current version).
+3. To be safe, download and install the 64-bit versions as well.
+4. Copy the lib and DLL files for each variant of 32/64-bit and v141/142 (and whatever comes afterwared to stage\lib under the installed source root.
+	Note that they will each have a libxxxxxxx directory.

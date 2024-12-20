@@ -1,0 +1,17 @@
+/Jamfile.v2////*////
+/freelist_test.cpp////*////
+/queue_bounded_stress_test.cpp////*////
+/queue_fixedsize_stress_test.cpp////*////
+/queue_interprocess_test.cpp////*////
+/queue_test.cpp////*////
+/queue_unbounded_stress_test.cpp////*////
+/spsc_queue_stress_test.cpp////*////
+/spsc_queue_test.cpp////*////
+/stack_bounded_stress_test.cpp////*////
+/stack_fixedsize_stress_test.cpp////*////
+/stack_interprocess_test.cpp////*////
+/stack_test.cpp////*////
+/stack_unbounded_stress_test.cpp////*////
+/tagged_ptr_test.cpp////*////
+/test_common.hpp////*////
+/test_helpers.hpp////*////

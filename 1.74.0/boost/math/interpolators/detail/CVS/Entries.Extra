@@ -1,0 +1,11 @@
+/barycentric_rational_detail.hpp////*////
+/cardinal_cubic_b_spline_detail.hpp////*////
+/cardinal_quadratic_b_spline_detail.hpp////*////
+/cardinal_quintic_b_spline_detail.hpp////*////
+/cardinal_trigonometric_detail.hpp////*////
+/cubic_b_spline_detail.hpp////*////
+/cubic_hermite_detail.hpp////*////
+/quintic_hermite_detail.hpp////*////
+/septic_hermite_detail.hpp////*////
+/vector_barycentric_rational_detail.hpp////*////
+/whittaker_shannon_detail.hpp////*////

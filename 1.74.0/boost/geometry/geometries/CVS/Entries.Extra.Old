@@ -1,0 +1,16 @@
+/box.hpp////*////
+/geometries.hpp////*////
+/helper_geometry.hpp////*////
+/infinite_line.hpp////*////
+/linestring.hpp////*////
+/multi_linestring.hpp////*////
+/multi_point.hpp////*////
+/multi_polygon.hpp////*////
+/point.hpp////*////
+/point_xy.hpp////*////
+/point_xyz.hpp////*////
+/pointing_segment.hpp////*////
+/polygon.hpp////*////
+/ring.hpp////*////
+/segment.hpp////*////
+/variant.hpp////*////

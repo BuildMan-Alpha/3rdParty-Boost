@@ -1,0 +1,11 @@
+/check-streams-on-exit.cpp////*////
+/decorators-datatestcase-test.cpp////*////
+/log-count-skipped-test.cpp////*////
+/log-formatter-test.cpp////*////
+/logger-for-tests.hpp////*////
+/master-test-suite-non-copyable-test.cpp////*////
+/message-in-datatestcase-test.cpp////*////
+/result-report-test.cpp////*////
+/run-by-name-or-label-test.cpp////*////
+/test-macro-global-fixture.cpp////*////
+/version-uses-module-name.cpp////*////

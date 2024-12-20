@@ -1,0 +1,16 @@
+/Jamfile////*////
+/boost.vsprops////*////
+/configuration.hpp////*////
+/deployment_path.vsprops////*////
+/doxygen_elements.hpp////*////
+/doxygen_xml2qbk.cpp////*////
+/doxygen_xml2qbk.sln////*////
+/doxygen_xml2qbk.vcproj////*////
+/doxygen_xml_parser.hpp////*////
+/file_to_string.hpp////*////
+/for_debugger.ini////*////
+/parameter_predicates.hpp////*////
+/quickbook_output.hpp////*////
+/rapidxml_util.hpp////*////
+D/contrib////////
+D/sample////////

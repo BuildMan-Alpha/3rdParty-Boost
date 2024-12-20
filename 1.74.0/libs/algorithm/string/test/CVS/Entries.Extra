@@ -1,0 +1,10 @@
+/Jamfile.v2////*////
+/conv_test.cpp////*////
+/find_format_test.cpp////*////
+/find_test.cpp////*////
+/join_test.cpp////*////
+/predicate_test.cpp////*////
+/regex_test.cpp////*////
+/replace_test.cpp////*////
+/split_test.cpp////*////
+/trim_test.cpp////*////

@@ -1,0 +1,9 @@
+/assign_fail.cpp////*////
+/copy_fail.cpp////*////
+/default_pass.cpp////*////
+/dtor_pass.cpp////*////
+/lost_notif_pass.cpp////*////
+/wait_for_pass.cpp////*////
+/wait_for_pred_pass.cpp////*////
+/wait_until_pass.cpp////*////
+/wait_until_pred_pass.cpp////*////

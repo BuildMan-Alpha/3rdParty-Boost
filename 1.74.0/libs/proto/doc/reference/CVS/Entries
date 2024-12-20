@@ -1,0 +1,27 @@
+/args.xml/1.1/Tue Sep  8 20:16:05 2020//
+/context.xml/1.1/Tue Sep  8 20:16:05 2020//
+/core.xml/1.1/Tue Sep  8 20:16:05 2020//
+/debug.xml/1.1/Tue Sep  8 20:16:05 2020//
+/deep_copy.xml/1.1/Tue Sep  8 20:16:05 2020//
+/domain.xml/1.1/Tue Sep  8 20:16:05 2020//
+/eval.xml/1.1/Tue Sep  8 20:16:05 2020//
+/expr.xml/1.1/Tue Sep  8 20:16:05 2020//
+/extends.xml/1.1/Tue Sep  8 20:16:05 2020//
+/functional.xml/1.1/Tue Sep  8 20:16:05 2020//
+/fusion.xml/1.1/Tue Sep  8 20:16:05 2020//
+/generate.xml/1.1/Tue Sep  8 20:16:05 2020//
+/literal.xml/1.1/Tue Sep  8 20:16:05 2020//
+/make_expr.xml/1.1/Tue Sep  8 20:16:05 2020//
+/matches.xml/1.1/Tue Sep  8 20:16:05 2020//
+/operators.xml/1.1/Tue Sep  8 20:16:05 2020//
+/proto.xml/1.1/Tue Sep  8 20:16:05 2020//
+/proto_fwd.xml/1.1/Tue Sep  8 20:16:05 2020//
+/proto_typeof.xml/1.1/Tue Sep  8 20:16:05 2020//
+/repeat.xml/1.1/Tue Sep  8 20:16:05 2020//
+/tags.xml/1.1/Tue Sep  8 20:16:05 2020//
+/traits.xml/1.1/Tue Sep  8 20:16:05 2020//
+/transform.xml/1.1/Tue Sep  8 20:16:05 2020//
+D/concepts////
+D/context////
+D/functional////
+D/transform////

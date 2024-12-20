@@ -1,0 +1,18 @@
+/CMakeLists.txt/1.1/Tue Sep  8 20:21:29 2020//
+/Jamfile.v2/1.1/Tue Sep  8 20:21:29 2020//
+/custom_combiners.cpp/1.1/Tue Sep  8 20:21:29 2020//
+/disconnect_and_block.cpp/1.1/Tue Sep  8 20:21:29 2020//
+/doc_view.cpp/1.1/Tue Sep  8 20:21:29 2020//
+/doc_view_acm.cpp/1.1/Tue Sep  8 20:21:29 2020//
+/doc_view_acm_deconstruct.cpp/1.1/Tue Sep  8 20:21:29 2020//
+/extended_slot.cpp/1.1/Tue Sep  8 20:21:29 2020//
+/hello_world_multi_slot.cpp/1.1/Tue Sep  8 20:21:29 2020//
+/hello_world_slot.cpp/1.1/Tue Sep  8 20:21:29 2020//
+/ordering_slots.cpp/1.1/Tue Sep  8 20:21:29 2020//
+/passing_slots.cpp/1.1/Tue Sep  8 20:21:29 2020//
+/postconstructor_ex1.cpp/1.1/Tue Sep  8 20:21:29 2020//
+/postconstructor_ex2.cpp/1.1/Tue Sep  8 20:21:29 2020//
+/predestructor_example.cpp/1.1/Tue Sep  8 20:21:29 2020//
+/signal_return_value.cpp/1.1/Tue Sep  8 20:21:29 2020//
+/slot_arguments.cpp/1.1/Tue Sep  8 20:21:29 2020//
+D

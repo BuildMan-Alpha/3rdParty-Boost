@@ -1,0 +1,15 @@
+/associative_ptr_container.hpp////*////
+/default_deleter.hpp////*////
+/is_convertible.hpp////*////
+/map_iterator.hpp////*////
+/meta_functions.hpp////*////
+/move.hpp////*////
+/ptr_container_disable_deprecated.hpp////*////
+/reversible_ptr_container.hpp////*////
+/scoped_deleter.hpp////*////
+/serialize_ptr_map_adapter.hpp////*////
+/serialize_reversible_cont.hpp////*////
+/serialize_xml_names.hpp////*////
+/static_move_ptr.hpp////*////
+/throw_exception.hpp////*////
+/void_ptr_iterator.hpp////*////

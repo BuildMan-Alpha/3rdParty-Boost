@@ -1,0 +1,7 @@
+/base.hpp////*////
+/lexical_cast.hpp////*////
+/parameters.hpp////*////
+/printf.hpp////*////
+/spirit.hpp////*////
+/stream.hpp////*////
+/strtol.hpp////*////

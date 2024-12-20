@@ -1,0 +1,13 @@
+/Jamfile////*////
+/content.cpp////*////
+/intersection_content.cpp////*////
+/is_valid.cpp////*////
+/margin.cpp////*////
+/minmaxdist.cpp////*////
+/path_intersection.cpp////*////
+/segment_intersection.cpp////*////
+/test_content.hpp////*////
+/test_intersection_content.hpp////*////
+/test_margin.hpp////*////
+/test_union_content.hpp////*////
+/union_content.cpp////*////

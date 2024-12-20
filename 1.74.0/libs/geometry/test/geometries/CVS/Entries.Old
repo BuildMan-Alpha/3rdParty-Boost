@@ -1,0 +1,23 @@
+/Jamfile/1.1/Tue Sep  8 20:08:39 2020//
+/adapted.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/boost_array_as_point.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/boost_fusion.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/boost_polygon.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/boost_polygon_overlay.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/boost_range.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/boost_tuple.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/box.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/custom_linestring.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/infinite_line.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/initialization.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/linestring.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/multi_linestring.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/multi_point.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/multi_polygon.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/point.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/point_xy.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/point_xyz.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/polygon.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/ring.cpp/1.1/Tue Sep  8 20:08:39 2020//
+/segment.cpp/1.1/Tue Sep  8 20:08:39 2020//
+D

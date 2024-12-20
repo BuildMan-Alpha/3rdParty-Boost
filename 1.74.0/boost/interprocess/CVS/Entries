@@ -1,0 +1,29 @@
+/anonymous_shared_memory.hpp/1.1/Tue Sep  8 16:09:56 2020//
+/creation_tags.hpp/1.1/Tue Sep  8 16:09:56 2020//
+/errors.hpp/1.1/Tue Sep  8 16:09:56 2020//
+/exceptions.hpp/1.1/Tue Sep  8 16:09:56 2020//
+/file_mapping.hpp/1.1/Tue Sep  8 16:09:56 2020//
+/interprocess_fwd.hpp/1.1/Tue Sep  8 16:09:56 2020//
+/managed_external_buffer.hpp/1.1/Tue Sep  8 16:09:56 2020//
+/managed_heap_memory.hpp/1.1/Tue Sep  8 16:09:56 2020//
+/managed_mapped_file.hpp/1.1/Tue Sep  8 16:09:56 2020//
+/managed_shared_memory.hpp/1.1/Tue Sep  8 16:09:56 2020//
+/managed_windows_shared_memory.hpp/1.1/Tue Sep  8 16:09:56 2020//
+/managed_xsi_shared_memory.hpp/1.1/Tue Sep  8 16:09:56 2020//
+/mapped_region.hpp/1.1/Tue Sep  8 16:09:56 2020//
+/offset_ptr.hpp/1.1/Tue Sep  8 16:09:56 2020//
+/permissions.hpp/1.1/Tue Sep  8 16:09:56 2020//
+/segment_manager.hpp/1.1/Tue Sep  8 16:09:57 2020//
+/shared_memory_object.hpp/1.1/Tue Sep  8 16:09:57 2020//
+/windows_shared_memory.hpp/1.1/Tue Sep  8 16:09:57 2020//
+/xsi_key.hpp/1.1/Tue Sep  8 16:09:57 2020//
+/xsi_shared_memory.hpp/1.1/Tue Sep  8 16:09:57 2020//
+D/allocators////
+D/containers////
+D/detail////
+D/indexes////
+D/ipc////
+D/mem_algo////
+D/smart_ptr////
+D/streams////
+D/sync////

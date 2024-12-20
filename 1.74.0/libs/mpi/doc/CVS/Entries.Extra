@@ -1,0 +1,15 @@
+/Jamfile.v2////*////
+/c_mapping.qbk////*////
+/collective.qbk////*////
+/communicator.qbk////*////
+/getting_started.qbk////*////
+/introduction.qbk////*////
+/mpi.qbk////*////
+/mpi_autodoc.xml////*////
+/netpipe.png////*////
+/point_to_point.qbk////*////
+/python.qbk////*////
+/skeleton_and_content.qbk////*////
+/threading.qbk////*////
+/tutorial.qbk////*////
+/user_data_types.qbk////*////

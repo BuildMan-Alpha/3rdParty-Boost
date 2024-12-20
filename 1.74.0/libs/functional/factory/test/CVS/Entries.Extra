@@ -1,0 +1,11 @@
+/Jamfile////*////
+/factory.cpp////*////
+/factory_allocator_throws.cpp////*////
+/factory_args.cpp////*////
+/factory_default_allocator.cpp////*////
+/factory_move.cpp////*////
+/factory_with_allocator.cpp////*////
+/factory_with_std_allocator.cpp////*////
+/value_factory.cpp////*////
+/value_factory_args.cpp////*////
+/value_factory_move.cpp////*////

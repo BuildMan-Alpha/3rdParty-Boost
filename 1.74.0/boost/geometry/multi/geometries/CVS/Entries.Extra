@@ -1,0 +1,6 @@
+/multi_geometries.hpp////*////
+/multi_linestring.hpp////*////
+/multi_point.hpp////*////
+/multi_polygon.hpp////*////
+D/concepts////////
+D/register////////

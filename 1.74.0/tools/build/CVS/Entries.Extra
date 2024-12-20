@@ -1,0 +1,14 @@
+/CONTRIBUTING.adoc////*////
+/Jamroot.jam////*////
+/LICENSE.txt////*////
+/README.adoc////*////
+/azure-pipelines.yml////*////
+/boost-build.jam////*////
+/bootstrap.bat////*////
+/bootstrap.sh////*////
+/bootstrap_vms.com////*////
+D/doc////////
+D/example////////
+D/notes////////
+D/src////////
+D/test////////

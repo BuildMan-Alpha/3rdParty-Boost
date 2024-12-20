@@ -1,0 +1,15 @@
+/Jamfile////*////
+D/algorithm////////
+D/bind////////
+D/bll_compatibility////////
+D/boost_bind_compatibility////////
+D/container////////
+D/core////////
+D/function////////
+D/include////////
+D/object////////
+D/operator////////
+D/regression////////
+D/scope////////
+D/statement////////
+D/stdlib////////

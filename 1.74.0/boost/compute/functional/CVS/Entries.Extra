@@ -1,0 +1,17 @@
+/as.hpp////*////
+/atomic.hpp////*////
+/bind.hpp////*////
+/common.hpp////*////
+/convert.hpp////*////
+/field.hpp////*////
+/geometry.hpp////*////
+/get.hpp////*////
+/hash.hpp////*////
+/identity.hpp////*////
+/integer.hpp////*////
+/logical.hpp////*////
+/math.hpp////*////
+/operator.hpp////*////
+/popcount.hpp////*////
+/relational.hpp////*////
+D/detail////////

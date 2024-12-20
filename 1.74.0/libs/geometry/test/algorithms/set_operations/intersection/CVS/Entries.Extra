@@ -1,0 +1,13 @@
+/Jamfile////*////
+/intersection.cpp////*////
+/intersection_aa_sph.cpp////*////
+/intersection_areal_areal_linear.cpp////*////
+/intersection_linear_linear.cpp////*////
+/intersection_multi.cpp////*////
+/intersection_pl_a.cpp////*////
+/intersection_pl_l.cpp////*////
+/intersection_pl_pl.cpp////*////
+/intersection_segment.cpp////*////
+/intersection_tupled.cpp////*////
+/test_intersection.hpp////*////
+/test_intersection_linear_linear.hpp////*////

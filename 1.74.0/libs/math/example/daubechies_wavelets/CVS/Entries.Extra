@@ -1,0 +1,10 @@
+/bench.cpp////*////
+/bootstrap_chebyshev.cpp////*////
+/daubechies_coefficients.cpp////*////
+/daubechies_plots.cpp////*////
+/daubechies_scaling_integer_grid.cpp////*////
+/daubechies_scaling_memory_occupation.cpp////*////
+/daubechies_wavelet_plots.cpp////*////
+/find_best_daubechies_interpolator.cpp////*////
+/regress_daubechies_accuracy.cpp////*////
+/wavelet_transform.cpp////*////

@@ -1,0 +1,6 @@
+/condition.hpp////*////
+/interprocess_barrier.hpp////*////
+/mutex.hpp////*////
+/recursive_mutex.hpp////*////
+/semaphore.hpp////*////
+/wait.hpp////*////

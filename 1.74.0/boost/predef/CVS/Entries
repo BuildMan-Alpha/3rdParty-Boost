@@ -1,0 +1,20 @@
+/architecture.h/1.1/Tue Sep  8 16:09:30 2020//
+/compiler.h/1.1/Tue Sep  8 16:09:30 2020//
+/hardware.h/1.1/Tue Sep  8 16:09:30 2020//
+/language.h/1.1/Tue Sep  8 16:09:30 2020//
+/library.h/1.1/Tue Sep  8 16:09:30 2020//
+/make.h/1.1/Tue Sep  8 16:09:30 2020//
+/os.h/1.1/Tue Sep  8 16:09:30 2020//
+/other.h/1.1/Tue Sep  8 16:09:30 2020//
+/platform.h/1.1/Tue Sep  8 16:09:30 2020//
+/version.h/1.1/Tue Sep  8 16:09:30 2020//
+/version_number.h/1.1/Tue Sep  8 16:09:30 2020//
+D/architecture////
+D/compiler////
+D/detail////
+D/hardware////
+D/language////
+D/library////
+D/os////
+D/other////
+D/platform////

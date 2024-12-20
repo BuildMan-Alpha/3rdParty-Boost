@@ -1,0 +1,14 @@
+/CMakeLists.txt////*////
+/Jamfile.v2////*////
+/array.cpp////*////
+/bidirectional.cpp////*////
+/detail.cpp////*////
+/forward.cpp////*////
+/ill_formed.hpp////*////
+/input.cpp////*////
+/output.cpp////*////
+/random_access.cpp////*////
+/reverse_iter.cpp////*////
+/static_vec.cpp////*////
+/static_vec_noncopyable.cpp////*////
+/view_tests.hpp////*////

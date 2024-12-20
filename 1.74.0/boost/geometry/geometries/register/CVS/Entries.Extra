@@ -1,0 +1,8 @@
+/box.hpp////*////
+/linestring.hpp////*////
+/multi_linestring.hpp////*////
+/multi_point.hpp////*////
+/multi_polygon.hpp////*////
+/point.hpp////*////
+/ring.hpp////*////
+/segment.hpp////*////

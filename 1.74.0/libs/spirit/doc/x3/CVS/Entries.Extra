@@ -1,0 +1,12 @@
+/Jamfile////*////
+/abstracts.qbk////*////
+/changelog.qbk////*////
+/include.qbk////*////
+/introduction.qbk////*////
+/preface.qbk////*////
+/quick_reference.qbk////*////
+/spirit_x3.qbk////*////
+D/abstracts////////
+D/cppnow_2013////////
+D/html////////
+D/tutorial////////

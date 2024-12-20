@@ -1,0 +1,7 @@
+/assign_fail.cpp////*////
+/copy_fail.cpp////*////
+/default_pass.cpp////*////
+/lock_pass.cpp////*////
+/try_lock_for_pass.cpp////*////
+/try_lock_pass.cpp////*////
+/try_lock_until_pass.cpp////*////

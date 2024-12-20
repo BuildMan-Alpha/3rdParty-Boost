@@ -1,0 +1,11 @@
+/sort.hpp/1.1/Tue Sep  8 16:10:00 2020//
+D/block_indirect_sort////
+D/common////
+D/flat_stable_sort////
+D/heap_sort////
+D/insert_sort////
+D/parallel_stable_sort////
+D/pdqsort////
+D/sample_sort////
+D/spinsort////
+D/spreadsort////

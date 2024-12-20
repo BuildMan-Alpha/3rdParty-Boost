@@ -1,0 +1,8 @@
+/Makefile////*////
+/driver.hpp////*////
+/fold.cpp////*////
+/sfinae_friendly.hpp////*////
+/transform.cpp////*////
+/vector_construction.cpp////*////
+/vector_intrinsic.cpp////*////
+/vector_iteration.cpp////*////

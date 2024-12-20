@@ -1,0 +1,618 @@
+b2 -j%NUMBER_OF_PROCESSORS% --without-mpi --build-dir=D:\RB/bin.v2 --stage-libdir=lib64-msvc-10.0 --build-type=complete toolset=msvc-10.0 address-model=64 architecture=x86 stage
+Performing configuration checks
+
+    - default address-model    : 32-bit (cached)
+    - default architecture     : x86 (cached)
+    - has synchronization.lib  : no  (cached)
+    - C++11 mutex              : no  (cached)
+    - has BCrypt API           : yes (cached)
+    - has stat::st_mtim        : no  (cached)
+    - has stat::st_mtimensec   : no  (cached)
+    - has stat::st_mtimespec   : no  (cached)
+    - Boost.Config Feature Check: cxx11_auto_declarations : yes (cached)
+    - Boost.Config Feature Check: cxx11_constexpr : no  (cached)
+    - Boost.Config Feature Check: cxx11_defaulted_functions : no  (cached)
+    - Boost.Config Feature Check: cxx11_final : no  (cached)
+    - Boost.Config Feature Check: cxx11_hdr_mutex : no  (cached)
+    - Boost.Config Feature Check: cxx11_hdr_tuple : yes (cached)
+    - Boost.Config Feature Check: cxx11_lambdas : yes (cached)
+    - Boost.Config Feature Check: cxx11_noexcept : no  (cached)
+    - Boost.Config Feature Check: cxx11_nullptr : yes (cached)
+    - Boost.Config Feature Check: cxx11_rvalue_references : yes (cached)
+    - Boost.Config Feature Check: cxx11_template_aliases : no  (cached)
+    - Boost.Config Feature Check: cxx11_thread_local : no  (cached)
+    - Boost.Config Feature Check: cxx11_variadic_templates : no  (cached)
+    - has_icu builds           : no  (cached)
+warning: Graph library does not contain MPI-based parallel components.
+note: to enable them, add "using mpi ;" to your user-config.jam.
+note: to suppress this message, pass "--without-graph_parallel" to bjam.
+    - lzma                     : no  (cached)
+    - zstd                     : no  (cached)
+    - has_lzma_cputhreads builds : no  (cached)
+    - iconv (libc)             : no  (cached)
+    - iconv (separate)         : no  (cached)
+    - icu                      : no  (cached)
+    - icu (lib64)              : no  (cached)
+    - native-atomic-int32-supported : yes (cached)
+    - message-compiler         : yes (cached)
+    - native-syslog-supported  : no  (cached)
+    - pthread-supports-robust-mutexes : no  (cached)
+    - compiler-supports-ssse3  : yes (cached)
+    - compiler-supports-avx2   : no  (cached)
+    - gcc visibility           : no  (cached)
+    - long double support      : yes (cached)
+    - Boost.Config Feature Check: cxx11_static_assert : yes (cached)
+    - std::fstream is moveable and swappable : yes (cached)
+    - Has Large File Support   : yes (cached)
+    - libbacktrace builds      : no  (cached)
+    - addr2line builds         : no  (cached)
+    - WinDbg builds            : yes (cached)
+    - WinDbgCached builds      : no  (cached)
+    - BOOST_COMP_GNUC >= 4.3.0 : no  (cached)
+    - lzma                     : no  (cached)
+    - zstd                     : no  (cached)
+    - lzma                     : no  (cached)
+    - zstd                     : no  (cached)
+    - lzma                     : no  (cached)
+    - zstd                     : no  (cached)
+    - lzma                     : no  (cached)
+    - zstd                     : no  (cached)
+    - lzma                     : no  (cached)
+    - zstd                     : no  (cached)
+
+Component configuration:
+
+    - atomic                   : building
+    - chrono                   : building
+    - container                : building
+    - context                  : building
+    - contract                 : building
+    - coroutine                : building
+    - date_time                : building
+    - exception                : building
+    - fiber                    : building
+    - filesystem               : building
+    - graph                    : building
+    - graph_parallel           : building
+    - headers                  : building
+    - iostreams                : building
+    - locale                   : building
+    - log                      : building
+    - math                     : building
+    - mpi                      : not building
+    - nowide                   : building
+    - program_options          : building
+    - python                   : building
+    - random                   : building
+    - regex                    : building
+    - serialization            : building
+    - stacktrace               : building
+    - system                   : building
+    - test                     : building
+    - thread                   : building
+    - timer                    : building
+    - type_erasure             : building
+    - wave                     : building
+
+...patience...
+...patience...
+...patience...
+...patience...
+...patience...
+...patience...
+...found 37338 targets...
+b2 -j%NUMBER_OF_PROCESSORS% --without-mpi --build-dir=D:\RB/bin.v2 --stage-libdir=lib64-msvc-11.0 --build-type=complete toolset=msvc-11.0 address-model=64 architecture=x86 stage
+Performing configuration checks
+
+    - default address-model    : 32-bit (cached)
+    - default architecture     : x86 (cached)
+    - has synchronization.lib  : yes (cached)
+    - C++11 mutex              : yes (cached)
+    - has BCrypt API           : yes (cached)
+    - has stat::st_mtim        : no  (cached)
+    - has stat::st_mtimensec   : no  (cached)
+    - has stat::st_mtimespec   : no  (cached)
+    - Boost.Config Feature Check: cxx11_auto_declarations : yes (cached)
+    - Boost.Config Feature Check: cxx11_constexpr : no  (cached)
+    - Boost.Config Feature Check: cxx11_defaulted_functions : no  (cached)
+    - Boost.Config Feature Check: cxx11_final : yes (cached)
+    - Boost.Config Feature Check: cxx11_hdr_mutex : yes (cached)
+    - Boost.Config Feature Check: cxx11_hdr_tuple : no  (cached)
+    - Boost.Config Feature Check: cxx11_lambdas : yes (cached)
+    - Boost.Config Feature Check: cxx11_noexcept : no  (cached)
+    - Boost.Config Feature Check: cxx11_nullptr : yes (cached)
+    - Boost.Config Feature Check: cxx11_rvalue_references : yes (cached)
+    - Boost.Config Feature Check: cxx11_template_aliases : no  (cached)
+    - Boost.Config Feature Check: cxx11_thread_local : no  (cached)
+    - Boost.Config Feature Check: cxx11_variadic_templates : no  (cached)
+    - has_icu builds           : no  (cached)
+warning: Graph library does not contain MPI-based parallel components.
+note: to enable them, add "using mpi ;" to your user-config.jam.
+note: to suppress this message, pass "--without-graph_parallel" to bjam.
+    - lzma                     : no  (cached)
+    - zstd                     : no  (cached)
+    - has_lzma_cputhreads builds : no  (cached)
+    - iconv (libc)             : no  (cached)
+    - iconv (separate)         : no  (cached)
+    - icu                      : no  (cached)
+    - icu (lib64)              : no  (cached)
+    - native-atomic-int32-supported : yes (cached)
+    - message-compiler         : yes (cached)
+    - native-syslog-supported  : no  (cached)
+    - pthread-supports-robust-mutexes : no  (cached)
+    - compiler-supports-ssse3  : yes (cached)
+    - compiler-supports-avx2   : yes (cached)
+    - gcc visibility           : no  (cached)
+    - long double support      : yes (cached)
+    - Boost.Config Feature Check: cxx11_static_assert : yes (cached)
+    - std::fstream is moveable and swappable : yes (cached)
+    - Has Large File Support   : yes (cached)
+    - libbacktrace builds      : no  (cached)
+    - addr2line builds         : no  (cached)
+    - WinDbg builds            : yes (cached)
+    - WinDbgCached builds      : no  (cached)
+    - BOOST_COMP_GNUC >= 4.3.0 : no  (cached)
+    - lzma                     : no  (cached)
+    - zstd                     : no  (cached)
+    - lzma                     : no  (cached)
+    - zstd                     : no  (cached)
+    - lzma                     : no  (cached)
+    - zstd                     : no  (cached)
+    - lzma                     : no  (cached)
+    - zstd                     : no  (cached)
+    - lzma                     : no  (cached)
+    - zstd                     : no  (cached)
+
+Component configuration:
+
+    - atomic                   : building
+    - chrono                   : building
+    - container                : building
+    - context                  : building
+    - contract                 : building
+    - coroutine                : building
+    - date_time                : building
+    - exception                : building
+    - fiber                    : building
+    - filesystem               : building
+    - graph                    : building
+    - graph_parallel           : building
+    - headers                  : building
+    - iostreams                : building
+    - locale                   : building
+    - log                      : building
+    - math                     : building
+    - mpi                      : not building
+    - nowide                   : building
+    - program_options          : building
+    - python                   : building
+    - random                   : building
+    - regex                    : building
+    - serialization            : building
+    - stacktrace               : building
+    - system                   : building
+    - test                     : building
+    - thread                   : building
+    - timer                    : building
+    - type_erasure             : building
+    - wave                     : building
+
+...patience...
+...patience...
+...patience...
+...patience...
+...patience...
+...patience...
+...found 37340 targets...
+b2 -j%NUMBER_OF_PROCESSORS% --without-mpi --build-dir=D:\RB/bin.v2 --stage-libdir=lib64-msvc-12.0 --build-type=complete toolset=msvc-12.0 address-model=64 architecture=x86 stage
+Performing configuration checks
+
+    - default address-model    : 32-bit (cached)
+    - default architecture     : x86 (cached)
+    - has synchronization.lib  : yes (cached)
+    - C++11 mutex              : yes (cached)
+    - has BCrypt API           : yes (cached)
+    - has stat::st_mtim        : no  (cached)
+    - has stat::st_mtimensec   : no  (cached)
+    - has stat::st_mtimespec   : no  (cached)
+    - Boost.Config Feature Check: cxx11_auto_declarations : yes (cached)
+    - Boost.Config Feature Check: cxx11_constexpr : no  (cached)
+    - Boost.Config Feature Check: cxx11_defaulted_functions : yes (cached)
+    - Boost.Config Feature Check: cxx11_final : yes (cached)
+    - Boost.Config Feature Check: cxx11_hdr_mutex : yes (cached)
+    - Boost.Config Feature Check: cxx11_hdr_tuple : yes (cached)
+    - Boost.Config Feature Check: cxx11_lambdas : yes (cached)
+    - Boost.Config Feature Check: cxx11_noexcept : no  (cached)
+    - Boost.Config Feature Check: cxx11_nullptr : yes (cached)
+    - Boost.Config Feature Check: cxx11_rvalue_references : yes (cached)
+    - Boost.Config Feature Check: cxx11_template_aliases : yes (cached)
+    - Boost.Config Feature Check: cxx11_thread_local : no  (cached)
+    - Boost.Config Feature Check: cxx11_variadic_templates : yes (cached)
+    - has_icu builds           : no  (cached)
+warning: Graph library does not contain MPI-based parallel components.
+note: to enable them, add "using mpi ;" to your user-config.jam.
+note: to suppress this message, pass "--without-graph_parallel" to bjam.
+    - lzma                     : no  (cached)
+    - zstd                     : no  (cached)
+    - has_lzma_cputhreads builds : no  (cached)
+    - iconv (libc)             : no  (cached)
+    - iconv (separate)         : no  (cached)
+    - icu                      : no  (cached)
+    - icu (lib64)              : no  (cached)
+    - native-atomic-int32-supported : yes (cached)
+    - message-compiler         : yes (cached)
+    - native-syslog-supported  : no  (cached)
+    - pthread-supports-robust-mutexes : no  (cached)
+    - compiler-supports-ssse3  : yes (cached)
+    - compiler-supports-avx2   : yes (cached)
+    - gcc visibility           : no  (cached)
+    - long double support      : yes (cached)
+    - Boost.Config Feature Check: cxx11_static_assert : yes (cached)
+    - std::fstream is moveable and swappable : yes (cached)
+    - Has Large File Support   : yes (cached)
+    - libbacktrace builds      : no  (cached)
+    - addr2line builds         : no  (cached)
+    - WinDbg builds            : yes (cached)
+    - WinDbgCached builds      : no  (cached)
+    - BOOST_COMP_GNUC >= 4.3.0 : no  (cached)
+    - lzma                     : no  (cached)
+    - zstd                     : no  (cached)
+    - lzma                     : no  (cached)
+    - zstd                     : no  (cached)
+    - lzma                     : no  (cached)
+    - zstd                     : no  (cached)
+    - lzma                     : no  (cached)
+    - zstd                     : no  (cached)
+    - lzma                     : no  (cached)
+    - zstd                     : no  (cached)
+
+Component configuration:
+
+    - atomic                   : building
+    - chrono                   : building
+    - container                : building
+    - context                  : building
+    - contract                 : building
+    - coroutine                : building
+    - date_time                : building
+    - exception                : building
+    - fiber                    : building
+    - filesystem               : building
+    - graph                    : building
+    - graph_parallel           : building
+    - headers                  : building
+    - iostreams                : building
+    - locale                   : building
+    - log                      : building
+    - math                     : building
+    - mpi                      : not building
+    - nowide                   : building
+    - program_options          : building
+    - python                   : building
+    - random                   : building
+    - regex                    : building
+    - serialization            : building
+    - stacktrace               : building
+    - system                   : building
+    - test                     : building
+    - thread                   : building
+    - timer                    : building
+    - type_erasure             : building
+    - wave                     : building
+
+...patience...
+...patience...
+...patience...
+...patience...
+...patience...
+...patience...
+...found 37340 targets...
+b2 -j%NUMBER_OF_PROCESSORS% --without-mpi --build-dir=D:\RB/bin.v2 --stage-libdir=lib64-msvc-14.0 --build-type=complete toolset=msvc-14.0 address-model=64 architecture=x86 stage
+Performing configuration checks
+
+    - default address-model    : 32-bit (cached)
+    - default architecture     : x86 (cached)
+    - has synchronization.lib  : yes (cached)
+    - C++11 mutex              : yes (cached)
+    - has BCrypt API           : yes (cached)
+    - has stat::st_mtim        : no  (cached)
+    - has stat::st_mtimensec   : no  (cached)
+    - has stat::st_mtimespec   : no  (cached)
+    - Boost.Config Feature Check: cxx11_auto_declarations : yes (cached)
+    - Boost.Config Feature Check: cxx11_constexpr : yes (cached)
+    - Boost.Config Feature Check: cxx11_defaulted_functions : yes (cached)
+    - Boost.Config Feature Check: cxx11_final : yes (cached)
+    - Boost.Config Feature Check: cxx11_hdr_mutex : yes (cached)
+    - Boost.Config Feature Check: cxx11_hdr_tuple : yes (cached)
+    - Boost.Config Feature Check: cxx11_lambdas : yes (cached)
+    - Boost.Config Feature Check: cxx11_noexcept : yes (cached)
+    - Boost.Config Feature Check: cxx11_nullptr : yes (cached)
+    - Boost.Config Feature Check: cxx11_rvalue_references : yes (cached)
+    - Boost.Config Feature Check: cxx11_template_aliases : yes (cached)
+    - Boost.Config Feature Check: cxx11_thread_local : yes (cached)
+    - Boost.Config Feature Check: cxx11_variadic_templates : yes (cached)
+    - has_icu builds           : no  (cached)
+warning: Graph library does not contain MPI-based parallel components.
+note: to enable them, add "using mpi ;" to your user-config.jam.
+note: to suppress this message, pass "--without-graph_parallel" to bjam.
+    - lzma                     : no  (cached)
+    - zstd                     : no  (cached)
+    - has_lzma_cputhreads builds : no  (cached)
+    - iconv (libc)             : no  (cached)
+    - iconv (separate)         : no  (cached)
+    - icu                      : no  (cached)
+    - icu (lib64)              : no  (cached)
+    - native-atomic-int32-supported : yes (cached)
+    - message-compiler         : yes (cached)
+    - native-syslog-supported  : no  (cached)
+    - pthread-supports-robust-mutexes : no  (cached)
+    - compiler-supports-ssse3  : yes (cached)
+    - compiler-supports-avx2   : yes (cached)
+    - gcc visibility           : no  (cached)
+    - long double support      : yes (cached)
+    - Boost.Config Feature Check: cxx11_static_assert : yes (cached)
+    - std::fstream is moveable and swappable : yes (cached)
+    - Has Large File Support   : yes (cached)
+    - libbacktrace builds      : no  (cached)
+    - addr2line builds         : no  (cached)
+    - WinDbg builds            : yes (cached)
+    - WinDbgCached builds      : yes (cached)
+    - BOOST_COMP_GNUC >= 4.3.0 : no  (cached)
+    - lzma                     : no  (cached)
+    - zstd                     : no  (cached)
+    - lzma                     : no  (cached)
+    - zstd                     : no  (cached)
+    - lzma                     : no  (cached)
+    - zstd                     : no  (cached)
+    - lzma                     : no  (cached)
+    - zstd                     : no  (cached)
+    - lzma                     : no  (cached)
+    - zstd                     : no  (cached)
+
+Component configuration:
+
+    - atomic                   : building
+    - chrono                   : building
+    - container                : building
+    - context                  : building
+    - contract                 : building
+    - coroutine                : building
+    - date_time                : building
+    - exception                : building
+    - fiber                    : building
+    - filesystem               : building
+    - graph                    : building
+    - graph_parallel           : building
+    - headers                  : building
+    - iostreams                : building
+    - locale                   : building
+    - log                      : building
+    - math                     : building
+    - mpi                      : not building
+    - nowide                   : building
+    - program_options          : building
+    - python                   : building
+    - random                   : building
+    - regex                    : building
+    - serialization            : building
+    - stacktrace               : building
+    - system                   : building
+    - test                     : building
+    - thread                   : building
+    - timer                    : building
+    - type_erasure             : building
+    - wave                     : building
+
+...patience...
+...patience...
+...patience...
+...patience...
+...patience...
+...patience...
+...found 37792 targets...
+b2 -j%NUMBER_OF_PROCESSORS% --without-mpi --build-dir=D:\RB/bin.v2 --stage-libdir=lib64-msvc-14.1 --build-type=complete toolset=msvc-14.1 address-model=64 architecture=x86 stage
+Performing configuration checks
+
+    - default address-model    : 32-bit (cached)
+    - default architecture     : x86 (cached)
+    - has synchronization.lib  : yes (cached)
+    - C++11 mutex              : yes (cached)
+    - has BCrypt API           : yes (cached)
+    - has stat::st_mtim        : no  (cached)
+    - has stat::st_mtimensec   : no  (cached)
+    - has stat::st_mtimespec   : no  (cached)
+    - Boost.Config Feature Check: cxx11_auto_declarations : yes (cached)
+    - Boost.Config Feature Check: cxx11_constexpr : yes (cached)
+    - Boost.Config Feature Check: cxx11_defaulted_functions : yes (cached)
+    - Boost.Config Feature Check: cxx11_final : yes (cached)
+    - Boost.Config Feature Check: cxx11_hdr_mutex : yes (cached)
+    - Boost.Config Feature Check: cxx11_hdr_tuple : yes (cached)
+    - Boost.Config Feature Check: cxx11_lambdas : yes (cached)
+    - Boost.Config Feature Check: cxx11_noexcept : yes (cached)
+    - Boost.Config Feature Check: cxx11_nullptr : yes (cached)
+    - Boost.Config Feature Check: cxx11_rvalue_references : yes (cached)
+    - Boost.Config Feature Check: cxx11_template_aliases : yes (cached)
+    - Boost.Config Feature Check: cxx11_thread_local : yes (cached)
+    - Boost.Config Feature Check: cxx11_variadic_templates : yes (cached)
+    - has_icu builds           : no  (cached)
+warning: Graph library does not contain MPI-based parallel components.
+note: to enable them, add "using mpi ;" to your user-config.jam.
+note: to suppress this message, pass "--without-graph_parallel" to bjam.
+    - lzma                     : no  (cached)
+    - zstd                     : no  (cached)
+    - has_lzma_cputhreads builds : no  (cached)
+    - iconv (libc)             : no  (cached)
+    - iconv (separate)         : no  (cached)
+    - icu                      : no  (cached)
+    - icu (lib64)              : no  (cached)
+    - native-atomic-int32-supported : yes (cached)
+    - message-compiler         : yes (cached)
+    - native-syslog-supported  : no  (cached)
+    - pthread-supports-robust-mutexes : no  (cached)
+    - compiler-supports-ssse3  : yes (cached)
+    - compiler-supports-avx2   : yes (cached)
+    - gcc visibility           : no  (cached)
+    - long double support      : yes (cached)
+    - Boost.Config Feature Check: cxx11_static_assert : yes (cached)
+    - std::fstream is moveable and swappable : yes (cached)
+    - Has Large File Support   : yes (cached)
+    - libbacktrace builds      : no  (cached)
+    - addr2line builds         : no  (cached)
+    - WinDbg builds            : yes (cached)
+    - WinDbgCached builds      : yes (cached)
+    - BOOST_COMP_GNUC >= 4.3.0 : no  (cached)
+    - lzma                     : no  (cached)
+    - zstd                     : no  (cached)
+    - lzma                     : no  (cached)
+    - zstd                     : no  (cached)
+    - lzma                     : no  (cached)
+    - zstd                     : no  (cached)
+    - lzma                     : no  (cached)
+    - zstd                     : no  (cached)
+    - lzma                     : no  (cached)
+    - zstd                     : no  (cached)
+
+Component configuration:
+
+    - atomic                   : building
+    - chrono                   : building
+    - container                : building
+    - context                  : building
+    - contract                 : building
+    - coroutine                : building
+    - date_time                : building
+    - exception                : building
+    - fiber                    : building
+    - filesystem               : building
+    - graph                    : building
+    - graph_parallel           : building
+    - headers                  : building
+    - iostreams                : building
+    - locale                   : building
+    - log                      : building
+    - math                     : building
+    - mpi                      : not building
+    - nowide                   : building
+    - program_options          : building
+    - python                   : building
+    - random                   : building
+    - regex                    : building
+    - serialization            : building
+    - stacktrace               : building
+    - system                   : building
+    - test                     : building
+    - thread                   : building
+    - timer                    : building
+    - type_erasure             : building
+    - wave                     : building
+
+...patience...
+...patience...
+...patience...
+...patience...
+...patience...
+...patience...
+...found 37792 targets...
+b2 -j%NUMBER_OF_PROCESSORS% --without-mpi --build-dir=D:\RB/bin.v2 --stage-libdir=lib64-msvc-14.2 --build-type=complete toolset=msvc-14.2 address-model=64 architecture=x86 stage
+Performing configuration checks
+
+    - default address-model    : 32-bit (cached)
+    - default architecture     : x86 (cached)
+    - has synchronization.lib  : yes (cached)
+    - C++11 mutex              : yes (cached)
+    - has BCrypt API           : yes (cached)
+    - has stat::st_mtim        : no  (cached)
+    - has stat::st_mtimensec   : no  (cached)
+    - has stat::st_mtimespec   : no  (cached)
+    - Boost.Config Feature Check: cxx11_auto_declarations : yes (cached)
+    - Boost.Config Feature Check: cxx11_constexpr : yes (cached)
+    - Boost.Config Feature Check: cxx11_defaulted_functions : yes (cached)
+    - Boost.Config Feature Check: cxx11_final : yes (cached)
+    - Boost.Config Feature Check: cxx11_hdr_mutex : yes (cached)
+    - Boost.Config Feature Check: cxx11_hdr_tuple : yes (cached)
+    - Boost.Config Feature Check: cxx11_lambdas : yes (cached)
+    - Boost.Config Feature Check: cxx11_noexcept : yes (cached)
+    - Boost.Config Feature Check: cxx11_nullptr : yes (cached)
+    - Boost.Config Feature Check: cxx11_rvalue_references : yes (cached)
+    - Boost.Config Feature Check: cxx11_template_aliases : yes (cached)
+    - Boost.Config Feature Check: cxx11_thread_local : yes (cached)
+    - Boost.Config Feature Check: cxx11_variadic_templates : yes (cached)
+    - has_icu builds           : no  (cached)
+warning: Graph library does not contain MPI-based parallel components.
+note: to enable them, add "using mpi ;" to your user-config.jam.
+note: to suppress this message, pass "--without-graph_parallel" to bjam.
+    - lzma                     : no  (cached)
+    - zstd                     : no  (cached)
+    - has_lzma_cputhreads builds : no  (cached)
+    - iconv (libc)             : no  (cached)
+    - iconv (separate)         : no  (cached)
+    - icu                      : no  (cached)
+    - icu (lib64)              : no  (cached)
+    - native-atomic-int32-supported : yes (cached)
+    - message-compiler         : yes (cached)
+    - native-syslog-supported  : no  (cached)
+    - pthread-supports-robust-mutexes : no  (cached)
+    - compiler-supports-ssse3  : yes (cached)
+    - compiler-supports-avx2   : yes (cached)
+    - gcc visibility           : no  (cached)
+    - long double support      : yes (cached)
+    - Boost.Config Feature Check: cxx11_static_assert : yes (cached)
+    - std::fstream is moveable and swappable : yes (cached)
+    - Has Large File Support   : yes (cached)
+    - libbacktrace builds      : no  (cached)
+    - addr2line builds         : no  (cached)
+    - WinDbg builds            : yes (cached)
+    - WinDbgCached builds      : yes (cached)
+    - BOOST_COMP_GNUC >= 4.3.0 : no  (cached)
+    - lzma                     : no  (cached)
+    - zstd                     : no  (cached)
+    - lzma                     : no  (cached)
+    - zstd                     : no  (cached)
+    - lzma                     : no  (cached)
+    - zstd                     : no  (cached)
+    - lzma                     : no  (cached)
+    - zstd                     : no  (cached)
+    - lzma                     : no  (cached)
+    - zstd                     : no  (cached)
+
+Component configuration:
+
+    - atomic                   : building
+    - chrono                   : building
+    - container                : building
+    - context                  : building
+    - contract                 : building
+    - coroutine                : building
+    - date_time                : building
+    - exception                : building
+    - fiber                    : building
+    - filesystem               : building
+    - graph                    : building
+    - graph_parallel           : building
+    - headers                  : building
+    - iostreams                : building
+    - locale                   : building
+    - log                      : building
+    - math                     : building
+    - mpi                      : not building
+    - nowide                   : building
+    - program_options          : building
+    - python                   : building
+    - random                   : building
+    - regex                    : building
+    - serialization            : building
+    - stacktrace               : building
+    - system                   : building
+    - test                     : building
+    - thread                   : building
+    - timer                    : building
+    - type_erasure             : building
+    - wave                     : building
+
+...patience...
+...patience...
+...patience...
+...patience...
+...patience...
+...patience...
+...found 37792 targets...

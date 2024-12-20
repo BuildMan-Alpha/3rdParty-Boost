@@ -1,0 +1,11 @@
+/Jamfile.v2////*////
+/bitset_test.hpp////*////
+/dyn_bitset_unit_tests1.cpp////*////
+/dyn_bitset_unit_tests2.cpp////*////
+/dyn_bitset_unit_tests3.cpp////*////
+/dyn_bitset_unit_tests4.cpp////*////
+/dyn_bitset_unit_tests5.cpp////*////
+/test_ambiguous_set.cpp////*////
+/test_boost_hash.cpp////*////
+/test_lowest_bit.cpp////*////
+/test_std_hash.cpp////*////

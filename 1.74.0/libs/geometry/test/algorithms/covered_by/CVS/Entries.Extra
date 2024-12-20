@@ -1,0 +1,6 @@
+/Jamfile////*////
+/covered_by.cpp////*////
+/covered_by_multi.cpp////*////
+/covered_by_sph.cpp////*////
+/covered_by_sph_geo.cpp////*////
+/test_covered_by.hpp////*////

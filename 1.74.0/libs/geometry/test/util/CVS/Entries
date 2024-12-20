@@ -1,0 +1,17 @@
+/Jamfile/1.1/Tue Sep  8 20:08:40 2020//
+/calculation_type.cpp/1.1/Tue Sep  8 20:08:40 2020//
+/compress_variant.cpp/1.1/Tue Sep  8 20:08:40 2020//
+/for_each_coordinate.cpp/1.1/Tue Sep  8 20:08:40 2020//
+/is_implemented.cpp/1.1/Tue Sep  8 20:08:40 2020//
+/math_abs.cpp/1.1/Tue Sep  8 20:08:40 2020//
+/math_equals.cpp/1.1/Tue Sep  8 20:08:40 2020//
+/math_sqrt.cpp/1.1/Tue Sep  8 20:08:40 2020//
+/number_types.hpp/1.1/Tue Sep  8 20:08:40 2020//
+/promote_integral.cpp/1.1/Tue Sep  8 20:08:40 2020//
+/range.cpp/1.1/Tue Sep  8 20:08:40 2020//
+/rational.cpp/1.1/Tue Sep  8 20:08:40 2020//
+/select_most_precise.cpp/1.1/Tue Sep  8 20:08:40 2020//
+/transform_variant.cpp/1.1/Tue Sep  8 20:08:40 2020//
+/tuples.cpp/1.1/Tue Sep  8 20:08:40 2020//
+/write_dsv.cpp/1.1/Tue Sep  8 20:08:40 2020//
+D

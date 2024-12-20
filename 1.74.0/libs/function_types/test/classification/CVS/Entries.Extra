@@ -1,0 +1,12 @@
+/is_callable_builtin.cpp////*////
+/is_cv_function.cpp////*////
+/is_cv_mem_func_ptr.cpp////*////
+/is_cv_pointer.cpp////*////
+/is_function.cpp////*////
+/is_function_pointer.cpp////*////
+/is_function_reference.cpp////*////
+/is_member_function_pointer.cpp////*////
+/is_member_object_pointer.cpp////*////
+/is_member_pointer.cpp////*////
+/is_nonmember_callable_builtin.cpp////*////
+/is_variadic.cpp////*////

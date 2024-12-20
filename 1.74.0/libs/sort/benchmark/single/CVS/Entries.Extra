@@ -1,0 +1,11 @@
+/README.txt////*////
+/benchmark_numbers.cpp////*////
+/benchmark_objects.cpp////*////
+/benchmark_strings.cpp////*////
+/file_generator.cpp////*////
+/runCLANG_benchmark_numbers.sh////*////
+/runCLANG_benchmark_objects.sh////*////
+/runCLANG_benchmark_strings.sh////*////
+/runGCC_benchmark_numbers.sh////*////
+/runGCC_benchmark_objects.sh////*////
+/runGCC_benchmark_strings.sh////*////

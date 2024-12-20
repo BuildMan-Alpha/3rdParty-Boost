@@ -1,0 +1,14 @@
+/barycentric_rational.hpp////*////
+/cardinal_cubic_b_spline.hpp////*////
+/cardinal_quadratic_b_spline.hpp////*////
+/cardinal_quintic_b_spline.hpp////*////
+/cardinal_trigonometric.hpp////*////
+/catmull_rom.hpp////*////
+/cubic_b_spline.hpp////*////
+/cubic_hermite.hpp////*////
+/makima.hpp////*////
+/pchip.hpp////*////
+/quintic_hermite.hpp////*////
+/septic_hermite.hpp////*////
+/vector_barycentric_rational.hpp////*////
+/whittaker_shannon.hpp////*////

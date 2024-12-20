@@ -1,0 +1,13 @@
+/a_note_about_optional_bool_.html////*////
+/design_overview.html////*////
+/exception_safety_guarantees.html////*////
+/gotchas.html////*////
+/in_place_factories.html////*////
+/io_operators.html////*////
+/motivation.html////*////
+/optional_references.html////*////
+/performance_considerations.html////*////
+/rebinding_semantics_for_assignment_of_optional_references.html////*////
+/relational_operators.html////*////
+/type_requirements.html////*////
+/when_to_use_optional.html////*////

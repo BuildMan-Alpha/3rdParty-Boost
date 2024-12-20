@@ -1,0 +1,6 @@
+/Jamfile.v2////*////
+/compose_property_map_test.cpp////*////
+/dynamic_properties_test.cpp////*////
+/function_property_map_test.cpp////*////
+/property_map_cc.cpp////*////
+/transform_value_property_map_test.cpp////*////

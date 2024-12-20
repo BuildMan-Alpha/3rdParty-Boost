@@ -1,0 +1,46 @@
+/alignment_gap_between.hpp/1.1/Tue Sep  8 20:24:23 2020//
+/attribute_name.cpp/1.1/Tue Sep  8 20:24:23 2020//
+/attribute_set.cpp/1.1/Tue Sep  8 20:24:23 2020//
+/attribute_set_impl.hpp/1.1/Tue Sep  8 20:24:23 2020//
+/attribute_value_set.cpp/1.1/Tue Sep  8 20:24:24 2020//
+/bit_tools.hpp/1.1/Tue Sep  8 20:24:24 2020//
+/code_conversion.cpp/1.1/Tue Sep  8 20:24:24 2020//
+/core.cpp/1.1/Tue Sep  8 20:24:24 2020//
+/date_time_format_parser.cpp/1.1/Tue Sep  8 20:24:24 2020//
+/default_attribute_names.cpp/1.1/Tue Sep  8 20:24:24 2020//
+/default_sink.cpp/1.1/Tue Sep  8 20:24:24 2020//
+/default_sink.hpp/1.1/Tue Sep  8 20:24:24 2020//
+/dump.cpp/1.1/Tue Sep  8 20:24:24 2020//
+/dump_avx2.cpp/1.1/Tue Sep  8 20:24:24 2020//
+/dump_ssse3.cpp/1.1/Tue Sep  8 20:24:24 2020//
+/event.cpp/1.1/Tue Sep  8 20:24:24 2020//
+/exceptions.cpp/1.1/Tue Sep  8 20:24:24 2020//
+/format_parser.cpp/1.1/Tue Sep  8 20:24:24 2020//
+/global_logger_storage.cpp/1.1/Tue Sep  8 20:24:24 2020//
+/id_formatting.hpp/1.1/Tue Sep  8 20:24:24 2020//
+/murmur3.hpp/1.1/Tue Sep  8 20:24:24 2020//
+/named_scope.cpp/1.1/Tue Sep  8 20:24:24 2020//
+/named_scope_format_parser.cpp/1.1/Tue Sep  8 20:24:24 2020//
+/once_block.cpp/1.1/Tue Sep  8 20:24:24 2020//
+/permissions.cpp/1.1/Tue Sep  8 20:24:24 2020//
+/process_id.cpp/1.1/Tue Sep  8 20:24:24 2020//
+/process_name.cpp/1.1/Tue Sep  8 20:24:24 2020//
+/record_ostream.cpp/1.1/Tue Sep  8 20:24:24 2020//
+/severity_level.cpp/1.1/Tue Sep  8 20:24:24 2020//
+/spirit_encoding.cpp/1.1/Tue Sep  8 20:24:24 2020//
+/spirit_encoding.hpp/1.1/Tue Sep  8 20:24:24 2020//
+/stateless_allocator.hpp/1.1/Tue Sep  8 20:24:24 2020//
+/syslog_backend.cpp/1.1/Tue Sep  8 20:24:24 2020//
+/text_file_backend.cpp/1.1/Tue Sep  8 20:24:24 2020//
+/text_multifile_backend.cpp/1.1/Tue Sep  8 20:24:24 2020//
+/text_ostream_backend.cpp/1.1/Tue Sep  8 20:24:24 2020//
+/thread_id.cpp/1.1/Tue Sep  8 20:24:24 2020//
+/thread_specific.cpp/1.1/Tue Sep  8 20:24:24 2020//
+/threadsafe_queue.cpp/1.1/Tue Sep  8 20:24:24 2020//
+/timer.cpp/1.1/Tue Sep  8 20:24:24 2020//
+/timestamp.cpp/1.1/Tue Sep  8 20:24:24 2020//
+/trivial.cpp/1.1/Tue Sep  8 20:24:24 2020//
+/unique_ptr.hpp/1.1/Tue Sep  8 20:24:24 2020//
+D/posix////
+D/setup////
+D/windows////

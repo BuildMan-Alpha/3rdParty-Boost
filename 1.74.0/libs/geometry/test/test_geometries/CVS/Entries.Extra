@@ -1,0 +1,8 @@
+/all_custom_container.hpp////*////
+/all_custom_linestring.hpp////*////
+/all_custom_polygon.hpp////*////
+/all_custom_ring.hpp////*////
+/copy_on_dereference_geometries.hpp////*////
+/custom_lon_lat_point.hpp////*////
+/custom_segment.hpp////*////
+/wrapped_boost_array.hpp////*////

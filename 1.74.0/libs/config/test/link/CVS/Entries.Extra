@@ -1,0 +1,15 @@
+/Jamfile.v2////*////
+/bc_gen.sh////*////
+/borland.mak////*////
+/common.sh////*////
+/link_test.cpp////*////
+/link_test.hpp////*////
+/main.cpp////*////
+/vc6-stlport.mak////*////
+/vc6.mak////*////
+/vc7-stlport.mak////*////
+/vc7.mak////*////
+/vc71-stlport.mak////*////
+/vc71.mak////*////
+/vc_gen.sh////*////
+D/test////////

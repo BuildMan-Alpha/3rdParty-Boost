@@ -1,0 +1,15 @@
+/any_of.cpp////*////
+/at_key.cpp////*////
+/equal.cpp////*////
+/find_if.cpp////*////
+/fold_left.cpp////*////
+/fold_right.cpp////*////
+/keys.cpp////*////
+/laws.cpp////*////
+/macro.adapt_adt.cpp////*////
+/macro.adapt_struct.cpp////*////
+/macro.define_struct.cpp////*////
+/member_function.cpp////*////
+/members.cpp////*////
+/minimal_struct.hpp////*////
+/unpack.cpp////*////

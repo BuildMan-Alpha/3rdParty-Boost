@@ -1,0 +1,10 @@
+/Jamfile////*////
+/buffer_distance_asymmetric.cpp////*////
+/buffer_distance_symmetric.cpp////*////
+/buffer_end_flat.cpp////*////
+/buffer_end_round.cpp////*////
+/buffer_geographic_point_circle.cpp////*////
+/buffer_join_miter.cpp////*////
+/buffer_join_round.cpp////*////
+/buffer_point_circle.cpp////*////
+/buffer_point_square.cpp////*////

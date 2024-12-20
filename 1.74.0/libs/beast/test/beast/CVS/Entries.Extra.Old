@@ -1,0 +1,8 @@
+/CMakeLists.txt////*////
+/Jamfile////*////
+/core.cpp////*////
+/http.cpp////*////
+/ssl.cpp////*////
+/version.cpp////*////
+/websocket.cpp////*////
+/zlib.cpp////*////

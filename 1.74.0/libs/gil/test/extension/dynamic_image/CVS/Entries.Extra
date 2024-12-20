@@ -1,0 +1,5 @@
+/CMakeLists.txt////*////
+/Jamfile////*////
+/any_image.cpp////*////
+/subimage_view.cpp////*////
+/test_fixture.hpp////*////

@@ -1,0 +1,6 @@
+/Jamfile.v2////*////
+/has_bcrypt.cpp////*////
+/has_stat_st_mtim.cpp////*////
+/has_stat_st_mtimensec.cpp////*////
+/has_stat_st_mtimespec.cpp////*////
+/is_windows_ce.cpp////*////

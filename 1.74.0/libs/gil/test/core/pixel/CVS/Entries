@@ -1,0 +1,14 @@
+/CMakeLists.txt/1.1/Tue Sep  8 20:08:45 2020//
+/Jamfile/1.1/Tue Sep  8 20:08:45 2020//
+/bit_aligned_pixel_reference.cpp/1.1/Tue Sep  8 20:08:45 2020//
+/color_convert_cmyk.cpp/1.1/Tue Sep  8 20:08:45 2020//
+/concepts.cpp/1.1/Tue Sep  8 20:08:45 2020//
+/is_pixel.cpp/1.1/Tue Sep  8 20:08:45 2020//
+/is_planar.cpp/1.1/Tue Sep  8 20:08:45 2020//
+/num_channels.cpp/1.1/Tue Sep  8 20:08:45 2020//
+/packed_pixel.cpp/1.1/Tue Sep  8 20:08:45 2020//
+/pixel_reference_is_mutable.cpp/1.1/Tue Sep  8 20:08:45 2020//
+/pixels_are_compatible.cpp/1.1/Tue Sep  8 20:08:45 2020//
+/test_fixture.cpp/1.1/Tue Sep  8 20:08:45 2020//
+/test_fixture.hpp/1.1/Tue Sep  8 20:08:45 2020//
+D

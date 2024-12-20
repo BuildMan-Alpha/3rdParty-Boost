@@ -1,0 +1,23 @@
+/CMakeLists.txt/1.1/Tue Sep  8 19:20:54 2020//
+/Jamfile/1.1/Tue Sep  8 19:20:54 2020//
+/core_1_refresher.cpp/1.1/Tue Sep  8 19:20:54 2020//
+/core_3_timeouts.cpp/1.1/Tue Sep  8 19:20:54 2020//
+/core_4_layers.cpp/1.1/Tue Sep  8 19:20:54 2020//
+/core_snippets.cpp/1.1/Tue Sep  8 19:20:54 2020//
+/exemplars.cpp/1.1/Tue Sep  8 19:20:54 2020//
+/http_10_custom_parser.cpp/1.1/Tue Sep  8 19:20:54 2020//
+/http_examples.cpp/1.1/Tue Sep  8 19:20:54 2020//
+/http_snippets.cpp/1.1/Tue Sep  8 19:20:54 2020//
+/snippets.hpp/1.1/Tue Sep  8 19:20:54 2020//
+/snippets.ipp/1.1/Tue Sep  8 19:20:54 2020//
+/websocket.cpp/1.1/Tue Sep  8 19:20:54 2020//
+/websocket_1_connecting.cpp/1.1/Tue Sep  8 19:20:54 2020//
+/websocket_2_handshaking.cpp/1.1/Tue Sep  8 19:20:54 2020//
+/websocket_3_decorator.cpp/1.1/Tue Sep  8 19:20:54 2020//
+/websocket_4_messages.cpp/1.1/Tue Sep  8 19:20:54 2020//
+/websocket_5_control_frames.cpp/1.1/Tue Sep  8 19:20:54 2020//
+/websocket_6_timeouts.cpp/1.1/Tue Sep  8 19:20:54 2020//
+/websocket_7_teardown.cpp/1.1/Tue Sep  8 19:20:54 2020//
+/websocket_8_notes.cpp/1.1/Tue Sep  8 19:20:54 2020//
+/websocket_common.ipp/1.1/Tue Sep  8 19:20:54 2020//
+D

@@ -1,0 +1,14 @@
+/hook_outcome_construction.html////*////
+/hook_outcome_construction2.html////*////
+/hook_outcome_copy_construction.html////*////
+/hook_outcome_copy_construction2.html////*////
+/hook_outcome_in_place_construction.html////*////
+/hook_outcome_move_construction.html////*////
+/hook_outcome_move_construction2.html////*////
+/hook_result_construction.html////*////
+/hook_result_copy_construction.html////*////
+/hook_result_in_place_construction.html////*////
+/hook_result_move_construction.html////*////
+/override_outcome_exception.html////*////
+/set_spare_storage.html////*////
+/spare_storage.html////*////

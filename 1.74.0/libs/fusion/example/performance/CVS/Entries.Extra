@@ -1,0 +1,9 @@
+/Jamfile////*////
+/accumulate.cpp////*////
+/functional.cpp////*////
+/inner_product.cpp////*////
+/inner_product2.cpp////*////
+/measure.hpp////*////
+/sequence_efficiency.cpp////*////
+/timings.txt////*////
+/zip_efficiency.cpp////*////

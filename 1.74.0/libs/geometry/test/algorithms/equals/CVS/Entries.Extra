@@ -1,0 +1,6 @@
+/Jamfile////*////
+/equals.cpp////*////
+/equals_multi.cpp////*////
+/equals_on_spheroid.cpp////*////
+/equals_sph.cpp////*////
+/test_equals.hpp////*////

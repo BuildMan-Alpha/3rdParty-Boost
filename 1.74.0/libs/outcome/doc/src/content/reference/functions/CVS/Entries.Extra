@@ -1,0 +1,12 @@
+/_index.md////*////
+/error_from_exception.md////*////
+/failure.md////*////
+/strong_swap.md////*////
+/success.md////*////
+/try_operation_extract_value.md////*////
+/try_operation_has_value.md////*////
+/try_operation_return_as.md////*////
+/try_throw_std_exception_from_error.md////*////
+D/hooks////////
+D/iostream////////
+D/policy////////

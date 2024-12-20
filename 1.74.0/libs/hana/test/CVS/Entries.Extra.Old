@@ -1,0 +1,16 @@
+/CMakeLists.txt////*////
+/Jamfile.v2////*////
+/builtin_array.cpp////*////
+/comparable.cpp////*////
+/euclidean_ring.cpp////*////
+/functional.cpp////*////
+/group.cpp////*////
+/index_if.cpp////*////
+/lazy.cpp////*////
+/logical.cpp////*////
+/minimal_product.cpp////*////
+/monoid.cpp////*////
+/orderable.cpp////*////
+/repeat.cpp////*////
+/ring.cpp////*////
+/searchable.cpp////*////

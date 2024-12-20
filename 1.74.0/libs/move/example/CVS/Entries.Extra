@@ -1,0 +1,12 @@
+/Jamfile.v2////*////
+/copymovable.hpp////*////
+/doc_clone_ptr.cpp////*////
+/doc_construct_forward.cpp////*////
+/doc_file_descriptor.cpp////*////
+/doc_how_works.cpp////*////
+/doc_move_algorithms.cpp////*////
+/doc_move_inserter.cpp////*////
+/doc_move_iterator.cpp////*////
+/doc_move_return.cpp////*////
+/doc_template_assign.cpp////*////
+/movable.hpp////*////

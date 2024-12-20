@@ -1,0 +1,9 @@
+/adaptive_sort_merge.hpp////*////
+/basic_op.hpp////*////
+/heap_sort.hpp////*////
+/insertion_sort.hpp////*////
+/is_sorted.hpp////*////
+/merge.hpp////*////
+/merge_sort.hpp////*////
+/pdqsort.hpp////*////
+/set_difference.hpp////*////

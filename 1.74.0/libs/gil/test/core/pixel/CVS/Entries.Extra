@@ -1,0 +1,13 @@
+/CMakeLists.txt////*////
+/Jamfile////*////
+/bit_aligned_pixel_reference.cpp////*////
+/color_convert_cmyk.cpp////*////
+/concepts.cpp////*////
+/is_pixel.cpp////*////
+/is_planar.cpp////*////
+/num_channels.cpp////*////
+/packed_pixel.cpp////*////
+/pixel_reference_is_mutable.cpp////*////
+/pixels_are_compatible.cpp////*////
+/test_fixture.cpp////*////
+/test_fixture.hpp////*////

@@ -1,0 +1,14 @@
+/adaptors.qbk////*////
+/dummy////*////
+/equal_to.qbk////*////
+/indexable.qbk////*////
+/inserters.qbk////*////
+/predicates.qbk////*////
+/rtree.qbk////*////
+/rtree_dynamic_linear.qbk////*////
+/rtree_dynamic_quadratic.qbk////*////
+/rtree_dynamic_rstar.qbk////*////
+/rtree_functions.qbk////*////
+/rtree_linear.qbk////*////
+/rtree_quadratic.qbk////*////
+/rtree_rstar.qbk////*////

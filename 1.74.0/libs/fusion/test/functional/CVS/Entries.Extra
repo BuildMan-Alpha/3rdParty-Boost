@@ -1,0 +1,12 @@
+/fused.cpp////*////
+/fused_function_object.cpp////*////
+/fused_procedure.cpp////*////
+/invoke.cpp////*////
+/invoke_function_object.cpp////*////
+/invoke_procedure.cpp////*////
+/make_fused.cpp////*////
+/make_fused_function_object.cpp////*////
+/make_fused_procedure.cpp////*////
+/make_unfused.cpp////*////
+/unfused.cpp////*////
+/unfused_typed.cpp////*////

@@ -1,0 +1,25 @@
+/allocate_unique.adoc/1.1/Tue Sep  8 20:21:29 2020//
+/atomic_shared_ptr.adoc/1.1/Tue Sep  8 20:21:29 2020//
+/changelog.adoc/1.1/Tue Sep  8 20:21:29 2020//
+/enable_shared_from.adoc/1.1/Tue Sep  8 20:21:29 2020//
+/enable_shared_from_this.adoc/1.1/Tue Sep  8 20:21:29 2020//
+/history.adoc/1.1/Tue Sep  8 20:21:29 2020//
+/introduction.adoc/1.1/Tue Sep  8 20:21:29 2020//
+/intrusive_ptr.adoc/1.1/Tue Sep  8 20:21:29 2020//
+/intrusive_ref_counter.adoc/1.1/Tue Sep  8 20:21:29 2020//
+/local_shared_ptr.adoc/1.1/Tue Sep  8 20:21:29 2020//
+/make_local_shared.adoc/1.1/Tue Sep  8 20:21:29 2020//
+/make_shared.adoc/1.1/Tue Sep  8 20:21:29 2020//
+/make_unique.adoc/1.1/Tue Sep  8 20:21:29 2020//
+/owner_equal_to.adoc/1.1/Tue Sep  8 20:21:29 2020//
+/owner_hash.adoc/1.1/Tue Sep  8 20:21:29 2020//
+/owner_less.adoc/1.1/Tue Sep  8 20:21:29 2020//
+/pointer_cast.adoc/1.1/Tue Sep  8 20:21:29 2020//
+/pointer_to_other.adoc/1.1/Tue Sep  8 20:21:29 2020//
+/scoped_array.adoc/1.1/Tue Sep  8 20:21:29 2020//
+/scoped_ptr.adoc/1.1/Tue Sep  8 20:21:30 2020//
+/shared_array.adoc/1.1/Tue Sep  8 20:21:30 2020//
+/shared_ptr.adoc/1.1/Tue Sep  8 20:21:30 2020//
+/techniques.adoc/1.1/Tue Sep  8 20:21:30 2020//
+/weak_ptr.adoc/1.1/Tue Sep  8 20:21:30 2020//
+D

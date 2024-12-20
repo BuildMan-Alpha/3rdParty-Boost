@@ -1,0 +1,14 @@
+/CMakeLists.txt////*////
+/Config.cmake.in////*////
+/LICENSE////*////
+/README.md////*////
+/codecov.yml////*////
+/index.html////*////
+D/build////////
+D/cmake////////
+D/doc////////
+D/meta////////
+D/src////////
+D/standalone////////
+D/test////////
+D/tools////////

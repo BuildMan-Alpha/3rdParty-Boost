@@ -1,0 +1,7 @@
+/CMakeLists.txt////*////
+/Jamfile////*////
+/concepts.cpp////*////
+/homogeneous_color_base.cpp////*////
+/static_transform.cpp////*////
+/static_transform_gray_to_rgb_fail.cpp////*////
+/static_transform_rgb_to_cmyk_fail.cpp////*////

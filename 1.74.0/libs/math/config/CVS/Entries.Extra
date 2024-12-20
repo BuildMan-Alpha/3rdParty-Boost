@@ -1,0 +1,14 @@
+/Jamfile.v2////*////
+/has_128bit_floatmax_t.cpp////*////
+/has_e_float.cpp////*////
+/has_fftw3.cpp////*////
+/has_float128.cpp////*////
+/has_gcc_visibility.cpp////*////
+/has_gmp.cpp////*////
+/has_gmpxx.cpp////*////
+/has_intel_quad.cpp////*////
+/has_long_double_support.cpp////*////
+/has_mpfr.cpp////*////
+/has_mpfr_class.cpp////*////
+/has_mpreal.cpp////*////
+/has_ntl_rr.cpp////*////

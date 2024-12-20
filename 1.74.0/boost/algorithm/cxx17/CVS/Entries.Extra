@@ -1,0 +1,7 @@
+/exclusive_scan.hpp////*////
+/for_each_n.hpp////*////
+/inclusive_scan.hpp////*////
+/reduce.hpp////*////
+/transform_exclusive_scan.hpp////*////
+/transform_inclusive_scan.hpp////*////
+/transform_reduce.hpp////*////

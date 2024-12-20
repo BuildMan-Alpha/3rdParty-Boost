@@ -1,0 +1,12 @@
+/CMakeLists.txt////*////
+/Jamfile////*////
+/README.md////*////
+/channel.cpp////*////
+/error_if.cpp////*////
+/gil_reference_checksums.txt////*////
+/image.cpp////*////
+/performance.cpp////*////
+/pixel.cpp////*////
+/pixel_iterator.cpp////*////
+/recreate_image.cpp////*////
+/sample_image.cpp////*////

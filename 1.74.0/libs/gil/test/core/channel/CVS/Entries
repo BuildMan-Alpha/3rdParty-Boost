@@ -1,0 +1,16 @@
+/CMakeLists.txt/1.1/Tue Sep  8 20:08:45 2020//
+/Jamfile/1.1/Tue Sep  8 20:08:45 2020//
+/TODO.md/1.1/Tue Sep  8 20:08:45 2020//
+/algorithm_channel_arithmetic.cpp/1.1/Tue Sep  8 20:08:45 2020//
+/algorithm_channel_convert.cpp/1.1/Tue Sep  8 20:08:45 2020//
+/algorithm_channel_invert.cpp/1.1/Tue Sep  8 20:08:45 2020//
+/algorithm_channel_multiply.cpp/1.1/Tue Sep  8 20:08:45 2020//
+/algorithm_channel_relation.cpp/1.1/Tue Sep  8 20:08:45 2020//
+/channel_traits.cpp/1.1/Tue Sep  8 20:08:45 2020//
+/concepts.cpp/1.1/Tue Sep  8 20:08:45 2020//
+/is_channel_integral.cpp/1.1/Tue Sep  8 20:08:45 2020//
+/packed_channel_value.cpp/1.1/Tue Sep  8 20:08:45 2020//
+/scoped_channel_value.cpp/1.1/Tue Sep  8 20:08:45 2020//
+/test_fixture.cpp/1.1/Tue Sep  8 20:08:45 2020//
+/test_fixture.hpp/1.1/Tue Sep  8 20:08:45 2020//
+D

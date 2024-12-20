@@ -1,0 +1,15 @@
+/CMakeLists.txt////*////
+/Jamfile.v2////*////
+/README.md////*////
+/gen_coverage.sh////*////
+/selfcontained.cpp////*////
+D/baseline-outputs////////
+D/execution_monitor-ts////////
+D/framework-ts////////
+D/multithreading-ts////////
+D/prg_exec_monitor-ts////////
+D/smoke-ts////////
+D/test-organization-ts////////
+D/usage-variants-ts////////
+D/utils-ts////////
+D/writing-test-ts////////

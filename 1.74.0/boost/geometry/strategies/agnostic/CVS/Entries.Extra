@@ -1,0 +1,8 @@
+/buffer_distance_asymmetric.hpp////*////
+/buffer_distance_symmetric.hpp////*////
+/hull_graham_andrew.hpp////*////
+/point_in_box_by_side.hpp////*////
+/point_in_point.hpp////*////
+/point_in_poly_oriented_winding.hpp////*////
+/point_in_poly_winding.hpp////*////
+/simplify_douglas_peucker.hpp////*////

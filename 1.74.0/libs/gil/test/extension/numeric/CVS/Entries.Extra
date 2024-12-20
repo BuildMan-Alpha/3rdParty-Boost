@@ -1,0 +1,16 @@
+/CMakeLists.txt////*////
+/Jamfile////*////
+/channel_numeric_operations.cpp////*////
+/convolve.cpp////*////
+/convolve_2d.cpp////*////
+/convolve_cols.cpp////*////
+/convolve_rows.cpp////*////
+/extend_boundary.cpp////*////
+/kernel.cpp////*////
+/kernel_1d_fixed_even_size_fail.cpp////*////
+/kernel_fixed.cpp////*////
+/matrix3x2.cpp////*////
+/pixel_numeric_operations.cpp////*////
+/pixel_numeric_operations_float.cpp////*////
+/resample.cpp////*////
+/test_fixture.hpp////*////

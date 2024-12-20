@@ -1,0 +1,12 @@
+/auto_newline.hpp////*////
+/c_decorator.hpp////*////
+/char_decorator.hpp////*////
+/csv_decorator.hpp////*////
+/date_time.hpp////*////
+/format.hpp////*////
+/if.hpp////*////
+/max_size_decorator.hpp////*////
+/named_scope.hpp////*////
+/stream.hpp////*////
+/wrap_formatter.hpp////*////
+/xml_decorator.hpp////*////

@@ -1,0 +1,7 @@
+/basic_outcome_failure_exception_from_error.html////*////
+/error_code.html////*////
+/exception_ptr.html////*////
+/outcome_throw_as_system_error_with_payload_boost_enum.html////*////
+/outcome_throw_as_system_error_with_payload_boost_error_code.html////*////
+/outcome_throw_as_system_error_with_payload_std_enum.html////*////
+/outcome_throw_as_system_error_with_payload_std_error_code.html////*////

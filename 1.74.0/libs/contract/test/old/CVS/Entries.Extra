@@ -1,0 +1,12 @@
+/auto.cpp////*////
+/copyable_traits.cpp////*////
+/if_copyable.cpp////*////
+/if_copyable.hpp////*////
+/if_copyable_error.cpp////*////
+/if_copyable_macro.cpp////*////
+/no_macro.cpp////*////
+/no_macro.hpp////*////
+/no_macro_if_copyable.cpp////*////
+/no_make_old_error.cpp////*////
+/no_make_old_error.hpp////*////
+/no_make_old_if_copyable_error.cpp////*////

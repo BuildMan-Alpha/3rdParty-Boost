@@ -1,0 +1,20 @@
+/CMakeLists.txt/1.1/Tue Sep  8 20:08:45 2020//
+/Jamfile/1.1/Tue Sep  8 20:08:45 2020//
+/channel_type.cpp/1.1/Tue Sep  8 20:08:45 2020//
+/channel_view.cpp/1.1/Tue Sep  8 20:08:45 2020//
+/color_convert_cmyka.cpp/1.1/Tue Sep  8 20:08:45 2020//
+/color_convert_gray.cpp/1.1/Tue Sep  8 20:08:45 2020//
+/color_convert_gray_alpha.cpp/1.1/Tue Sep  8 20:08:45 2020//
+/color_convert_hsl.cpp/1.1/Tue Sep  8 20:08:45 2020//
+/color_convert_hsv.cpp/1.1/Tue Sep  8 20:08:45 2020//
+/color_convert_lab.cpp/1.1/Tue Sep  8 20:08:45 2020//
+/color_convert_luminance.cpp/1.1/Tue Sep  8 20:08:45 2020//
+/color_convert_xyz.cpp/1.1/Tue Sep  8 20:08:45 2020//
+/get_num_bits.cpp/1.1/Tue Sep  8 20:08:45 2020//
+/get_pixel_type.cpp/1.1/Tue Sep  8 20:08:45 2020//
+/indexed_image.cpp/1.1/Tue Sep  8 20:08:45 2020//
+/is_bit_aligned.cpp/1.1/Tue Sep  8 20:08:45 2020//
+/is_homogeneous.cpp/1.1/Tue Sep  8 20:08:45 2020//
+/pixel_bit_size.cpp/1.1/Tue Sep  8 20:08:45 2020//
+/subchroma_image.cpp/1.1/Tue Sep  8 20:08:45 2020//
+D

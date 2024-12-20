@@ -1,0 +1,10 @@
+/Jamfile////*////
+/quick_start.cpp////*////
+D/algorithms////////
+D/arithmetic////////
+D/core////////
+D/examples_utils////////
+D/geometries////////
+D/io////////
+D/strategies////////
+D/views////////

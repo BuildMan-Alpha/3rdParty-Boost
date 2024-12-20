@@ -1,0 +1,66 @@
+/arithmetic.html/1.1/Tue Sep  8 19:36:33 2020//
+/array.html/1.1/Tue Sep  8 19:36:33 2020//
+/assert_msg.html/1.1/Tue Sep  8 19:36:33 2020//
+/cat.html/1.1/Tue Sep  8 19:36:33 2020//
+/comma.html/1.1/Tue Sep  8 19:36:33 2020//
+/comma_if.html/1.1/Tue Sep  8 19:36:33 2020//
+/comparison.html/1.1/Tue Sep  8 19:36:33 2020//
+/control.html/1.1/Tue Sep  8 19:36:33 2020//
+/debug.html/1.1/Tue Sep  8 19:36:33 2020//
+/dec.html/1.1/Tue Sep  8 19:36:33 2020//
+/empty.html/1.1/Tue Sep  8 19:36:33 2020//
+/enum.html/1.1/Tue Sep  8 19:36:33 2020//
+/enum_params.html/1.1/Tue Sep  8 19:36:33 2020//
+/enum_shifted.html/1.1/Tue Sep  8 19:36:33 2020//
+/enum_shifted_params.html/1.1/Tue Sep  8 19:36:33 2020//
+/epwad.html/1.1/Tue Sep  8 19:36:33 2020//
+/epwd.html/1.1/Tue Sep  8 19:36:33 2020//
+/expand.html/1.1/Tue Sep  8 19:36:33 2020//
+/expr_if.html/1.1/Tue Sep  8 19:36:33 2020//
+/facilities.html/1.1/Tue Sep  8 19:36:33 2020//
+/for.html/1.1/Tue Sep  8 19:36:33 2020//
+/identity.html/1.1/Tue Sep  8 19:36:33 2020//
+/if.html/1.1/Tue Sep  8 19:36:33 2020//
+/inc.html/1.1/Tue Sep  8 19:36:33 2020//
+/iterate.html/1.1/Tue Sep  8 19:36:33 2020//
+/iteration.html/1.1/Tue Sep  8 19:36:33 2020//
+/library.html/1.1/Tue Sep  8 19:36:33 2020//
+/limits.html/1.1/Tue Sep  8 19:36:33 2020//
+/list.html/1.1/Tue Sep  8 19:36:33 2020//
+/logical.html/1.1/Tue Sep  8 19:36:33 2020//
+/max.html/1.1/Tue Sep  8 19:36:33 2020//
+/min.html/1.1/Tue Sep  8 19:36:33 2020//
+/preprocessor.html/1.1/Tue Sep  8 19:36:33 2020//
+/punctuation.html/1.1/Tue Sep  8 19:36:33 2020//
+/repeat.html/1.1/Tue Sep  8 19:36:33 2020//
+/repeat_2nd.html/1.1/Tue Sep  8 19:36:33 2020//
+/repeat_3rd.html/1.1/Tue Sep  8 19:36:33 2020//
+/repeat_from_to.html/1.1/Tue Sep  8 19:36:33 2020//
+/repeat_from_to_2nd.html/1.1/Tue Sep  8 19:36:33 2020//
+/repeat_from_to_3rd.html/1.1/Tue Sep  8 19:36:33 2020//
+/repetition.html/1.1/Tue Sep  8 19:36:33 2020//
+/selection.html/1.1/Tue Sep  8 19:36:33 2020//
+/seq.html/1.1/Tue Sep  8 19:36:33 2020//
+/slot.html/1.1/Tue Sep  8 19:36:33 2020//
+/stringize.html/1.1/Tue Sep  8 19:36:33 2020//
+/tuple.html/1.1/Tue Sep  8 19:36:33 2020//
+/variadic.html/1.1/Tue Sep  8 19:36:33 2020//
+/while.html/1.1/Tue Sep  8 19:36:33 2020//
+/wstringize.html/1.1/Tue Sep  8 19:36:33 2020//
+D/arithmetic////
+D/array////
+D/comparison////
+D/config////
+D/control////
+D/debug////
+D/facilities////
+D/iteration////
+D/list////
+D/logical////
+D/punctuation////
+D/repetition////
+D/selection////
+D/seq////
+D/slot////
+D/tuple////
+D/variadic////

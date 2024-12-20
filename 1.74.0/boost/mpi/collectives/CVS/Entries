@@ -1,0 +1,12 @@
+/all_gather.hpp/1.1/Tue Sep  8 16:12:33 2020//
+/all_gatherv.hpp/1.1/Tue Sep  8 16:12:33 2020//
+/all_reduce.hpp/1.1/Tue Sep  8 16:12:33 2020//
+/all_to_all.hpp/1.1/Tue Sep  8 16:12:33 2020//
+/broadcast.hpp/1.1/Tue Sep  8 16:12:33 2020//
+/gather.hpp/1.1/Tue Sep  8 16:12:33 2020//
+/gatherv.hpp/1.1/Tue Sep  8 16:12:33 2020//
+/reduce.hpp/1.1/Tue Sep  8 16:12:33 2020//
+/scan.hpp/1.1/Tue Sep  8 16:12:33 2020//
+/scatter.hpp/1.1/Tue Sep  8 16:12:33 2020//
+/scatterv.hpp/1.1/Tue Sep  8 16:12:33 2020//
+D

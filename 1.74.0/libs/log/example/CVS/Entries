@@ -1,0 +1,17 @@
+/Jamfile.v2/1.1/Tue Sep  8 20:24:19 2020//
+D/advanced_usage////
+D/async_log////
+D/basic_usage////
+D/bounded_async_log////
+D/doc////
+D/event_log////
+D/keywords////
+D/multiple_files////
+D/multiple_threads////
+D/native_syslog////
+D/rotating_file////
+D/settings_file////
+D/settings_file_custom_factories////
+D/syslog////
+D/trivial////
+D/wide_char////

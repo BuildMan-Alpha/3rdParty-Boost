@@ -1,0 +1,14 @@
+/Jamfile////*////
+/access.cpp////*////
+/assert.cpp////*////
+/coordinate_dimension.cpp////*////
+/coordinate_system.cpp////*////
+/coordinate_type.cpp////*////
+/geometry_id.cpp////*////
+/point_type.cpp////*////
+/radian_access.cpp////*////
+/radius.cpp////*////
+/reverse_dispatch.cpp////*////
+/ring.cpp////*////
+/tag.cpp////*////
+/topological_dimension.cpp////*////

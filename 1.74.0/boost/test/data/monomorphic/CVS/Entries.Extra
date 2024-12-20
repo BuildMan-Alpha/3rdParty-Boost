@@ -1,0 +1,13 @@
+/array.hpp////*////
+/collection.hpp////*////
+/delayed.hpp////*////
+/fwd.hpp////*////
+/generate.hpp////*////
+/generators.hpp////*////
+/grid.hpp////*////
+/initializer_list.hpp////*////
+/join.hpp////*////
+/sample_merge.hpp////*////
+/singleton.hpp////*////
+/zip.hpp////*////
+D/generators////////

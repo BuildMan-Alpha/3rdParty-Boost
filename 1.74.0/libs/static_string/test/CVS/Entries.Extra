@@ -1,0 +1,5 @@
+/CMakeLists.txt////*////
+/Jamfile////*////
+/compile_fail.hpp////*////
+/constexpr_tests.hpp////*////
+/static_string.cpp////*////

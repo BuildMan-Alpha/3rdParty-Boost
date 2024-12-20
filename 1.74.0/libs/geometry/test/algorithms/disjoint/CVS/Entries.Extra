@@ -1,0 +1,14 @@
+/Jamfile////*////
+/disjoint.cpp////*////
+/disjoint_coverage_a_a.cpp////*////
+/disjoint_coverage_l_a.cpp////*////
+/disjoint_coverage_l_l.cpp////*////
+/disjoint_coverage_p_a.cpp////*////
+/disjoint_coverage_p_l.cpp////*////
+/disjoint_coverage_p_p.cpp////*////
+/disjoint_multi.cpp////*////
+/disjoint_point_box_geometry.cpp////*////
+/disjoint_seg_box.cpp////*////
+/disjoint_sph.cpp////*////
+/test_disjoint.hpp////*////
+/test_disjoint_seg_box.hpp////*////

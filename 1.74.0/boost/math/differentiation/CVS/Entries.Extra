@@ -1,0 +1,4 @@
+/autodiff.hpp////*////
+/autodiff_cpp11.hpp////*////
+/finite_difference.hpp////*////
+/lanczos_smoothing.hpp////*////

@@ -1,0 +1,17 @@
+/assertions_severity_levels.qbk////*////
+/boost_test_bitwise_comparison.qbk////*////
+/boost_test_collection_comparison.qbk////*////
+/boost_test_debugging.qbk////*////
+/boost_test_reported_information.qbk////*////
+/boost_test_string_comparison.qbk////*////
+/boost_test_technical_details.qbk////*////
+/boost_test_universal_macro.qbk////*////
+/custom_predicates.qbk////*////
+/expected_failures.qbk////*////
+/testing_exception_correctness.qbk////*////
+/testing_floating_points.qbk////*////
+/testing_output_streams.qbk////*////
+/testing_tools.qbk////*////
+/testing_tools_reference.qbk////*////
+/testing_tools_summary.qbk////*////
+/timeout.qbk////*////

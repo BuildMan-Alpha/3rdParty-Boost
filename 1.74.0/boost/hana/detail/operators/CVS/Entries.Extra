@@ -1,0 +1,8 @@
+/adl.hpp////*////
+/arithmetic.hpp////*////
+/comparable.hpp////*////
+/iterable.hpp////*////
+/logical.hpp////*////
+/monad.hpp////*////
+/orderable.hpp////*////
+/searchable.hpp////*////

@@ -1,0 +1,15 @@
+/CMakeLists.txt////*////
+/Jamfile////*////
+/TODO.md////*////
+/algorithm_channel_arithmetic.cpp////*////
+/algorithm_channel_convert.cpp////*////
+/algorithm_channel_invert.cpp////*////
+/algorithm_channel_multiply.cpp////*////
+/algorithm_channel_relation.cpp////*////
+/channel_traits.cpp////*////
+/concepts.cpp////*////
+/is_channel_integral.cpp////*////
+/packed_channel_value.cpp////*////
+/scoped_channel_value.cpp////*////
+/test_fixture.cpp////*////
+/test_fixture.hpp////*////

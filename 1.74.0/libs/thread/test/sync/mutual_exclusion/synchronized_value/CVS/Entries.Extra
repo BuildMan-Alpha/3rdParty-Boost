@@ -1,0 +1,14 @@
+/call_pass.cpp////*////
+/copy_T_assign_pass.cpp////*////
+/copy_T_ctor_pass.cpp////*////
+/copy_assign_pass.cpp////*////
+/copy_ctor_pass.cpp////*////
+/default_ctor_pass.cpp////*////
+/indirect_pass.cpp////*////
+/move_T_assign_pass.cpp////*////
+/move_T_ctor_pass.cpp////*////
+/move_assign_pass.cpp////*////
+/move_ctor_pass.cpp////*////
+/swap_T_pass.cpp////*////
+/swap_pass.cpp////*////
+/synchronize_pass.cpp////*////

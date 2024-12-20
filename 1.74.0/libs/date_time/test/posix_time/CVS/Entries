@@ -1,0 +1,22 @@
+/testc_local_adjustor.cpp/1.1/Tue Sep  8 20:02:32 2020//
+/testclock.cpp/1.1/Tue Sep  8 20:02:32 2020//
+/testdst_rules.cpp/1.1/Tue Sep  8 20:02:32 2020//
+/testduration.cpp/1.1/Tue Sep  8 20:02:32 2020//
+/testfiletime_functions.cpp/1.1/Tue Sep  8 20:02:32 2020//
+/testformatters.cpp/1.1/Tue Sep  8 20:02:32 2020//
+/testgreg_duration_operators.cpp/1.1/Tue Sep  8 20:02:32 2020//
+/testiterator.cpp/1.1/Tue Sep  8 20:02:32 2020//
+/testlocal_adjustor.cpp/1.1/Tue Sep  8 20:02:32 2020//
+/testmicrosec_time_clock.cpp/1.1/Tue Sep  8 20:02:32 2020//
+/testparse_time.cpp/1.1/Tue Sep  8 20:02:32 2020//
+/testperiod.cpp/1.1/Tue Sep  8 20:02:32 2020//
+/teststreams.cpp/1.1/Tue Sep  8 20:02:32 2020//
+/testtime.cpp/1.1/Tue Sep  8 20:02:32 2020//
+/testtime_facet.cpp/1.1/Tue Sep  8 20:02:32 2020//
+/testtime_formatters.cpp/1.1/Tue Sep  8 20:02:32 2020//
+/testtime_input_facet.cpp/1.1/Tue Sep  8 20:02:32 2020//
+/testtime_period.cpp/1.1/Tue Sep  8 20:02:32 2020//
+/testtime_serialize.cpp/1.1/Tue Sep  8 20:02:32 2020//
+/testtime_serialize_versioning.cpp/1.1/Tue Sep  8 20:02:32 2020//
+/testtime_wstream.cpp/1.1/Tue Sep  8 20:02:32 2020//
+D/compile_fail////

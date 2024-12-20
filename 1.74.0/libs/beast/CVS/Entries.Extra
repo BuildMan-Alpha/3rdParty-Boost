@@ -1,0 +1,13 @@
+/CHANGELOG.md////*////
+/CMakeLists.txt////*////
+/CONTRIBUTING.md////*////
+/Jamfile////*////
+/LICENSE_1_0.txt////*////
+/README.md////*////
+/azure-pipelines.yml////*////
+/index.html////*////
+D/doc////////
+D/example////////
+D/meta////////
+D/test////////
+D/tools////////

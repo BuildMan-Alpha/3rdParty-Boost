@@ -1,0 +1,13 @@
+/accumulate.hpp////*////
+/accumulate_fwd.hpp////*////
+/fold.hpp////*////
+/fold_fwd.hpp////*////
+/for_each.hpp////*////
+/for_each_fwd.hpp////*////
+/iter_fold.hpp////*////
+/iter_fold_fwd.hpp////*////
+/reverse_fold.hpp////*////
+/reverse_fold_fwd.hpp////*////
+/reverse_iter_fold.hpp////*////
+/reverse_iter_fold_fwd.hpp////*////
+D/detail////////

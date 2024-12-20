@@ -1,0 +1,9 @@
+/make_ready_future_pass.cpp////*////
+/test_allocator.hpp////*////
+D/async////////
+D/future////////
+D/packaged_task////////
+D/promise////////
+D/shared_future////////
+D/when_all////////
+D/when_any////////

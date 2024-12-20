@@ -1,0 +1,42 @@
+/CMakeLists.txt/1.1/Tue Sep  8 20:12:53 2020//
+/Jamfile.v2/1.1/Tue Sep  8 20:12:53 2020//
+/builtin_array.cpp/1.1/Tue Sep  8 20:12:53 2020//
+/comparable.cpp/1.1/Tue Sep  8 20:12:53 2020//
+/euclidean_ring.cpp/1.1/Tue Sep  8 20:12:53 2020//
+/functional.cpp/1.1/Tue Sep  8 20:12:53 2020//
+/group.cpp/1.1/Tue Sep  8 20:12:53 2020//
+/index_if.cpp/1.1/Tue Sep  8 20:12:53 2020//
+/lazy.cpp/1.1/Tue Sep  8 20:12:53 2020//
+/logical.cpp/1.1/Tue Sep  8 20:12:53 2020//
+/minimal_product.cpp/1.1/Tue Sep  8 20:12:53 2020//
+/monoid.cpp/1.1/Tue Sep  8 20:12:53 2020//
+/orderable.cpp/1.1/Tue Sep  8 20:12:53 2020//
+/repeat.cpp/1.1/Tue Sep  8 20:12:53 2020//
+/ring.cpp/1.1/Tue Sep  8 20:12:53 2020//
+/searchable.cpp/1.1/Tue Sep  8 20:12:53 2020//
+D/_include////
+D/assert////
+D/basic_tuple////
+D/concept////
+D/core////
+D/deploy////
+D/detail////
+D/experimental////
+D/ext////
+D/fold_left////
+D/fold_right////
+D/foldable////
+D/functional////
+D/identity////
+D/if_////
+D/integral_constant////
+D/issues////
+D/map////
+D/numeric////
+D/optional////
+D/pair////
+D/range////
+D/set////
+D/string////
+D/tuple////
+D/type////

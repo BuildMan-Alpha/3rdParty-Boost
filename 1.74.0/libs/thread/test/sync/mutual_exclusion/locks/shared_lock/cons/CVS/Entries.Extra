@@ -1,0 +1,13 @@
+/adopt_lock_pass.cpp////*////
+/copy_assign_fail.cpp////*////
+/copy_ctor_fail.cpp////*////
+/default_pass.cpp////*////
+/defer_lock_pass.cpp////*////
+/duration_pass.cpp////*////
+/move_assign_pass.cpp////*////
+/move_ctor_pass.cpp////*////
+/move_ctor_unique_lock_pass.cpp////*////
+/move_ctor_upgrade_lock_pass.cpp////*////
+/mutex_pass.cpp////*////
+/time_point_pass.cpp////*////
+/try_to_lock_pass.cpp////*////

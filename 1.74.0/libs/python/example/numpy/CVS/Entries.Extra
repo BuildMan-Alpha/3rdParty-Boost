@@ -1,0 +1,9 @@
+/Jamfile////*////
+/demo_gaussian.py////*////
+/dtype.cpp////*////
+/fromdata.cpp////*////
+/gaussian.cpp////*////
+/ndarray.cpp////*////
+/simple.cpp////*////
+/ufunc.cpp////*////
+/wrap.cpp////*////

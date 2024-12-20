@@ -1,0 +1,26 @@
+/00_optional.qbk/1.1/Tue Sep  8 19:36:23 2020//
+/01_quick_start.qbk/1.1/Tue Sep  8 19:36:23 2020//
+/10_motivation.qbk/1.1/Tue Sep  8 19:36:23 2020//
+/11_development.qbk/1.1/Tue Sep  8 19:36:23 2020//
+/12_when_to_use.qbk/1.1/Tue Sep  8 19:36:23 2020//
+/13_relational_operators.qbk/1.1/Tue Sep  8 19:36:23 2020//
+/14_io.qbk/1.1/Tue Sep  8 19:36:23 2020//
+/15_optional_references.qbk/1.1/Tue Sep  8 19:36:23 2020//
+/16_in_place_factories.qbk/1.1/Tue Sep  8 19:36:23 2020//
+/17_gotchas.qbk/1.1/Tue Sep  8 19:36:23 2020//
+/18_exception_safety.qbk/1.1/Tue Sep  8 19:36:23 2020//
+/19_type_requirements.qbk/1.1/Tue Sep  8 19:36:23 2020//
+/1A_on_performance.qbk/1.1/Tue Sep  8 19:36:23 2020//
+/21_ref_none.qbk/1.1/Tue Sep  8 19:36:23 2020//
+/22_ref_bad_optional_access.qbk/1.1/Tue Sep  8 19:36:23 2020//
+/23_ref_optional_io.qbk/1.1/Tue Sep  8 19:36:23 2020//
+/24_ref_optional_fwd.qbk/1.1/Tue Sep  8 19:36:23 2020//
+/27_ref_optional_synopsis.qbk/1.1/Tue Sep  8 19:36:23 2020//
+/28_ref_optional_semantics.qbk/1.1/Tue Sep  8 19:36:23 2020//
+/29_ref_optional_convenience.qbk/1.1/Tue Sep  8 19:36:23 2020//
+/90_dependencies.qbk/1.1/Tue Sep  8 19:36:23 2020//
+/91_relnotes.qbk/1.1/Tue Sep  8 19:36:23 2020//
+/92_acknowledgments.qbk/1.1/Tue Sep  8 19:36:23 2020//
+/Jamfile.v2/1.1/Tue Sep  8 19:36:23 2020//
+D/html////
+D/images////

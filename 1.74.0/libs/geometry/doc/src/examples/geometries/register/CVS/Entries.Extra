@@ -1,0 +1,13 @@
+/Jamfile////*////
+/box.cpp////*////
+/box_2d_4values.cpp////*////
+/box_templated.cpp////*////
+/linestring.cpp////*////
+/linestring_templated.cpp////*////
+/multi_linestring.cpp////*////
+/multi_point.cpp////*////
+/multi_point_templated.cpp////*////
+/multi_polygon.cpp////*////
+/point.cpp////*////
+/ring.cpp////*////
+/ring_templated.cpp////*////

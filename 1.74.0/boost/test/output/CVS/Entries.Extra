@@ -1,0 +1,5 @@
+/compiler_log_formatter.hpp////*////
+/junit_log_formatter.hpp////*////
+/plain_report_formatter.hpp////*////
+/xml_log_formatter.hpp////*////
+/xml_report_formatter.hpp////*////

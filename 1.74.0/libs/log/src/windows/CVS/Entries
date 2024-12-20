@@ -1,0 +1,14 @@
+/auto_handle.hpp/1.1/Tue Sep  8 20:24:24 2020//
+/debug_output_backend.cpp/1.1/Tue Sep  8 20:24:24 2020//
+/event_log_backend.cpp/1.1/Tue Sep  8 20:24:24 2020//
+/event_log_registry.hpp/1.1/Tue Sep  8 20:24:24 2020//
+/ipc_reliable_message_queue.cpp/1.1/Tue Sep  8 20:24:24 2020//
+/ipc_sync_wrappers.cpp/1.1/Tue Sep  8 20:24:24 2020//
+/ipc_sync_wrappers.hpp/1.1/Tue Sep  8 20:24:24 2020//
+/light_rw_mutex.cpp/1.1/Tue Sep  8 20:24:24 2020//
+/mapped_shared_memory.cpp/1.1/Tue Sep  8 20:24:24 2020//
+/mapped_shared_memory.hpp/1.1/Tue Sep  8 20:24:24 2020//
+/object_name.cpp/1.1/Tue Sep  8 20:24:24 2020//
+/simple_event_log.mc/1.1/Tue Sep  8 20:24:24 2020//
+/utf_code_conversion.hpp/1.1/Tue Sep  8 20:24:24 2020//
+D

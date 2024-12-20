@@ -1,0 +1,22 @@
+/auto_buffer.hpp/1.1/Tue Sep  8 16:09:56 2020//
+/foreign_ptr.hpp/1.1/Tue Sep  8 16:09:56 2020//
+/lwm_nop.hpp/1.1/Tue Sep  8 16:09:56 2020//
+/lwm_pthreads.hpp/1.1/Tue Sep  8 16:09:56 2020//
+/lwm_win32_cs.hpp/1.1/Tue Sep  8 16:09:56 2020//
+/null_output_iterator.hpp/1.1/Tue Sep  8 16:09:56 2020//
+/preprocessed_arg_type.hpp/1.1/Tue Sep  8 16:09:56 2020//
+/preprocessed_arg_type_template.hpp/1.1/Tue Sep  8 16:09:56 2020//
+/replace_slot_function.hpp/1.1/Tue Sep  8 16:09:56 2020//
+/result_type_wrapper.hpp/1.1/Tue Sep  8 16:09:56 2020//
+/scope_guard.hpp/1.1/Tue Sep  8 16:09:56 2020//
+/signal_template.hpp/1.1/Tue Sep  8 16:09:56 2020//
+/signals_common.hpp/1.1/Tue Sep  8 16:09:56 2020//
+/signals_common_macros.hpp/1.1/Tue Sep  8 16:09:56 2020//
+/slot_call_iterator.hpp/1.1/Tue Sep  8 16:09:56 2020//
+/slot_groups.hpp/1.1/Tue Sep  8 16:09:56 2020//
+/slot_template.hpp/1.1/Tue Sep  8 16:09:56 2020//
+/tracked_objects_visitor.hpp/1.1/Tue Sep  8 16:09:56 2020//
+/unique_lock.hpp/1.1/Tue Sep  8 16:09:56 2020//
+/variadic_arg_type.hpp/1.1/Tue Sep  8 16:09:56 2020//
+/variadic_slot_invoker.hpp/1.1/Tue Sep  8 16:09:56 2020//
+D

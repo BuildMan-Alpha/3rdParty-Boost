@@ -1,0 +1,47 @@
+/Jamfile.v2/1.1/Tue Sep  8 19:36:19 2020//
+/abm_precision.cpp/1.1/Tue Sep  8 19:36:19 2020//
+/adaptive_iterator.cpp/1.1/Tue Sep  8 19:36:19 2020//
+/bind_member_functions.cpp/1.1/Tue Sep  8 19:36:19 2020//
+/bind_member_functions_cpp11.cpp/1.1/Tue Sep  8 19:36:19 2020//
+/bulirsch_stoer.cpp/1.1/Tue Sep  8 19:36:19 2020//
+/chaotic_system.cpp/1.1/Tue Sep  8 19:36:19 2020//
+/const_step_iterator.cpp/1.1/Tue Sep  8 19:36:19 2020//
+/elliptic.py/1.1/Tue Sep  8 19:36:19 2020//
+/elliptic_functions.cpp/1.1/Tue Sep  8 19:36:19 2020//
+/find_crossing.cpp/1.1/Tue Sep  8 19:36:19 2020//
+/fpu.cpp/1.1/Tue Sep  8 19:36:19 2020//
+/generation_functions.cpp/1.1/Tue Sep  8 19:36:19 2020//
+/gram_schmidt.hpp/1.1/Tue Sep  8 19:36:19 2020//
+/harmonic_oscillator.cpp/1.1/Tue Sep  8 19:36:19 2020//
+/harmonic_oscillator_units.cpp/1.1/Tue Sep  8 19:36:19 2020//
+/heun.cpp/1.1/Tue Sep  8 19:36:19 2020//
+/integrate_times.cpp/1.1/Tue Sep  8 19:36:19 2020//
+/list_lattice.cpp/1.1/Tue Sep  8 19:36:19 2020//
+/lorenz.cpp/1.1/Tue Sep  8 19:36:19 2020//
+/lorenz_point.cpp/1.1/Tue Sep  8 19:36:19 2020//
+/molecular_dynamics.cpp/1.1/Tue Sep  8 19:36:19 2020//
+/molecular_dynamics_cells.cpp/1.1/Tue Sep  8 19:36:19 2020//
+/my_vector.cpp/1.1/Tue Sep  8 19:36:19 2020//
+/phase_oscillator_ensemble.cpp/1.1/Tue Sep  8 19:36:19 2020//
+/point_type.hpp/1.1/Tue Sep  8 19:36:19 2020//
+/resizing_lattice.cpp/1.1/Tue Sep  8 19:36:19 2020//
+/simple1d.cpp/1.1/Tue Sep  8 19:36:19 2020//
+/solar_system.agr/1.1/Tue Sep  8 19:36:19 2020//
+/solar_system.cpp/1.1/Tue Sep  8 19:36:19 2020//
+/stepper_details.cpp/1.1/Tue Sep  8 19:36:19 2020//
+/stiff_system.cpp/1.1/Tue Sep  8 19:36:19 2020//
+/stochastic_euler.cpp/1.1/Tue Sep  8 19:36:19 2020//
+/stuart_landau.cpp/1.1/Tue Sep  8 19:36:19 2020//
+/two_dimensional_phase_lattice.cpp/1.1/Tue Sep  8 19:36:19 2020//
+/van_der_pol_stiff.cpp/1.1/Tue Sep  8 19:36:19 2020//
+D/2d_lattice////
+D/gmpxx////
+D/mpi////
+D/mtl////
+D/multiprecision////
+D/nt2////
+D/openmp////
+D/quadmath////
+D/thrust////
+D/ublas////
+D/vexcl////

@@ -1,0 +1,11 @@
+/buffer_iterator.hpp////*////
+/constant_buffer_iterator.hpp////*////
+/constant_iterator.hpp////*////
+/counting_iterator.hpp////*////
+/discard_iterator.hpp////*////
+/function_input_iterator.hpp////*////
+/permutation_iterator.hpp////*////
+/strided_iterator.hpp////*////
+/transform_iterator.hpp////*////
+/zip_iterator.hpp////*////
+D/detail////////

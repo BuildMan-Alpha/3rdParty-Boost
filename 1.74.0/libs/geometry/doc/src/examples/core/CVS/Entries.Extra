@@ -1,0 +1,17 @@
+/Jamfile////*////
+/closure.cpp////*////
+/coordinate_dimension.cpp////*////
+/coordinate_system.cpp////*////
+/coordinate_type.cpp////*////
+/degree_radian.cpp////*////
+/get_box.cpp////*////
+/get_point.cpp////*////
+/interior_type.cpp////*////
+/point_order.cpp////*////
+/point_type.cpp////*////
+/ring_type.cpp////*////
+/rings.cpp////*////
+/set_box.cpp////*////
+/set_point.cpp////*////
+/tag.cpp////*////
+/tag_cast.cpp////*////
